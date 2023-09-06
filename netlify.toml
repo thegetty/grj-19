@@ -3,10 +3,8 @@
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
 [build]
-publish = "index.html"
 command = ""
 
 # Settings for a `forthcoming` branch, which is just a static page
 [context.forthcoming]
-publish = "index.html"
 command = ""
