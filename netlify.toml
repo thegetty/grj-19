@@ -3,8 +3,10 @@
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
 [build]
-command = ""
+publish = "_site"
+command = "npx @thegetty/quire-cli@1.0.0-rc.10 build"
 
 # Settings for a `forthcoming` branch, which is just a static page
 [context.forthcoming]
+publish = ""
 command = ""
