@@ -1,4 +1,6 @@
 # Netlify Deploy
+# 1. Confirm "build:netlify" command is included in themes/default/package.json
+# 2. Set params.runTests: false in config/environments/netlify.yml
 
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
@@ -6,7 +8,19 @@
 publish = "_site"
 command = "npx @thegetty/quire-cli@1.0.0-rc.10 build"
 
+[build.environment]
+NODE_VERSION = "18.16.0"
+NODE_OPTIONS = "--max-old-space-size=8192"
+
+# These two GIT_LFS variables need to be added to the project’s
+# Deploy Settings in the Netlify UI, under Environment Variables:
+# https://app.netlify.com/sites/<your-subdomain-here>/settings/deploys#environment
+GIT_LFS_ENABLED = "true"
+GIT_LFS_FETCH_INCLUDE = "*.jpg,*.png,*.gif,*.epub,*.pdf"
+
 # Settings for a `forthcoming` branch, which is just a static page
-[context.production]
+# They may also need to be cleared in the Netlify UI:
+# https://app.netlify.com/sites/<your-subdomain-here>/settings/deploys#build-settings
+[context.forthcoming]
 publish = ""
 command = ""
