@@ -7,6 +7,6 @@ publish = "_site"
 command = "npx @thegetty/quire-cli@1.0.0-rc.10 build"
 
 # Settings for a `forthcoming` branch, which is just a static page
-[context.forthcoming]
+[context.production]
 publish = ""
 command = ""
