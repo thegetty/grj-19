@@ -6,7 +6,7 @@ order: 15
 contributor: 
   - first_name: "Beatrice"  
     last_name: "Alai"
-    bio: "Beatrice Alai is currently affiliated with the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Deutsche Forschungsgemeinschaft project Capturing Biographies: Materiality, Mobility and Agency of the Illuminated Fragments Collection at the Germanisches Nationalmuseum in Nuremberg.
+    bio: "Beatrice Alai is currently affiliated with the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Deutsche Forschungsgemeinschaft project Capturing Biographies: Materiality, Mobility and Agency of the Illuminated Fragments Collection at the Germanisches Nationalmuseum in Nuremberg."
   - first_name: "Peter"  
     last_name: "Kidd"
     bio: "Peter Kidd has been a freelance researcher and cataloger of medieval manuscripts since 2006; before that he worked at the Bodleian Library, Oxford, and the British Library, London."
