@@ -4,7 +4,8 @@ short_title:
 layout: "essay"
 order: 40
 contributor: 
-  - id: jpestarino
+  - first_name: Julieta  
+    last_name: Pestarino
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Julieta Pestarino"
 abstract:
 ---
