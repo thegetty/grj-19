@@ -47,69 +47,18 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: dchen
+  - id: dchon
     type: primary
     first_name: Doris
-    last_name: Chen
-    title: 
-    affiliation: 
-    bio: 
-  - id: msahragard
+    last_name: Chon
+    title: Editor
+    affiliation: Getty Research Journal
+  - id: lgendler
     type: primary
-    first_name: Mahdi
-    last_name: Sahragard
-    title: 
-    affiliation: 
-    bio: 
-  - id: balai 
-    type: primary
-    first_name: Beatrice  
-    last_name: Alai
-    title: 
-    affiliation: 
-    bio: 
-  - id: pkidd 
-    type: primary
-    first_name: Peter  
-    last_name: Kidd
-    title: 
-    affiliation: 
-    bio: 
-  - id: koverton 
-    type: primary
-    first_name: Keelan  
-    last_name: Overton
-    title: 
-    affiliation: 
-    bio: 
-  - id: alenssen 
-    type: primary
-    first_name: Anneka  
-    last_name: Lenssen
-    title: 
-    affiliation: 
-    bio: 
-  - id: ahorakova  
-    type: primary
-    first_name: Anna   
-    last_name: Horakova
-    title: 
-    affiliation: 
-    bio: 
-  - id: ipoggi 
-    type: primary
-    first_name: Isotta  
-    last_name: Poggi
-    title: 
-    affiliation: 
-    bio: 
-  - id: jpestarino
-    type: primary
-    first_name: Julieta  
-    last_name: Pestarino
-    title: 
-    affiliation: 
-    bio: 
+    first_name: Lauren
+    last_name: Gendler
+    title: Managing Editor
+    affiliation: Getty Research Journal
 
 # ------------------------------------------------------------------------------
 # Copright & License
