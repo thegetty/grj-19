@@ -123,11 +123,11 @@ number of its letters
 
 fifteen thousand eight hundred forty
 
-{% figure 'fig-1-1' %}
+[[ figure 'fig-1-1' ]]
 
 This is part of a longer text, called briefly “verse count,” in which the numbers of the Qurʼan’s chapters (*sura*s), words, and letters are expressed. Such text has been assumed to be a feature of Iranian Qurʼans,[^17] the most well-known of which is the Ibn al-Bawwab Qurʼan of 1001 now in the collection of the Chester Beatty Library in Dublin (Is. 1431).[^18] Yet, the most ancient manuscript on paper is three volumes of a fourteen-part Qurʼan written in the vertical format in New style in 327 AH/939 CE, which, according to the autograph of its scribe, was copied in Isfahan ([fig. 2](#fig-1-2)). This Qurʼan was endowed to the Imam Reza Shrine in the early tenth century by a person named Kashvād b. Amlās.[^19] In the beginning of the manuscript (folios 1r, 2v), the verse count and the date and place of copying are written in golden Early Abbasid script on two leaves.[^20]
 
-{% figure 'fig-1-2' %}
+[[ figure 'fig-1-2' ]]
 
 This information was also expressed in a four-volume Qurʼan in the horizontal format that was endowed to ʾalā al-Dīn Mosque in Konya, Turkey. Its scribe, Ahmad b. Muhammad b. Yāsīn, copied it in 383 AH/993 CE in Isfahan (TIEM, nos. 453–56). According to its precise calligraphy and conspicuous golden decorations, it was probably produced under the patronage of the courtiers of the Buyyid dynasty (945–1055 CE).[^21] The numbers of its chapters, words, and letters are written in circles inside a horizontal rectangular panel. Scholar of Islamic art Yasser Tabbaa lists and illustrates other manuscripts containing tables with verse counts.[^22] In the Getty Qurʼan, the rectangular panel on the front of the leaf (recto) is divided into two squares, each containing a circle. The four sets of intersecting lines radiating into the center of the circle intersect and form a diamond in the center of the circle. The surface decoration of the panel is totally overlaid with gold. The chain-like pattern of its margins and the ornamental dots of the background are all outlined in brown. This structure can also be seen in certain Qurʼan manuscripts copied in Abbasid style, an example of which is a fragment including *al-ḍuḥā* (Qur’an 93) to the end of the Qurʼan, written in Early Abbasid style, kept in the Chester Beatty Library.[^23] The Chester Beatty manuscript includes two such illuminated leaves at its beginning and at its end. On each of these leaves, as was described for Getty folio 10 above, is a rectangular panel made up of two square frames divided by four triangles (*lachak*). On the other leaves of the Getty fragments, as previously described, the text is written in five lines in gold. Each word or letter is outlined in brown ink to make it distinct from the background.
 
@@ -135,13 +135,13 @@ The *harakāt*, or diacritics marking short vowels, are shown by small circular 
 
 Nunnation (*tanvīn*) in this Qurʼan is shown by two red dots. *Shadda* (a diacritic for doubling a consonant) is shown by a light-blue dot. There are no signs for *maddah* (long vowel) or the *hamza* (glottal stop). Because the light blue is the same one used in the illumination, the diacritics seem to have been inserted at the time when the manuscript was being copied. But the dots in dark blue otherwise surrounding the letters were inserted at a later time to complete diacritics or to demonstrate other modes of recitation (*qirāʾāt*) ([fig. 3](#fig-1-3)).
 
-{% figure 'fig-1-3' %}
+[[ figure 'fig-1-3' ]]
 
 In his research on colored Arabic diacritics in Qurʼan manuscripts of the first Islamic centuries, which includes analyzing information in the book *Al-Muḥkam fī Naqt al-Maṣāḥif* (**year TK;** The Precise **\[Precision?\]** in the Dotting of the Qur’an) by Abu ʾAmr ʿUthmān b. Saʾīd al-Dānī, historian of Islamic art and architecture Alain Fouad George has deduced new features of the regional methods of applying diacritics Qurʼan texts. George summarizes his findings in a table.[^25] []According to his table, the vocalization of early Qur’ans copied in Iraq and Mashriq (a term designating the Arab east) was accomplished through the use of red dots for *fatḥa*, *kasra*, and *ḍamma*, two red dots for *tanwīn,* a red dot for hamza, and one dot after and above the *alif* for *hamza* followed by *madd*. A comparison between this table and the diacritics in the Getty Qurʼan confirms that the manuscript’s place of production is \[the historical region of Persian?\] Iraq or the eastern part of the Muslim world.
 
 In the Getty Qurʼan, the marker used for the ends of individual verses is a rosette inscribed within a blue circle with colored dots seen in many of the Abbasid Qurʼans, which was assigned the code of 3.1.4 by Déroche (see [fig. 3](#fig-1-3)).[^26] On folio 2v, the sign for the numeral five *āyah*s is a medallion inserted between the words, inside which the word “Khamsa” (five) is written and encircled by painted pudgy petals. This ornament is drawn over the last word of the *āyah* and almost conforms to group 4.A.I in Déroche’s classification.[^27] The sign for the numeral ten *āyah*s on folio 6r and 8v greatly resembles the sign for the numeral five *āyah*s; it differs in that, inside the medallion, the *āyah*’s numeral is written in Abjad letters. Plus, in the margin in front of the same line, another round medallion is drawn containing the *āyah*’s number in golden letters ([fig. 4](#fig-1-4)). In the leaves of the Getty Qurʼan, the signs for the numeral ten *āyah*s are inserted in the margin in front of line three for *āyah* 3:130 (3v), line five for *āyah* 6:120 (8v; see [fig. 4](#fig-1-4)), and line one for *āyah* 6:110 (6r).
 
-{% figure 'fig-1-4' %}
+[[ figure 'fig-1-4' ]]
 
 In the Abjad system, a number is assigned to each letter as its value. But the order of Abjad letters in the western part of the Muslim world is different from their order in the eastern part.[^28] Therefore, one of the main criteria for attributing a Qurʼan manuscript to the eastern or western part of the Muslim world is to examine the Abjad letters used for counting the *āyah*s, []as art historian Jonathan Bloom does in attributing the early Fatamid Kufic manuscript known as the Blue Qur’an to the west of the Islamic world.[^29] The signs used for the numeral ten *āyah*s on the leaves of the Getty Qur’an, however, are assigned to *āyah*s 110, 120, and 130, as shown by [ق، ی], [ق، ک] and [ق، ل] . There is no difference between the numeric value of these letters in the eastern and western Abjad systems. One folio of the Qur’an under discussion in this article in the National Library of Tunisia (Rubti 198)[^30] includes *al-hajj* (22:43–44, 22: 63–66), which has a sign for sixtieth *āyah* written with a [س], one of the variable numbers used in the more common, eastern system.
 
@@ -183,7 +183,7 @@ and illuminated it al-Abbas
 
 b\. Muhammd al-Qazvīnī
 
-{% figure 'fig-1-5' %}
+[[ figure 'fig-1-5' ]]
 
 The scribe is allegedly from Qazvīn, a city in Central Iran, located in 'Irāq-e ʾajam (Persian Iraq), or the mountainous region (Jibāl) according to the ancient geographic divisions of Iran.[^33] During most of the tenth century, this region was under the rule of the Buyyid dynasty (332–447 AH/945–1055 CE). Although the manuscript’s place of production is not noted, scholars know that, on the basis of another colophon related to a Qurʼan copied by this scribe, he is associated with the Buyyid dynasty’s court. He copied and illuminated the abovementioned Qurʼan manuscript between 387 and 391 AH/997 and 1000 CE for “Umm al-Umarā’s treasury” in Rayy.[^34]
 
@@ -191,13 +191,13 @@ Um al-Umarā or Um al-Mulūk (mother of kings) was the title of Sayyidah Malik K
 
 These characteristics are also seen in the []monumental script of another copy of the Qur’an. On the basis of its resemblance to prior manuscripts, it was most probably copied in the tenth century in Central Iran (Library of Astan Quds Razavi, no. 5015), although it is missing the date of completion and the scribe’s autograph. It is the fourth volume of a ten-volume Qurʼan in which the sura headings and the insertions on the pages’ margins are written in Early Abbasid style. Its writing and the outlining of the golden Early Abbasid are more exacting compared to other examples. In the sura heading of *al-anʾām*, the forms of letters with the vertical tooth of []medial *ʾayn* [ـعـ)] [(], the broad shape of *mīm* [(م)] , the head of *wāw* [(و)] on the baseline, and the short arms of *lā* [(لا)] conform to subgroups D.I and D.va ([fig. 6](#fig-1-6])). Some explanation about the place of the sura’s revelation is written in the same style inside the medallion beside the sura heading.
 
-{% figure 'fig-1-6' %}
+[[ figure 'fig-1-6' ]]
 
 Another example of Iranian manuscripts having lines in Abbasid style is the copy of the Qurʼan written by Ahmad b. Muhammad b. Yāsīn, dated 383 AH/993 CE (TIEM, nos. 453–56). This copy, in four volumes, is produced in the horizontal format like the Qurʼan copied by al-ʿabbās b. Muhammad al-Qazvīnī. In circles inside the panels on its beginning pages, the numbers of its suras, words, and letters are written in Early Abbasid style. But, due to the script’s small size and the imprecise outlining of words, an exact recognition of its style is not possible.
 
 The table offers a visual comparison of the main letters of the Getty Qurʼan; the main letters of the monumental scripts of the Qurʼan manuscripts written in New style in Central Iran; group D.I and D.va in Déroche’s classification ([table 1](#table-1-1)). The Getty Qurʼan’s script entirely conforms to the style of the monumental script of the Qurʼan manuscripts from Central Iran. Therefore, not only does it seem possible to attribute the production of the Getty Qurʼan to Central Iran but it is also possible to propose a strong hypothesis attributing mix of D.I and D.va script to Central Iran.
 
-{% figure 'table-1-1' %}
+[[ figure 'table-1-1' ]]
 
 ## Summary
 
