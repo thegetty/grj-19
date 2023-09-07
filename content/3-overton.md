@@ -3,8 +3,9 @@ title: "Jane Dieulafoy in Varamin: The Emamzadeh Yahya through a Nineteenth-Cent
 short_title: 
 layout: "essay"
 order: 20
-contributor: 
- - id: koverton 
+contributor:
+  - first_name: "Keelan"
+    last_name: "Overton"
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Keelan Overton"
 abstract:
 ---

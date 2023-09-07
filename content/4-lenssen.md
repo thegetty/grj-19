@@ -4,7 +4,8 @@ short_title:
 layout: "essay"
 order: 25
 contributor: 
-  - id: alenssen 
+  - first_name: Anneka  
+    last_name: Lenssen
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Anneka Lenssen"
 abstract:
 ---
