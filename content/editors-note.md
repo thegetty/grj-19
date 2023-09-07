@@ -1,7 +1,7 @@
 ---
 title: "Editor's Note"
 layout: "essay"
-order: 7
+order: 8
 contributors:
   - first_name: Doris
   - last_name: Chon
