@@ -7,6 +7,7 @@ outputs:
   - epub
   - pdf
 toc: false
+menu: false 
 ---
 
 <section class="half-title">
