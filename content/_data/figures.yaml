@@ -2,165 +2,293 @@ figure_list:
 
   - id: "fig-1-1"
     label: "Fig. 1"
-    src: 
+    src: figures/sahragard-01.jpg
     caption: "**Illuminated panel on folio 10r of the fragmentary Getty Qur’an containing the verse count plus the number of words, letters, and diacritical points.** Los Angeles, J. Paul Getty Museum, no. Ms. Ludwig X 1 (2), 83.MM.118. Digital image courtesy of Getty’s Open Content Program."
   - id: "fig-1-2"
     label: "Fig. 2"
-    src: 
+    src: figures/sahragard-02.jpg
     caption: "**Double-page spread from Qurʼan produced in Isfahan, 327 AH/939 CE, containing the verse count plus the number of words, letters, and diacritical points.** Mashhad, Library of Astān Quds Razavi, no. 3013, fols. 1v–2r."
   - id: "fig-1-3"
     label: "Fig. 3"
-    src: 
+    src: figures/sahragard-03.jpg
     caption: "**Folio 4r from the fragmentary Getty Qurʼan containing [*āyah*s?] 6:106–7; diacritics and vowel marks are shown by colored dots and medallions signify verse division.** Los Angeles, J. Paul Getty Museum, Ms. Ludwig X 1 (3), 83.MM.118. Digital image courtesy of Getty’s Open Content Program."
   - id: "fig-1-4"
     label: "Fig. 4"
-    src: 
+    src: figures/sahragard-04.jpg
     caption: "**Folio 8v (detail) from the fragmentary Getty Qurʼan containing the sign for the numeral ten *āyah*s after *āyah* 6:120, with letters [ق ک], and in the medallion in the margin, [مائة و عشرون] (a hundred and ten).** Los Angeles, J. Paul Getty Museum, Ms. Ludwig X 1 (4), 83.MM.118. Digital image courtesy of Getty’s Open Content Program."
   - id: "fig-1-5"
     label: "Fig. 5"
-    src: 
+    src: figures/sahragard-05.jpg
     caption: "**Two pages of a Qurʼan copied probably for Buyyid dynasty court by Abbās b. Muhammad al-Qazvīnī.** Mashhad, Library of Astan Quds Razavi, no. 3012, fols. 1r–2v."
   - id: "fig-1-6"
     label: "Fig. 6"
-    src: 
+    src: figures/sahragard-06.jpg
     caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qurʼan endowed to the Imam Riza Shrine.** Probably 4th century AH/10th century CE. Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
   - id: "table-1-1"
     label: "Table 1"
-    src: 
+    src: ""
     caption: "Letters in the Getty Qurʼan; in the monumental script of the Qurʼan manuscripts copied in New style; and in François Déroche’s D.I and D.va classification."
   - id: "fig-2-1"
     label: "Fig. 1"
-    src: 
+    src: figures/alai-kidd-01.jpg
     caption: "**Historiated initial *V* (*Verbum*) with the prophet Micah, ca. 1160s, tempera colors and ink, leaf: 13.7 x 13.5 cm.** Los Angeles, J. Paul Getty Museum, Ms. 38 (89.MS.45)."
   - id: "fig-2-2"
     label: "Fig. 2"
-    src: 
+    src: figures/alai-kidd-02.jpg
     caption: "**Historiated initial *I* (*In diebus*) with Esther, ca. 1160s.** Berlin, Kupferstichkabinett, Min. 1904. Image © Kupferstichkabinett, Staatliche Museen zu Berlin."
   - id: "fig-2-3"
     label: "Fig. 3"
-    src: 
+    src: figures/alai-kidd-03.jpg
     caption: "**Decorated initial *O* (*Onus*), ca. 1160s.** Berlin, Kupferstichkabinett, Min. 31812. Image © Kupferstichkabinett, Staatliche Museen zu Berlin."
   - id: "fig-2-4"
     label: "Fig. 4"
-    src: 
+    src: figures/alai-kidd-04.jpg
     caption: "**Decorated initial *I* (*In principio*), ca. 1160s.** Berlin, Kupferstichkabinett, Min. 30490. Image © Kupferstichkabinett, Staatliche Museen zu Berlin."
   - id: "fig-2-5"
     label: "Fig. 5"
-    src: 
+    src: figures/alai-kidd-05.jpg
     caption: "**Decorated initial *O* (*Osculetur*), last third of the twelfth century.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 35r. Image: BnF."
   - id: "fig-2-6"
     label: "Fig. 6"
-    src: 
+    src: figures/alai-kidd-06.jpg
     caption: "**Historiated initial *V* (*Visio Isaie*) with the prophet Isaiah, ca. 1160s.** Berlin, Kupferstichkabinett, Min. 1906v. Image © Kupferstichkabinett, Staatliche Museen zu Berlin."
   - id: "fig-2-7"
     label: "Fig. 7"
-    src: 
+    src: figures/alai-kidd-07.jpg
     caption: "**Historiated initial *V* (*Vir*) with Job suffering, last third of the twelfth century.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 98r. Image: BnF."
   - id: "fig-2-8"
     label: "Fig. 8"
-    src: 
+    src: figures/alai-kidd-08.jpg
     caption: "**Historiated initial *O* (*Omnis sapientia*) with Christ and a Personification of Wisdom, last third of the twelfth century.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 54v. Image: BnF."
   - id: "fig-2-9"
     label: "Fig. 9"
-    src: 
+    src: figures/alai-kidd-09.jpg
     caption: "**Decorated initial *Q* (*Quidam*), last third of the twelfth century.** From *Decretum Gratiani,* Grenoble, Bibliothèque Municipale, Ms. 475, fol. 153v. Image: Bibliothèque Municipale de Grenoble, Ms.34 Rés."
   - id: "fig-2-10"
     label: "Fig. 10"
-    src: 
+    src: figures/alai-kidd-10.jpg
     caption: "**Decorated initial *G* (*Gloriosissimam*), third quarter of the twelfth century.** From *De civitate dei,* Dijon, Bibliothèque Municipale, Ms. 159, fol. 2v. Image: Bibliothèque municipale de Dijon."
   - id: "fig-2-11"
     label: "Fig. 11"
-    src: 
+    src: figures/alai-kidd-11.jpg
     caption: "**Decorated initial *D* (*De civitate*), third quarter of the twelfth century.** From *De civitate dei*, Dijon, Bibliothèque Municipale, Ms. 159, fol. 24v. Image: Bibliothèque municipale de Dijon."
   - id: "fig-2-12"
     label: "Fig. 12"
-    src: 
+    src: figures/alai-kidd-12.jpg
     caption: "**Decorated initial *P* (*Paulus*), ca. 1109.** From the Bible of Stephen Harding, Dijon, Bibliothèque Municipale, Ms. 15, fol. 94r. Image: Bibliothèque municipale de Dijon."
+  - id: "fig-3-1"
+    label: "Fig. 1"
+    src: figures/overton-01.jpg
+    caption: ""
+  - id: "fig-3-2-a"
+    label: "Fig. 2a"
+    src: figures/overton-02-a.jpg
+    caption: ""  
+  - id: "fig-3-2-b"
+    label: "Fig. 2b"
+    src: figures/overton-02-b.jpg
+    caption: ""  
+  - id: "fig-3-3-a"
+    label: "Fig. 1a"
+    src: figures/overton-03-a.jpg
+    caption: ""  
+  - id: "fig-3-3-b"
+    label: "Fig. 3b"
+    src: figures/overton-03-b.jpg
+    caption: ""  
+  - id: "fig-3-1"
+    label: "Fig. 1"
+    src: figures/overton-01.jpg
+    caption: ""
+  - id: "fig-3-2-a"
+    label: "Fig. 2a"
+    src: figures/overton-02-a.jpg
+    caption: ""  
+  - id: "fig-3-2-b"
+    label: "Fig. 2b"
+    src: figures/overton-02-b.jpg
+    caption: ""  
+  - id: "fig-3-3-a"
+    label: "Fig. 1a"
+    src: figures/overton-03-a.jpg
+    caption: ""  
+  - id: "fig-3-3-b"
+    label: "Fig. 3b"
+    src: figures/overton-03-b.jpg
+    caption: ""  
+  - id: "fig-3-4"
+    label: "Fig. 4"
+    src: figures/overton-04.jpg
+    caption: ""   
+  - id: "fig-3-5"
+    label: "Fig. 5"
+    src: figures/overton-05.jpg
+    caption: ""
+  - id: "fig-3-6"
+    label: "Fig. 6"
+    src: figures/overton-06.jpg
+    caption: ""   
+  - id: "fig-3-7"
+    label: "Fig. 7"
+    src: figures/overton-07.jpg
+    caption: ""  
+  - id: "fig-3-8"
+    label: "Fig. 8"
+    src: figures/overton-08.jpg
+    caption: "" 
+  - id: "fig-3-9"
+    label: "Fig. 9"
+    src: figures/overton-09.jpg
+    caption: "" 
+  - id: "fig-3-10"
+    label: "Fig. 10"
+    src: figures/overton-10.jpg
+    caption: "" 
+  - id: "fig-3-11"
+    label: "Fig. 11"
+    src: figures/overton-11.jpg
+    caption: "" 
+  - id: "fig-3-12"
+    label: "Fig. 12"
+    src: figures/overton-12.jpg
+    caption: ""
+  - id: "fig-3-13"
+    label: "Fig. 13"
+    src: figures/overton-13.jpg
+    caption: ""
+  - id: "fig-3-14"
+    label: "Fig. 14"
+    src: figures/overton-14.jpg
+    caption: ""
   - id: "fig-4-1"
     label: "Fig. 1"
-    src: 
+    src: figures/lenssen-01.jpg
     caption: "**Suggested themes for lyrics sent from F. C. Dowling, Political Intelligence Department of the British Foreign Office, to E. L. T. Mesens as part of a proposed song commission, 26 January 1944.** Los Angeles, Getty Research Institute, 920094, box 5, folder 3."   
   - id: "fig-4-2"
     label: "Fig. 2"
-    src: 
+    src: figures/lenssen-02.jpg
     caption: "**Edward Bawden (British, 1903–89).** *The Showboat at Baghdad*, 1944, watercolor on paper, 66 × 100.5 cm. London, Government Art Collection. Image © Crown copyright: UK Government Art Collection."   
   - id: "fig-4-3"
     label: "Fig. 3"
-    src: 
+    src: figures/lenssen-03.jpg
     caption: "**Auguste Rodin (French, 1840–1917).** Illustration in Charles Baudelaire, *Vingt-sept poèmes des Fleurs du Mal* (Paris: La Société des Amis du Livre Moderne, 1918). New York, Metropolitan Museum of Art, The Elisha Whittelsey Collection. The Elisha Whittelsey Fund, 1968, 68.632.1. Image © The Metropolitan Museum of Art. Image source: Art Resource, NY."   
   - id: "fig-4-4"
     label: "Fig. 4"
-    src: 
+    src: figures/lenssen-04.jpg
     caption: "**Jewad Selim (Iraqi, 1919–61).** Drawing likely captioned “L’homme créateur,” 1940s, in Selim’s sketchbook “Contemplations of my Spirit,” now lost. From Jabra Ibrahim Jabra, *Jawād Salīm wa-Nuṣb al-Ḥurriyya* (Baghdad: General Directorate of Culture, 1974), 171."   
   - id: "fig-4-5"
     label: "Fig. 5"
-    src: 
+    src: figures/lenssen-05.jpg
     caption: "**Jewad Selim (Iraqi, 1919–61).** *Nisāʾ fī al-Intiẓār* (Women waiting), 1943, oil on board, 45 × 35 cm. Private Collection. Image: Wikimedia Commons."  
   - id: "fig-4-6"
     label: "Fig. 6"
-    src: 
+    src: figures/lenssen-06--FPO.jpg
     caption: "**Edward Matuszczak (Polish, 1906–65).** Landscape from Baghdad, 1943, oil on canvas, 44.5 × 51.5 cm. Alexandria, Egypt, Museum of Fine Arts." 
   - id: "fig-4-7"
     label: "Fig. 7"
-    src: 
+    src: figures/lenssen-07.jpg
     caption: "**Józef Czapski (Polish, 1896–1993).** Drawing in diary, 21 January 1943. Vol. II, September 8, 1942 to May 23, 1943. Inv. No. MNK VIII-rkps.1923. National Museum in Kraków, Archives of Maria and Józef Czapski. Image: Laboratory Stock National Museum in Krakow." 
   - id: "fig-4-8"
     label: "Fig. 8"
-    src: 
+    src: figures/lenssen-08.jpg
     caption: "**Jamil Hamoudi (Iraqi, 1924–2003).** Pen drawing in *ʿAshtarūt,* no. 4 (February 1944): n.p., captioned: “Image: Zephyr, by the great artist Picasso.” Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 36. Image: Ishtar Hamoudi / American University of Beirut / Library Archives." 
   - id: "fig-4-9"
     label: "Fig. 9"
-    src: 
+    src: figures/lenssen-09.jpg
     caption: "**Cover of *ʿAshtarūt*, no. 4 (February 1944).** Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 36. Image: Ishtar Hamoudi / American University of Beirut / Library Archives." 
   - id: "fig-4-10"
     label: "Fig. 10"
-    src: 
+    src: figures/lenssen-10.jpg
     caption: "**Unsigned illustration of designs on a pottery shard in the article “Al-Fann al-Islāmī” (Islamic art), translation of an excerpt from a French text by Elie Faure, in *ʿAshtarūt,* no. 3 (1943): 45.** Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 36. Image: Ishtar Hamoudi / American University of Beirut / Library Archives."
   - id: "fig-4-11"
     label: "Fig. 11"
-    src: 
+    src: figures/lenssen-11.jpg
     caption: "**Unsigned illustration (likely by Jamil Hamoudi [Iraqi, 1924–2003]) in “Al-Fann al-Islāmī,” *ʿAshtarūt*, no. 3 (1943): 47, captioned: “The Painter Prince, by the famous Persian painter Bihzad.”** Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 36. Image: Ishtar Hamoudi / American University of Beirut / Library Archives."
-  - id: "fig-4-12a-b"
-    label: "Fig. 12a, b"
-    src: 
+  - id: "fig-4-12-a"
+    label: "Fig. 12a"
+    src: figures/lenssen-12-a.jpg
+    caption: "**12a, b. Simon Watson Taylor (British, 1923–2005).** Letter to Jamil Hamoudi, 5 November 1946. Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 17, file 2. Image: Ishtar Hamoudi / American University of Beirut / Library Archives."
+  - id: "fig-4-12-b"
+    label: "Fig. 12b"
+    src: figures/lenssen-12-b.jpg
     caption: "**12a, b. Simon Watson Taylor (British, 1923–2005).** Letter to Jamil Hamoudi, 5 November 1946. Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 17, file 2. Image: Ishtar Hamoudi / American University of Beirut / Library Archives."
   - id: "fig-5-1"
     label: "Fig. 1"
-    src: 
+    src: figures/horakova-poggi-01.jpg
     caption: "**Wolfgang Henne (German, b. 1949).** “Landschaft,” typescript on graph paper, 15 × 15 cm (including white margin). From Wolfgang Henne et al. *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: self-published, 1983), 21.5 x 38.5 cm. Los Angeles, Getty Research Institute, 93-B10567. © Wolfgang Henne."
   - id: "fig-5-2"
     label: "Fig. 2"
-    src: 
+    src: figures/horakova-poggi-02.jpg
     caption: "**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al. *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: Self-published, 1983) Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst."
   - id: "fig-5-3"
     label: "Fig. 3"
-    src: 
+    src: figures/horakova-poggi-03.jpg
     caption: "**Thomas Günther (German, b. 1952), poetry, and Claus Bach (German , b. 1956), photograph.** *Das Gesetz* (The law), gelatin silver print, 30.5 × 23 cm. Los Angeles, Getty Research Institute, DDR collections, Thomas Günther papers, 940002, box 86, folder 1. Art © Thomas Günther estate and Claus Bach."
   - id: "fig-5-4"
     label: "Fig. 4"
-    src: 
+    src: figures/horakova-poggi-04.jpg
     caption: "**Thomas Günther (German, b. 1952), collage, and Claus Bach (German, b. 1956), photograph.** Artist’s manifesto, with quotation by Antonin Artaud, February 1982, gelatin silver print, 29 × 22 cm. Los Angeles, Getty Research Institute, DDR collections, Thomas Günther papers, box 86, folder 1, 940002. Art © Thomas Günther estate and Claus Bach."  
   - id: "fig-5-5"
     label: "Fig. 5"
-    src: 
+    src: figures/horakova-poggi-05.jpg
     caption: "**Sabine Jahn (German, b. 1955).** Cover design for *Traumhaus,* 1988–89, screen print, h.: 61 cm. Image courtesy of Claus Bach. © Thomas Günther estate and Sabine Jahn." 
   - id: "fig-5-6"
     label: "Fig. 6"
-    src: 
+    src: figures/horakova-poggi-06.jpg
     caption: "**Sabine Jahn** **(German, b. 1955)** Screen print after the photograph *Portrait of Georgia O’Keeffe* (1918, printed 1929/1934) by Alfred Stieglitz (1864–1946), 73.3 × 51 cm. From Sabine Jahn, untitled (Mapplethorpe) portfolio, nine plates, 1988, Los Angeles, Getty Research Institute, 2019.PR.18. © Sabine Jahn." 
   - id: "fig-5-7"
     label: "Fig. 7"
-    src: 
+    src: figures/horakova-poggi-07.jpg
     caption: "**Christine Schlegel (German, b. 1950).** Cover of *Vielleicht werde ich plötzlich verschwinden* (Perhaps I will suddenly disappear), 1986, 36.8 × 25 cm. Los Angeles, Getty Research Institute, 2019-B181.© Christine Schlegel, Dresden." 
   - id: "fig-5-8"
     label: "Fig. 8"
-    src: 
+    src: figures/horakova-poggi-08.jpg
     caption: "**Christine Schlegel (German, b. 1950), artwork, and Inge Müller (German, 1925–66), poetry.** *Drei Fragen hinter der Tür* (Three questions behind the door), mixed media, 36.8 × 47 cm. From Christine Schlegel, *Vielleicht werde ich plötzlich verschwinden* (Perhaps I will suddenly disappear), 1986. Los Angeles, Getty Research Institute, 2019-B181. Art © Christine Schlegel, Dresden. [Poetry credit line TK.]" 
   - id: "fig-5-9"
     label: "Fig. 9"
-    src: 
+    src: figures/horakova-poggi-09.jpg
     caption: "**Christine Schlegel (German, b. 1950), artwork, and Inge Müller (German, 1925–66), poetry.** Found photograph of family portrait and fragments of verses from “Der verlorene Sohn (1941)” (The lost son [1941]) by Inge Müller, mixed media, 36.8 × 47 cm. From Christine Schlegel, *Vielleicht werde ich plötzlich verschwinden* (Perhaps I will suddenly disappear), 1986. Los Angeles, Getty Research Institute, 2019-B181. Art © Christine Schlegel, Dresden. [Poetry credit line TK.]" 
   - id: "fig-5-10"
     label: "Fig. 10"
-    src: 
+    src: figures/horakova-poggi-10.jpg
     caption: "**Christine Schlegel (German, b. 1950), artwork, and Inge Müller (German, 1925–66), poetry.** *Freundschaft* (Friendship), mixed media, 36.8 × 70 cm. From Christine Schlegel, *Vielleicht werde ich plötzlich verschwinden* (Perhaps I will suddenly disappear), 1986. Los Angeles, Getty Research Institute, 2019-B181. Art © Christine Schlegel, Dresden. [Poetry credit line TK.]" 
+  - id: "fig-6-1"
+    label: "Fig. 1"
+    src: figures/pestarino-01.jpg
+    caption: "**Rodolpho Lindemann (German-born, 1852–?).** Panorama of Salvador, ca. 1880, albumen print, 24 × 159.5 cm. Los Angeles, Getty Research Institute, 2022.R.30." 
+  - id: "fig-6-2"
+    label: "Fig. 2"
+    src: figures/pestarino-02.jpg
+    caption: "**Unknown draftsperson, after Rodolpho Lindemann (German-born, 1852–?).** *São Salvador de Bahia, vue prise du Fort do Mar* (São Salvador de Bahia, view from Fort do Mar) from *Album de vues du Brésil* (Paris: Imprimerie A. Lahure, 1889). Digital image: Biblioteca Digital Luso-Brasileira." 
+  - id: "fig-6-3-a"
+    label: "Fig. 3a"
+    src: figures/pestarino-03-a.jpg
+    caption: "**Rodolpho Lindemann (German-born, 1852–?).** Panorama of Salvador (details), ca. 1880, albumen print, 24 × 159.5 cm. Los Angeles, Getty Research Institute, 2022.R.30." 
+  - id: "fig-6-3-b"
+    label: "Fig. 3b"
+    src: figures/pestarino-03-b.jpg
+    caption: "**Rodolpho Lindemann (German-born, 1852–?).** Panorama of Salvador (details), ca. 1880, albumen print, 24 × 159.5 cm. Los Angeles, Getty Research Institute, 2022.R.30." 
+  - id: "fig-6-3-c"
+    label: "Fig. 3c"
+    src: figures/pestarino-03-c.jpg
+    caption: "**Rodolpho Lindemann (German-born, 1852–?).** Panorama of Salvador (details), ca. 1880, albumen print, 24 × 159.5 cm. Los Angeles, Getty Research Institute, 2022.R.30." 
+  - id: "fig-6-4-a"
+    label: "Fig. 4a"
+    src: figures/pestarino-04-a.jpg
+    caption: "**Marc Ferrez (Brazilian, 1834–1923).** Panorama of Salvador, 1875, two silver gelatin prints; each 22 × 27 cm. Instituto Moreira Salles, Brazil. Digital image: Marc Ferrez / Gilberto Ferrez Collection /Instituto Moreira Salles." 
+  - id: "fig-6-4-b"
+    label: "Fig. 4b"
+    src: figures/pestarino-04-b.jpg
+    caption: "**Marc Ferrez (Brazilian, 1834–1923).** Panorama of Salvador, 1875, two silver gelatin prints; each 22 × 27 cm. Instituto Moreira Salles, Brazil. Digital image: Marc Ferrez / Gilberto Ferrez Collection /Instituto Moreira Salles." 
+  - id: "fig-6-5"
+    label: "Fig. 5"
+    src: figures/pestarino-05.jpg
+    caption: "**Georges Leuzinger (Swiss-born, 1813–92).** Panorama of Rio de Janeiro, ca. 1866, photogravure, 27.5 × 119.5 cm. Los Angeles, Getty Research Institute, 2022.R.5." 
+  - id: "fig-6-6"
+    label: "Fig. 6"
+    src: figures/pestarino-06.jpg
+    caption: "**Enrique Casanova y Astorza (Spanish-born, 1850–1913).** *Vista do Rio de Janeiro* (View of Rio de Janeiro), ca. 1883,medium TK, 37.1 × 110.5 cm. Brazil, Instituto Moreira Salles, Martha and Erico Stickel Collection, 001SK00193. Digital image: Enrique Casanova / Martha and Erico Stickel Collection/ Instituto Moreira Salles." 
+  - id: "fig-6-7"
+    label: "Fig. 7"
+    src: figures/pestarino-07.jpg
+    caption: "**Rodolpho Lindemann’s photographic panorama of Salvador (ca. 1880) unfolded.**" 
