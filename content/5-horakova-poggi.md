@@ -71,13 +71,11 @@ spaces
 dreams\
 landscape in emigration
 
-{% figure 'fig-5-1' %}
-
 The words of the poem are typed abutting the vertical axis of plus signs on both sides, with the final phrase traversing it, running from the top-left quadrant toward the bottom-right quadrant. The word *landschaft* (landscape) is repeated four times on top; with a vertical line of eight plus signs linking the first letter of the third and fourth, creating a box, perhaps to suggest the parceling of land. The layout physically embodies the notion of measured spaces, which beneath the horizontal axis becomes “landscapes’ spaces” and then dreams. In the last line, landscape is linked to emigration, which might be read literally or symbolically.[^19]
 
 Two pages later, Wenzel’s striking, meditative photograph shows a river in a misty, hibernal light ([fig. 2](#fig-5-2)). Wenzel has said that she was interested in capturing the mood and the beauty of nature, the light, and structural composition.[^20] Flowing through a snow-covered field, the river cuts across from the top left of the frame toward the bottom right margin. The image contrast is so low that the horizon line between the earth and the sky is almost invisible. In the foreground, animal footprints in the snow appear as signs of a past presence, evoking passage and movement. As a visual correspondence with Henne’s verse “landscape in emigration,” these signs could subtly allude to the subject of emigration, rarely discussed openly in the GDR, where the erection of the Berlin Wall in 1961 significantly curbed freedom of movement, particularly the right to travel to the West.
 
-{% figure 'fig-5-2' %}
+{% figuregroup '2' ' fig-5-1, fig-5-2' %}
 
 Concrete poetry features widely in GDR samizdat. But Henne’s combined use of graph paper and photography creates a multilayered narrative, enhanced by the use of papers of different colors or textures, and interactions among different media. The book’s layout enfolds additional imagery with original prints hidden within foldouts, which impart a dynamic rhythm to the haptic experience of finding covert pathways, correspondences, discoveries, and reflections. While the two media of poetry and photography, having been printed on different pages of the book, are not directly juxtaposed, the book’s objective is to invite the viewer/reader to unfold its intermedial dynamic by meditating on one work at a time.
 
