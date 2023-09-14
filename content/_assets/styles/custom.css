@@ -1,3 +1,27 @@
+:root {
+  --accent-color: maroon;
+
+  --skolar: skolar-pe, serif;
+  --skolar-sans: skolar-sans-pe, sans-serif;
+
+  --large-indent: 8rem;
+  --standard-indent: 2rem;
+
+  --quire-nav-font: var(--skolar-sans);
+  --quire-nav-font-size: .865rem;
+  --quire-nav-font-line-height: 1.375;
+}
+
+/* ORIGINAL SPECS
+=============================================================================
+Heading H1              Skolar Sans PE     Regular          20pt/23pt 
+Heading Contributor     Skolar Sans PE     Regular          11pt/13pt 
+H2                      Skolar PE          Medium Italic    9.25pt/14.5pt
+Body                    Skolar PE          Light            9.25pt/14.5pt
+Captions & Notes        Skolar Sans PE     Light            8pt/11pt
+Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
+*/
+
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
   .quire-page::before,
@@ -23,4 +47,169 @@
     bottom: -130px;
     right: -130px;
   }
+}
+
+/* PAGE HEADER
+============================================================================= */
+.quire-page__header {
+  margin: 0 auto;
+  max-width: 720px;
+  padding-bottom: 0;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 4rem;
+  width: 720px;
+}
+.quire-page__header .hero-body {
+  border-top: 1px solid var(--accent-color);
+  border-bottom: 1px solid var(--accent-color);
+  margin-left: var(--large-indent);
+  margin-right: 0;
+  padding: 0;
+  padding-bottom: var(--large-indent);
+}
+.quire-page h1, .quire-page__header__title {
+  color: var(--accent-color);
+  font-family: var(--skolar-sans);
+  font-size: 2.16rem;
+  font-weight: 300;
+  line-height: 1.15;
+  margin: 0;
+  margin-top: .75rem;
+  text-align: left;
+}
+.quire-page__header__contributor {
+  margin-top: 1rem;
+  font-family: var(--skolar-sans);
+  text-align: left;
+  font-style: normal;
+  font-size: 1.19rem;
+  color: #444;
+  font-weight: 300;
+}
+.quire-page__content .content > h2:first-child {
+  margin-left: var(--large-indent);
+}
+.quire-page__content .content > h2:first-child + p,
+.quire-page__content .content > p:first-child {
+  text-indent: var(--large-indent);
+}
+
+/* PAGE ABSTRACT
+============================================================================= */
+.quire-page__abstract {
+  display: none;
+}
+
+/* PAGE CONTENT & HEADINGS
+============================================================================= */
+.quire-page__content {
+  font-weight: 300;
+  text-align: justify;
+  font-feature-settings: "onum";
+}
+strong {
+  color: black;
+  font-weight: 600;
+}
+.quire-page__content .container .content {
+  margin-top: 0;
+  padding-top: 0;
+  margin-top: 1rem;
+}
+.quire-page__content .container .content p {
+  line-height: 1.57;
+  text-indent: var(--standard-indent);
+}
+.quire-page h2 {
+  font-size: 18px;
+  line-height: 1.57;
+  font-weight: 500;
+  font-style: italic;
+  text-transform: none;
+  font-family: var(--skolar);
+  margin-bottom: 0;
+  margin-left: var(--standard-indent);
+  text-align: left;
+}
+
+/* FIGURE CAPTIONS
+============================================================================= */
+.content figure .q-figure__caption {
+  font-family: var(--quire-nav-font);
+  font-size: var(--quire-nav-font-size);
+  line-height: var(--quire-nav-font-line-height);
+}
+.q-figure__label,
+.content figure .q-figure__caption strong {
+  font-weight: 600;
+}
+.q-figure__label--below .q-figure__modal-link {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.q-figure__label .q-figure__label-icon svg {
+  width: 1rem;
+  margin-bottom: 3px;
+  margin-right: 2px;
+}
+
+/* CONTRIBUTOR BIOS
+============================================================================= */
+.grj-contributor-bio {
+  font-family: var(--skolar-sans);
+  text-indent: 0 !important;
+  margin-top: 1.5rem;
+}
+
+/* FOOTNOTES
+============================================================================= */
+.quire-page__content .content .footnote-ref a, 
+.quire-page__content .content a.footnote-return, 
+.quire-page__content .content a.footnote-backref, 
+.quire-page__content .content a.footnote-ref {
+  font-weight: 300;
+  font-size: .75rem;
+}
+.quire-page h2.notes-heading,
+.quire-page__content .container .content .footnotes,
+.quire-page__content .container .content .footnotes * {
+  font-family: var(--quire-nav-font);
+  font-size: var(--quire-nav-font-size);
+  line-height: var(--quire-nav-font-line-height);
+}
+.quire-page h2.notes-heading {
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--standard-indent);
+  margin-top: 3rem;
+}
+.quire-page__content .content .footnotes {
+  margin-top: 0;
+}
+.quire-page__content .content .footnotes ol {
+  margin-left: 0;
+  list-style-position: inside;
+  text-align: left;
+  margin-top: 0;
+ }
+.quire-page__content .content .footnotes ol li {
+  margin-bottom: 0;
+}
+/* Replaces the default marker with a series of non-breaking spaces before the counter
+  to achieve indented style */
+.quire-page__content .content .footnotes ol li::marker {
+  font-weight: 600;
+  content: "\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0" counter(list-item) '.'; 
+}
+/* Flows first paragraph of the note to follow the custom marker */
+.quire-page__content .content .footnotes li > p:first-child {
+  display: inline;
+}
+/* Aligns the indent of subsequent paragraphs with custom marker */
+.quire-page__content .content .footnotes p {
+  text-indent: var(--standard-indent);
+}
+.quire-page__content .container .content .footnotes .footnote-backref {
+  font-size: .75rem;
 }

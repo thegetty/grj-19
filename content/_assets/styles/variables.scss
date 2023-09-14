@@ -6,12 +6,14 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+@import url("https://use.typekit.net/dlp6kgq.css");
+
+$accent-color: maroon;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
 // Declare the theme: modern/classic
-$theme: modern;
+$theme: classic;
 
 // Declare the navbar color style: normal/accent
 $navbar: normal;
@@ -22,6 +24,10 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
+
+$skolar-pe: skolar-pe, sans-serif; 
+$skolar-sans-pe: skolar-sans-pe, sans-serif; 
+
 $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
@@ -29,8 +35,8 @@ $times-serif: Times, serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
-$quire-page-paragraph-style: line-space; // or use indent
+$quire-base-font-size: 18px;
+$quire-page-paragraph-style: indent; // line-space | indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
@@ -78,10 +84,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $skolar-pe; // body and menu text
+$quire-headings-font: $skolar-sans-pe; // headings
+$quire-footnotes-font: $skolar-sans-pe; // footnotes and page backmatter
+$quire-navigation-font: $skolar-sans-pe; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
