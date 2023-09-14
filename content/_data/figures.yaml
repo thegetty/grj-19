@@ -79,87 +79,67 @@ figure_list:
   - id: "fig-3-1"
     label: "Fig. 1. —"
     src: figures/overton-01.jpg
-    caption: ""
+    caption: "**View of Jane Dieulafoy’s photography album “Perse 1,” pp. 34–35, March 2022, showing photographs taken in Khorramdareh and Qazvin in May 1881.** On the right page is the domed tomb of the [Emamzadeh Shahzadeh Hossein](https://www.google.com/maps/place/Shazdeh+Hossein/@36.2572276,49.9983629,17z/data=!4m5!3m4!1s0x3ff35520604a07c1:0x697017425b8b87a2!8m2!3d36.2572363!4d50.0005295) at Qazvin (975–1008 AH/1568–1600). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1). Photograph by the author"
   - id: "fig-3-2-a"
-    label: "Fig. 2a"
+    label: "Fig. 2a. —"
     src: figures/overton-02-a.jpg
-    caption: ""  
+    caption: "**Jane Dieulafoy (French, 1851–1916).** The first spread of Varamin photographs in Dieulafoy’s photography album “Perse 1,” June 1881, pp. 56–57. On the left page is a general view of the village toward the tomb tower of ‘Alaoddin (688 AH/1289) and two views of the congregational mosque (722–26 AH/1322–26); on the right page is a detail of the mosque’s entrance *ayvan* and a general view of the *ayvan* leading into the domed sanctuary. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."  
   - id: "fig-3-2-b"
-    label: "Fig. 2b"
+    label: "Fig. 2b. —"
     src: figures/overton-02-b.jpg
-    caption: ""  
+    caption: "**Jane Dieulafoy (French, 1851–1916).** The first spread of Varamin photographs in Dieulafoy’s photography album “Perse 1,” June 1881, pp. 56–57. On the left page is a general view of the village toward the tomb tower of ‘Alaoddin (688 AH/1289) and two views of the congregational mosque (722–26 AH/1322–26); on the right page is a detail of the mosque’s entrance *ayvan* and a general view of the *ayvan* leading into the domed sanctuary. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."  
   - id: "fig-3-3-a"
-    label: "Fig. 1a"
+    label: "Fig. 3a. —"
     src: figures/overton-03-a.jpg
-    caption: ""  
+    caption: "**Jane Dieulafoy (French, 1851–1916).** The fourth spread of Varamin photographs in Dieulafoy’s photography album “Perse 1,” June 1881, pp. 62–63. On the left page is the citadel (*qaleh*); a detail of the interior of the domed sanctuary of the congregational mosque; and the cattle market. On the right are three views of the tomb tower of ‘Alaoddin. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."  
   - id: "fig-3-3-b"
-    label: "Fig. 3b"
+    label: "Fig. 3b. —"
     src: figures/overton-03-b.jpg
-    caption: ""  
-  - id: "fig-3-1"
-    label: "Fig. 1. —"
-    src: figures/overton-01.jpg
-    caption: ""
-  - id: "fig-3-2-a"
-    label: "Fig. 2a"
-    src: figures/overton-02-a.jpg
-    caption: ""  
-  - id: "fig-3-2-b"
-    label: "Fig. 2b"
-    src: figures/overton-02-b.jpg
-    caption: ""  
-  - id: "fig-3-3-a"
-    label: "Fig. 1a"
-    src: figures/overton-03-a.jpg
-    caption: ""  
-  - id: "fig-3-3-b"
-    label: "Fig. 3b"
-    src: figures/overton-03-b.jpg
-    caption: ""  
+    caption: "**Jane Dieulafoy (French, 1851–1916).** The fourth spread of Varamin photographs in Dieulafoy’s photography album “Perse 1,” June 1881, pp. 62–63. On the left page is the citadel (*qaleh*); a detail of the interior of the domed sanctuary of the congregational mosque; and the cattle market. On the right are three views of the tomb tower of ‘Alaoddin. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."  
   - id: "fig-3-4"
     label: "Fig. 4. —"
     src: figures/overton-04.jpg
-    caption: ""   
+    caption: "**The architectural monuments of Varamin observed by E‘temad al-Saltaneh in 1876.** The pre-Islamic citadel (*qaleh*) is now lost, but the surrounding sites (ca. 1260–1490) all stand to various degrees. Drawing by Kanika Kalra."   
   - id: "fig-3-5"
     label: "Fig. 5. —"
     src: figures/overton-05.jpg
-    caption: ""
+    caption: "**Jane Dieulafoy (French, 1851–1916).** Views of the Congregational Mosque of Varamin (Masjed-e Jame‘, 722–26 AH/1322–26) from Dieulafoy’s photography album “Perse 1,” June 1881, p. 58. At left is a general view of the mosque’s entrance *ayvan*; at right is a detail of the *ayvan* leading into the domed qibla sanctuary. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."
   - id: "fig-3-6"
     label: "Fig. 6. —"
     src: figures/overton-06.jpg
-    caption: ""   
+    caption: "**Jane Dieulafoy (French, 1851–1916).** Views of the Emamzadeh Shah Hossein (early 1300s) at Varamin from Dieulafoy’s photography album “Perse 1,” June 1881, p. 64. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746."   
   - id: "fig-3-7"
     label: "Fig. 7. —"
     src: figures/overton-07.jpg
-    caption: ""  
+    caption: "**Luster tiles from the Emamzadeh Yahya at Varamin on display in the renovated Iran galleries of the State Hermitage Museum in Saint Petersburg, September 2022.** *Middle:* top panel of the cenotaph naming “the Imam, Yahya,” dated 10 Moharram 705 AH/2 August 1305 and signed by Yusuf b. ‘Ali b. Muhammad b. Abi Tahir; *left and right sides:* stars and crosses from the tomb’s dado; and *upper right and left:* square tiles from the tomb of Shaykh ‘Abdosamad at Natanz. Photograph by Dmitry Sadofeev."  
   - id: "fig-3-8"
     label: "Fig. 8. —"
     src: figures/overton-08.jpg
-    caption: "" 
+    caption: "**Jane Dieulafoy (French, 1851–1916).** Views of Varamin from Dieulafoy’s photography album “Perse 1,” June 1881, p. 65. On the upper right is a general view of the Emamzadeh Yahya (660–707 AH/1261–1307). At left are its guards and a mullah. Below is a group of Turkomans at the village’s market. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746." 
   - id: "fig-3-9"
     label: "Fig. 9. —"
     src: figures/overton-09.jpg
-    caption: "" 
+    caption: "Jane Dieulafoy (French, 1851–1916).** Two views of the interior of the Emamzadeh Yahya from Dieulafoy’s photography album “Perse 1,” June 1881, p. 66 (detail). On the upper left is the luster mihrab dated Sha‘ban 663 AH/May 1265 and signed by ‘Ali b. Muhammad b. Abi Tahir. On the lower right is the squinch of the adjacent corner niche. Albumen silver prints from gelatin glass negatives (dry plates). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1), https://bibliotheque-numerique.inha.fr/idurl/1/62746." 
   - id: "fig-3-10"
     label: "Fig. 10. —"
     src: figures/overton-10.jpg
-    caption: "" 
+    caption: "**Mihrab void and southwest corner niche of the Emamzadeh Yahya, Varamin, April 2018.** Photograph by the author." 
   - id: "fig-3-11"
     label: "Fig. 11. —"
     src: figures/overton-11.jpg
-    caption: "" 
+    caption: "**Annotation of Jane Dieulafoy’s 1881 photograph of the Emamzadeh Yahya’s luster mihrab in situ (“Perse 1,” p. 66).** Yellow elements are carved stucco, and black is luster tilework. The numbers indicate chapters and verses of the Qur’an. Annotations by the author." 
   - id: "fig-3-12"
     label: "Fig. 12. —"
     src: figures/overton-12.jpg
-    caption: ""
+    caption: "**A large ceremonial standard (*‘alam*) and votives affixed to the screen in front of the mihrab void in the Emamzadeh Yahya at Varamin, April 1958.** Photograph dated on the reverse and stamped “U. S. I. S. Iran Press Section.” Washington, D.C., National Museum of Asian Art Archives, Smithsonian Institution, The Myron Bement Smith Collection, FSA-2023-000001."
   - id: "fig-3-13"
     label: "Fig. 13. —"
     src: figures/overton-13.jpg
-    caption: ""
+    caption: "**Interior of a Tehran house with a luster cabinet captioned “Cachis persans (Téhéran)” (Persian tiles [Tehran]), ca. 1880s.** Photograph by Antoin Sevruguin (ca. 1851–1933), albumen print. Los Angeles, Getty Research Institute, 2017.R.25."
   - id: "fig-3-14"
     label: "Fig. 14. —"
     src: figures/overton-14.jpg
-    caption: ""
+    caption: "**The Emamzadeh Yahya at Varamin after the major renovation of the early twentieth century, likely early 1930s**. Photograph by André Godard (French, 1881–1965). Paris, Musée du Louvre, Département des arts de l’Islam, Archives Godard, 1APAI/9025."
   - id: "fig-4-1"
     label: "Fig. 1. —"
     src: figures/lenssen-01.jpg
