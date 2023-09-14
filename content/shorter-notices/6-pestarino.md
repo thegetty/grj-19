@@ -6,7 +6,7 @@ order: 40
 contributor: 
   - first_name: Julieta  
     last_name: Pestarino
-    bio: "Julieta Pestarino is an anthropologist and holds a PhD in History and Theory of the Arts from the Universidad de Buenos Aires, Argentina."
+    bio: "**Julieta Pestarino** is an anthropologist and holds a PhD in History and Theory of the Arts from the Universidad de Buenos Aires, Argentina."
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Julieta Pestarino"
 abstract: "This article examines a panoramic photograph of the Brazilian city of Salvador, in the state of Bahia, taken around 1880 by Rodolpho Lindemann. Recently added to the collection of the Getty Research Institute, this large six-part folding work has not been mentioned in previous studies or in the foremost books on the history of photography in Brazil, suggesting that its existence has not been widely known. Although it bears no signature or stamp, comparison with a drawing based on the photograph made it possible to determine its authorship. This article explores connections with other panoramic images produced in the country in order to propose a framework for thinking about the representation of landscapes and cities according to the panoramic tradition, as well as the question of unknown authorship in photography."
 ---
@@ -75,9 +75,9 @@ This item cannot be understood in isolation. As demonstrated, it is part of a ge
 
 Equally, there is a material aspect of the panoramic photographs analyzed here. These large photos travel as folded objects, which are treasured, sold, forgotten, and rediscovered. Because of their physical characteristics, they must be unfolded in order to assume full form and allow the observation of their subject. The drawing included in *Álbum de vues du Brésil* (see [fig. 2](#fig-6-2)) is an image that can be easily and readily accessed, but the panoramic photograph on which it was based remained stored—folded—in a private collection in Europe and was later sold in California.[^26] It is not possible to trace all its drifts since its creation, but its latest movement to the GRI’s collection made possible to study it and demonstrate that the best place for a nineteenth-century photograph is in a library or archive open to the public, allowing researchers and curators, as well as any other interested person, to learn of its existence and have access to it. Never losing sight of the fact that, as American art historians Rosalind Krauss, Alan Trachtenberg, and Sekula argue, every archive complies with certain standards as a technology of power in which ownership remains paramount,[^27] this type of change in location enables us to re-engage with Lindemann’s object and continue to unfold the multiple pages of photographic history. The very characteristics of the medium of photography—elusive and at times forgotten—will ensure that it will always be a diverse history—one that is never finished, being perpetually constructed and reconfigured.
 
-***
-
-{% contributors context=pageContributors format='bio' %}
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
 ## Notes {.notes-heading}
 

@@ -6,7 +6,7 @@ order: 10
 contributor:
   - first_name: "Mahdi"
     last_name: "Sahragard"
-    bio: "Mahdi Sahragard is an assistant professor in the Department of Architecture at Islamic Azad University, Mashhad Branch, Mashhad, Iran."
+    bio: "**Mahdi Sahragard** is an assistant professor in the Department of Architecture at Islamic Azad University, Mashhad Branch, Mashhad, Iran."
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Mahdi Sahragard"
 abstract: "One of the ambiguities in the history of Islamic calligraphy is the determination of the regions where each script prevailed in the first three Hijri centuries. This ambiguity is due to the dispersion of book leaves and the lack of reliable colophons in early copies. The J. Paul Getty Museum preserves a few leaves of a Qurʼan that is one of the significant examples of Early Abbasid style. This Qurʼan was discovered in Kairouan, Tunisia, so historians have attributed its origin to that place. Yet, evidence proves it was produced in Central Iran. This evidence includes the eastern-system diacritic and the Abjad script used in the sign for the numeral ten *āyah*s; moreover, its script resembles the monumental script of some of the signed New style Qurʼans copied in Isfahan and Rayy. Because the Getty Qurʼan is copied in D.I script (the subgroup described by codicologist and paleographer François Déroche), the D.I script can be attributed to Central Iran."
 ---
@@ -211,9 +211,9 @@ The considerable resemblance of the Getty Qurʼan’s script to the monumental s
 
 The resemblance of the diacritics used in the Getty Qurʼan to the tradition of the eastern part of the Muslim world, as found in *Al-Muḥkam fi Naqt al-Maṣāḥif* by Abu ʾAmr Uthmān b. Saʾīd al-Dānī.
 
-***
-
-{% contributors context=pageContributors format='bio' %}
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
 ## Notes {.notes-heading}
 

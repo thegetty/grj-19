@@ -244,9 +244,9 @@ Yet the use of poetry and photography to communicate between the lines empowered
 
 Especially striking in this body of work is the recourse of multiple women artists to the genre of photo-poetry, whether to transmit concerns about the fragility of nature (Wenzel), explore transnational aesthetic allegiances (in works by Jahn), or enact intergenerational solidarities with marginalized women authors (in Schlegel). If for Artaud the new poetry had the power to “leap out of the books to overthrow reality,” the examples discussed above show how this work generated a uniquely intermedial language, giving rise to artistic networks and influences across generations and international borders. It is thanks to exchanges and collaborations such as these that the last generation of East German artists could develop their voices that broke through not only aesthetic and geographic barriers but also through social and political taboos.
 
-***
-
-{% contributors context=pageContributors format='bio' %}
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
 ## Notes {.notes-heading}
 
