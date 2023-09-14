@@ -81,7 +81,7 @@ Equally, there is a material aspect of the panoramic photographs analyzed here. 
 
 ## Notes {.notes-heading}
 
-I would like to thank the Getty Foundation and Idurre Alonso, curator of Latin American Art at the Getty Research Institute, for giving me the opportunity to be a Getty Graduate Intern in 2021–22 in the Curatorial Department and to work on significant Latin American artworks and collections and the acquisition of the photographic panorama by Rodolpho Lindemann. This essay was translated from the Spanish by Audrey Young.
+I would like to thank the Getty Foundation and Idurre Alonso, curator of Latin American Art at the Getty Research Institute, for giving me the opportunity to be a Getty Graduate Intern in 2021–22 in the Curatorial Department and to work on significant Latin American artworks and collections and the acquisition of the photographic panorama by Rodolpho Lindemann. This essay was translated from the Spanish by Audrey Young. {.backmatter}
 
 [^1]: See the investigation on Hercules Florence’s photographic research in Brazil carried out by Boris Kossoy, *Hercule Florence: A Descoberta Isolada da Fotografia no Brasil* (São Paulo: Faculdade de Educação Social Anhembi, 1977); and Boris Kossoy, *The Pioneering Photographic Work of Hercule Florence* (New York: Routledge, 2018).
 
