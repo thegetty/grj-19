@@ -184,6 +184,10 @@ strong {
   margin-left: var(--standard-indent);
   margin-top: 3rem;
 }
+.quire-page__content .container .content .backmatter {
+  font-size: var(--quire-nav-font-size);
+  line-height: var(--quire-nav-font-line-height);
+}
 .quire-page__content .content .footnotes {
   margin-top: 0;
 }

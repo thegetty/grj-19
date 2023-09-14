@@ -981,13 +981,11 @@ Kupferstichkabinett, Inv. 165
 
 {% contributors context=pageContributors format='bio' %}
 
-{% backmatter %}
 
-## Notes
 
-François Avril and Patricia Stirnemann were (as always) especially helpful and generous with information concerning the style of the cuttings. Joseph Bernaer has done more work than anyone else on Carthusian biblical readings, and although we only cite one important article by him, he has generously shared with us much unpublished information. We also benefited greatly from the suggestions and corrections provided by this journal’s anonymous peer reviewer. We are also much obliged to the Kupferstichkabinett staff, in particular to Dagmar Korbacher, for facilitating our study in the Berlin collection.
+## Notes {.notes-heading}
 
-{% endbackmatter %}
+François Avril and Patricia Stirnemann were (as always) especially helpful and generous with information concerning the style of the cuttings. Joseph Bernaer has done more work than anyone else on Carthusian biblical readings, and although we only cite one important article by him, he has generously shared with us much unpublished information. We also benefited greatly from the suggestions and corrections provided by this journal’s anonymous peer reviewer. We are also much obliged to the Kupferstichkabinett staff, in particular to Dagmar Korbacher, for facilitating our study in the Berlin collection. {.backmatter}
 
 [^1]: Unknown maker, historiated initial from a Bible, circa 1160s, Los Angeles, J. Paul Getty Museum, Ms. 38 (89.MS.45). An image and some data are available at www.getty.edu/art/collection/object/103RWR.
 

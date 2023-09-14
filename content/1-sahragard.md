@@ -215,11 +215,7 @@ The resemblance of the diacritics used in the Getty Qurʼan to the tradition of 
 
 {% contributors context=pageContributors format='bio' %}
 
-{% backmatter %}
-
-## Notes
-
-{% endbackmatter %}
+## Notes {.notes-heading}
 
 [^1]: Ibn al-Nadim, *Al-Fihrist* \[377 AH/987 CE\], ed. Muhammad Riza Tajaddud (Tehran: Zavvār, 1971), 9; and François Déroche, *The Abbasid Tradition: Qur’ans of the 8th to the 10th Centuries AD* (London: Nour Foundation, 1992), 12.
 
