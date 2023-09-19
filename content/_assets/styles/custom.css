@@ -55,6 +55,14 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-feature-settings: "smcp";
 }
 
+.remove-paragraph-indent {
+  text-indent: 0 !important;
+}
+
+.add-right-margin {
+  margin-right: var(--standard-indent) !important;
+}
+
 /* PAGE HEADER
 ============================================================================= */
 .quire-page__header {
@@ -93,11 +101,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   color: #444;
   font-weight: 300;
 }
-.quire-page__content .content > h2:first-child {
+.quire-page__content .container .content > h2:first-child {
   margin-left: var(--large-indent);
 }
-.quire-page__content .content > h2:first-child + p,
-.quire-page__content .content > p:first-child {
+.quire-page__content .container .content > h2:first-child + p,
+.quire-page__content .container .content > p:first-child {
   text-indent: var(--large-indent);
 }
 
@@ -152,6 +160,55 @@ strong {
   font-family: var(--skolar-sans);
   font-weight: 400;
   margin-bottom: 0;
+}
+
+/* BLOCKQUOTES
+============================================================================= */
+.quire-page__content .container .content blockquote {
+  margin: 1rem var(--standard-indent);
+  margin-right: 0;
+  padding: 0;
+  font-style: normal;
+}
+.quire-page__content .container .content blockquote p {
+  text-indent: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content blockquote p:first-child::before, 
+.quire-page__content .container .content blockquote ul:first-child::before, 
+.quire-page__content .container .content blockquote ol:first-child::before, 
+.quire-page__content .container .content blockquote dl:first-child::before, 
+.quire-page__content .container .content blockquote h1:first-child::before, 
+.quire-page__content .container .content blockquote h2:first-child::before, 
+.quire-page__content .container .content blockquote h3:first-child::before, 
+.quire-page__content .container .content blockquote h4:first-child::before, 
+.quire-page__content .container .content blockquote h5:first-child::before, 
+.quire-page__content .container .content blockquote h6:first-child::before {
+  content: none;
+}
+
+/* LISTS
+============================================================================= */
+.quire-page__content .container .content ul {
+  list-style-position: inside;
+  list-style-type: initial;
+  text-align: left;
+}
+.quire-page__content .container .content ul li {
+  margin-bottom: .5rem;
+  margin-left: 0;
+}
+.quire-page__content .container .content ul li::before {
+  content: none;
+}
+.quire-page__content .container .content ul li::marker {
+  content: '—\00A0\00A0\00A0\00A0';
+}
+.quire-page__content .container .content ul li > p:first-child {
+  display: inline;
+}
+.quire-page__content .container .content ul li p {
+  text-indent: 0;
 }
 
 /* TABLES

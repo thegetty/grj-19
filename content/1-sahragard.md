@@ -31,97 +31,61 @@ A few surviving leaves of a Qurʼan attributed to the ninth century offer us the
 
 Ten leaves of a Qurʼan manuscript produced in the horizontal format and written in outlined gold script on parchment are preserved in the Getty Museum (MS Ludwig X 1).[^15] Other leaves are listed in other collections and at auctions. In what follows, the characteristics of the Getty leaves and the other leaves’ places of preservation are expounded:
 
-Fragmentary Qur’an from the J. Paul Gettty Museum:
-
-3rd AH /9th century CE, probably Central Iran
-
-Unknown calligrapher
-
-14.4 × 20.8 cm, with five lines to the page
-
-Pen and ink, gold paint, and tempera colors on parchment
-
-Text area: 9.3 × 15 cm.
-
-Script: D.I
-
-Folios 1, 2:
-
-3:122–
-
-3:126
-
-First words: minkum an tafshalā
-
-Last words: bihī va ma al-naṣru
-
-Folios 3 and 10:
-
-3:129–
-
-3:131
-
-First words: fi al-arḍ yaghfiru liman yashāʾu
-
-Last words: lilkāfirīna
-
-Folios 4r–6v:
-
-6:106–
-
-6:112
-
-First words: \[a\]ʿriḍ ʾan al-mushrikīna
-
-Last words: ilā baʿḍin
-
-Folios 7r–9v:
-
-6:116–
-
-6:122
-
-First words: allāh in yattabiʿūna’
-
-Last words: kadhālika zuyyina
-
-Other fragments:
-
-Paris, Bibliothèque Nationale, MS Arabe 5178 (Déroche, *Abbasid Tradition*, 67).
-
-Tunis, National Library of Tunisia, Rutbi 198 (Lings and Safadi, *The Qur’an*, nos. 16, 17 \[two folios each\])
-
-Kairouan, National Museum of Islamic Arts of Raqqada (Lings and Safadi, *The Qur’an*, nos. 18 \[one folio\], 19 \[two folios\], pl. 3)
-
-Sotheby’s, London, 15 October 1984, lot nos. 218–19; 25 June 1985, lot no. 5; 21–22 November 1985, lot nos. 290–91; 22 May 1986, lot no. 248; 1 June 1987, lot no. 78; 2 April 1988, lot no. 114; 10 October 1988, lot no. 170; 10 April 1989, lot no. 169; 26 April 1990, lot no. 140
-
-Christie’s, London, 9 October 1990, lot no. 45
-
-Sotheby’s, London, 2 October 1991, lot no. 892
-
-Sotheby’s, London, 18 October 2001, lot no. 4
-
-Christie’s, London, 23 April 2007, lot no. 3; 4 April 2012, lot nos. 1 and 2
-
-Toronto, Aga Khan Museum, no. AKM 480
-
-Khalili Collection, no. KFQ 84 (Déroche, *Abassid Tradition*, 67)
+> ### Fragmentary Qur’an from the J. Paul Gettty Museum:
+> 3rd AH /9th century CE, probably Central Iran
+> Unknown calligrapher
+> 14.4 × 20.8 cm, with five lines to the page
+> Pen and ink, gold paint, and tempera colors on parchment
+> Text area: 9.3 × 15 cm.
+> Script: D.I
+> 
+> #### Folios 1, 2:
+> 3:122–
+> 3:126
+> First words: minkum an tafshalā
+> Last words: bihī va ma al-naṣru
+> 
+> #### Folios 3 and 10:
+> 3:129–
+> 3:131
+> First words: fi al-arḍ yaghfiru liman yashāʾu
+> Last words: lilkāfirīna
+> 
+> #### Folios 4r–6v:
+> 6:106–
+> 6:112
+> First words: \[a\]ʿriḍ ʾan al-mushrikīna
+> Last words: ilā baʿḍin
+> 
+> #### Folios 7r–9v:
+> 6:116–
+> 6:122
+> First words: allāh in yattabiʿūna’
+> Last words: kadhālika zuyyina
+> 
+> ### Other fragments:
+> - Paris, Bibliothèque Nationale, MS Arabe 5178 (Déroche, *Abbasid Tradition*, 67).
+> - Tunis, National Library of Tunisia, Rutbi 198 (Lings and Safadi, *The Qur’an*, nos. 16, 17 \[two folios each\])
+> - Kairouan, National Museum of Islamic Arts of Raqqada (Lings and Safadi, *The Qur’an*, nos. 18 \[one folio\], 19 \[two folios\], pl. 3)
+> - Sotheby’s, London, 15 October 1984, lot nos. 218–19; 25 June 1985, lot no. 5; 21–22 November 1985, lot nos. 290–91; 22 May 1986, lot no. 248; 1 June 1987, lot no. 78; 2 April 1988, lot no. 114; 10 October 1988, lot no. 170; 10 April 1989, lot no. 169; 26 April 1990, lot no. 140
+> - Christie’s, London, 9 October 1990, lot no. 45
+> - Sotheby’s, London, 2 October 1991, lot no. 892
+> - Sotheby’s, London, 18 October 2001, lot no. 4
+> - Christie’s, London, 23 April 2007, lot no. 3; 4 April 2012, lot nos. 1 and 2
+> - Toronto, Aga Khan Museum, no. AKM 480
+> - Khalili Collection, no. KFQ 84 (Déroche, *Abassid Tradition*, 67)
 
 Each folio of text in this Qurʼan manuscript includes five relatively bulky lines, which is evidence of its production as a several-volume copy. This copy is likely to have been originally produced in thirty volumes, as five-lined Qurʼan manuscripts were generally divided into thirty separate parts, called *juzʾ*.[^16] If this is true, it might be surmised that each volume must have been eighty to ninety pages, considering the approximate number of words on each folio.
 
 The ten leaves of the Getty Qurʼan constitute five bifolios. There are five lines on each leaf. Leaves one and two include *āyah*s (verses) of *āl ʿImrān* (3:122–26). Other leaves (folios 3–10) include *āyah*s of *al-anʿām* (6:106–22); apparently, two leaves of this part of the manuscript have been lost, as these leaves do not include *āyah*s (folios 3–10) 112–16. Leaf three, attached to leaf ten, includes *āyah*s of *ālʿImrān* (3:129–31). A rectangular illuminated panel is on the back of leaf 10v ([fig. 1](#fig-1-1)). On this leaf (recto) is a three-lined frame containing the following text:
 
-[سبع­مائه و تسع و خمسون]{lang="ar" dir="rtl"}
+> سبع­مائه و تسع و خمسون
+> عدد حروفه خمسه عشر الفا
+> و ثمانه مایه و اربعون. {lang="ar" dir="rtl" .add-right-margin}
 
-[عدد حروفه خمسه عشر الفا]{lang="ar" dir="rtl"}
-
-[و ثمانه مایه و اربعون.]{lang="ar" dir="rtl"}
-
-Seven hundred fifty-nine
-
-number of its letters
-
-fifteen thousand eight hundred forty
+> Seven hundred fifty-nine
+> number of its letters
+> fifteen thousand eight hundred forty
 
 {% figure 'fig-1-1' %}
 
@@ -149,39 +113,33 @@ Throughout, *Iʾjām* diacritics (the dots distinguishing the consonant pointing
 
 The handwriting of the fragmentary Qurʼan manuscript is bulky. Letters such as *alif* and *lām* are grounded on the baseline with no deviance. Déroche classifies the one leaf of this manuscript kept at the Khalili Collections, London, under the subgroup D.I and provides a description of its script.[^32] The characteristics greatly resemble those of the monumental script used for endowments, sura headings, and the beginning notes of certain Qurʼan manuscripts in New style. The similarities of style in these Qurʼan scripts are evidence of their production in the same geographic scope. The Qurʼan produced in Isfahan in 327 AH/939 CE (mentioned above; (see [fig. 2](#fig-1-2)) is an example. The text with which this copy begins is part of an endowment, and the verse count is written in Early Abbasid style. Although the quality of the script does not show clearly due to imprecise outlining of the words, the geometry of the letters can be mapped onto the Déroche scripts, and the following properties can be extracted:
 
-returning stroke of the lower portion of the isolated *alif* ([الف]{lang="ar" dir="rtl"}) is longer and tip-pointed;
+- returning stroke of the lower portion of the isolated *alif* ([الف]{lang="ar" dir="rtl"}) is longer and tip-pointed;
 
-medial *jim* ([ـجـ]{lang="ar" dir="rtl"}) is located on the baseline and the letter preceding it is located higher than it;
+- medial *jim* ([ـجـ]{lang="ar" dir="rtl"}) is located on the baseline and the letter preceding it is located higher than it;
 
-first *ʾayn* ([ع]{lang="ar" dir="rtl"}) has a wide, generally circular opening;
+- first *ʾayn* ([ع]{lang="ar" dir="rtl"}) has a wide, generally circular opening;
 
-medial *ʾayn* ([ـعـ]{lang="ar" dir="rtl"}) is an inverted triangle, and the last ʾayn ([ـع]{lang="ar" dir="rtl"}) has a sickle-like kern;
+- medial *ʾayn* ([ـعـ]{lang="ar" dir="rtl"}) is an inverted triangle, and the last ʾayn ([ـع]{lang="ar" dir="rtl"}) has a sickle-like kern;
 
-*mīm* ([م]{lang="ar" dir="rtl"}) has a short horizontal kern on the baseline;
+- *mīm* ([م]{lang="ar" dir="rtl"}) has a short horizontal kern on the baseline;
 
-*nun* ([ن]{lang="ar" dir="rtl"}), the bowl of *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are relatively big wide circles; and
+- *nun* ([ن]{lang="ar" dir="rtl"}), the bowl of *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are relatively big wide circles; and
 
-single *hā* ([ه]{lang="ar" dir="rtl"}) is a semicircle relying on a vertical line.
+- single *hā* ([ه]{lang="ar" dir="rtl"}) is a semicircle relying on a vertical line.
 
 These characteristics conform to the general attributes of Déroche’s group D. Still, a more accurate recognition of the style of the script is difficult because, besides the low quality, there is an in-between quality to the letters’ forms. Most letters conform to subgroup D.I, but the curve of letters *nūn* ([ن]{lang="ar" dir="rtl"}), *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are written in the manner of subgroup D.va, and *alif* ([الف]{lang="ar" dir="rtl"}) in subgroup D.III.
 
 A stronger resemblance can be seen in other Qurʼan manuscripts in New style. An example is the beginning of the seventh volume in a ten-volume Qurʼan copied by al-ʿabbās b. Muhammad b. al-ʿabbās al-Maṣāḥifī (the copyist of Qur’an manuscripts) al-Qazvīnī, containing its scribe’s autograph on two pages in Early Abbasid script. Its script mostly conforms to group D.I; only the letter *hā* conforms to group D.III, and the curve of letters *nūn* ([ن]{lang="ar" dir="rtl"}), *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are written in the manner of subgroup D.va ([fig. 5](#fig-1-5)). The autograph reads as follows:
 
-[بسم الله الرحمن الرحیم]{lang="ar" dir="rtl"}
-
-[کتب هذا الجز]{lang="ar" dir="rtl"}
-
-[و اذهبه العباس]{lang="ar" dir="rtl"}
-
-[بن محمد القزوینی]{lang="ar" dir="rtl"}
-
-In the Name of Allah, the Compassionate, the Merciful
-
-copied this *juzʾ*
-
-and illuminated it al-Abbas
-
-b\. Muhammd al-Qazvīnī
+> بسم الله الرحمن الرحیم
+> کتب هذا الجز
+> و اذهبه العباس
+> بن محمد القزوینی {lang="ar" dir="rtl" .add-right-margin}
+> 
+> In the Name of Allah, the Compassionate, the Merciful
+> copied this *juzʾ*
+> and illuminated it al-Abbas
+> b\. Muhammd al-Qazvīnī
 
  {% figure 'fig-1-5' %}
 
@@ -203,13 +161,10 @@ The table offers a visual comparison of the main letters of the Getty Qurʼan; t
 
 Efforts to recognize the place of production of the Qurʼan manuscripts in Early Abbasid script and determine the transformation of Qurʼan script styles in the first three centuries of hijra (622–913 CE) have always yielded ambiguous results due to the lack of reliable information. Yet, close examination of the Qurʼan manuscripts written in New style helps us acquire knowledge of regional styles of Qurʼanic calligraphy, at least in the eastern part of the Muslim world. Certain Qurʼan manuscripts contain inscriptions and insertions written in Early Abbasid style; due to their greater quantity and the intactness of their scribes’ autographs, they provide more accurate information regarding their place of production. Thus we have seen ample evidence that both the fragmentary Getty Qurʼan and the mix of D.I and D.va style can be traced to Central Iran. In short, the evidence is as follows:
 
-The insertion of a verse count at the beginning of the Getty Qur’an, containing the number of chapters (suras), words, and letters, which is also included in New style Qurʼans produced in Central Iran, such as the Qurʼan copied in 327 AH/939 CE and the one scribed by Ahmad b. Muhammad b. Yāsīn in 383 AH/993 CE, both produced in Isfahan.
-
-The resemblance of the Abjad system for counting the *āyah*s in the Getty Qur’an to the Abjad system common in the eastern part of the Muslim world.
-
-The considerable resemblance of the Getty Qurʼan’s script to the monumental script of the Qurʼan manuscripts produced in Central Iran.
-
-The resemblance of the diacritics used in the Getty Qurʼan to the tradition of the eastern part of the Muslim world, as found in *Al-Muḥkam fi Naqt al-Maṣāḥif* by Abu ʾAmr Uthmān b. Saʾīd al-Dānī.
+- The insertion of a verse count at the beginning of the Getty Qur’an, containing the number of chapters (suras), words, and letters, which is also included in New style Qurʼans produced in Central Iran, such as the Qurʼan copied in 327 AH/939 CE and the one scribed by Ahmad b. Muhammad b. Yāsīn in 383 AH/993 CE, both produced in Isfahan.
+- The resemblance of the Abjad system for counting the *āyah*s in the Getty Qur’an to the Abjad system common in the eastern part of the Muslim world.
+- The considerable resemblance of the Getty Qurʼan’s script to the monumental script of the Qurʼan manuscripts produced in Central Iran.
+- The resemblance of the diacritics used in the Getty Qurʼan to the tradition of the eastern part of the Muslim world, as found in *Al-Muḥkam fi Naqt al-Maṣāḥif* by Abu ʾAmr Uthmān b. Saʾīd al-Dānī.
 
 {% for person in contributor %}
 {{ person.bio | markdownify }} {.grj-contributor-bio}

@@ -86,13 +86,10 @@ However, only the style allows us to establish a link with the Grande Chartreuse
 
 Analysis of the handwriting does not (in the current state of our knowledge) connect the cuttings to a precise Carthusian foundation; it simply confirms that the Bible was written around about the 1160s. The writing shows the typical characteristics of late Caroline minuscule script, in the transitional phase, sometimes called pre-Gothic or proto-Gothic, before the emergence of the fully Gothic *littera textualis.* Features of this period are the use, in combination, of the following:
 
-the round *s* at the end of words (see, for example, fig. 1, last line, “eius”; “dominus” abbreviated to “dns”; and “deus” abbreviated to “ds”) and the tall *s* used at the beginning of the words “samariam” and “super,” three and four lines from the bottom
-
-both uncial *d* (with the ascender slanting to the left) and *d* with an upright ascender (both forms are found on the bottom two lines of fig. 1: “audite, “attendite,” and “plenitudo”; cf. “dns” and “ds”)
-
-both “et” and the ampersand (*&*) (the Genesis cutting, fig. 4, mostly uses “et,” but the ampersand also occurs once; see also the bottom two lines of the Getty cutting, fig. 1)
-
-a few ligatures persist, such as *st* (see, for example, “testem,” the very last word of the Getty cutting, fig. 1)
+- the round *s* at the end of words (see, for example, fig. 1, last line, “eius”; “dominus” abbreviated to “dns”; and “deus” abbreviated to “ds”) and the tall *s* used at the beginning of the words “samariam” and “super,” three and four lines from the bottom
+- both uncial *d* (with the ascender slanting to the left) and *d* with an upright ascender (both forms are found on the bottom two lines of fig. 1: “audite, “attendite,” and “plenitudo”; cf. “dns” and “ds”)
+- both “et” and the ampersand (*&*) (the Genesis cutting, fig. 4, mostly uses “et,” but the ampersand also occurs once; see also the bottom two lines of the Getty cutting, fig. 1)
+- a few ligatures persist, such as *st* (see, for example, “testem,” the very last word of the Getty cutting, fig. 1)
 
 Some differences in the writing among the cuttings suggest the participation of at least two scribes. If we compare, for example, the Esther cutting (see [fig. 2](#fig-2-2)) with the Getty cutting (see [fig. 1](#fig-2-1)), several differences are readily apparent. Overall, the former’s script is more laterally compressed, with letters and their individual strokes closer together; the common abbreviation mark to indicate a missing *m* or *n* is a horizontal stroke with serifs (very unlike the curved form found, for example, twice on the last line of the Getty cutting); the Tironian symbol for “et” (shaped somewhat like a *7*) appears (for example, twice in the first line of the left column) alongside the ampersand (for example in lines 4 and 9 of the right column); the *ct* ligature is still joined, not broken as in the Getty cutting (line 2 of the main text, “factum”); and other letterforms have small differences. Punctuation also provides corroborating evidence as to the date: we see an abundant use of the *punctus elevatus, punctus interrogativus,* and *punctus versus,*[^47] but the *punctus flexus,* introduced by “early Cistercian scribes to assist readers in deciphering the sense of unfamiliar texts”[^48] and later adopted by Carthusian scribes, is absent. As noticed by Dominique Mielle de Becdelièvre, the *punctus flexus* features in the Great Bible from the Grande Chartreuse but not in the older Notre-Dame de Casalibus one,[^49] again suggesting that the Bible to which the cuttings belong was a product of about the 1160s.
 
@@ -108,50 +105,41 @@ Some sequences of biblical books, as represented by the Getty-Berlin cuttings, a
 
 Lectern Bibles written for use in Carthusian houses have the individual books arranged in an apparently eccentric sequence; the reason for this is that they were intended to correspond more closely to (but rarely the same as) the order of the liturgical Matins and refectory readings of the year, as stipulated in the Carthusian Statutes, as follows (here in simplified summary form):[^55]
 
-Advent to Christmas Eve: Isaiah, Daniel (Statutes 2.2)\
-Epiphany to Septuagesima: Pauline Epistles (Statutes 4.1)\
-Septuagesima to Passion Sunday: Genesis to Judges (The Heptateuch) (Statutes 4.4)\
-Passion Sunday to Maundy Thursday: Jeremiah (Statutes 4.13)\
-Triduum (Last Supper to Easter evening): Lamentations\
-Easter to Pentecost: Acts, Catholic Epistles, Revelation (Statutes 4.32)\
-Pentecost to August: I–II Samuel, I–II Kings, I–II Chronicles (Statutes 5.1)\
-August to September: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus (Statutes 5.2)\
-September to October: Job, Tobit, Judith, Esther (Statutes 5.3)\
-October to November: I–II Maccabees (Statutes 5.4)\
-November to Advent: Ezekiel, the Twelve Minor Prophets, Daniel (Statutes 2.2)
+- Advent to Christmas Eve: Isaiah, Daniel (Statutes 2.2)
+- Epiphany to Septuagesima: Pauline Epistles (Statutes 4.1)
+- Septuagesima to Passion Sunday: Genesis to Judges (The Heptateuch) (Statutes 4.4)
+- Passion Sunday to Maundy Thursday: Jeremiah (Statutes 4.13)
+- Triduum (Last Supper to Easter evening): Lamentations
+- Easter to Pentecost: Acts, Catholic Epistles, Revelation (Statutes 4.32)
+- Pentecost to August: I–II Samuel, I–II Kings, I–II Chronicles (Statutes 5.1)
+- August to September: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus (Statutes 5.2)
+- September to October: Job, Tobit, Judith, Esther (Statutes 5.3)
+- October to November: I–II Maccabees (Statutes 5.4)
+- November to Advent: Ezekiel, the Twelve Minor Prophets, Daniel (Statutes 2.2)
 
-The Great Bible, for example, has almost exactly this sequence:[^56]
+The Great Bible, for example, has almost exactly this sequence:[^56] {.remove-paragraph-indent}
 
-Vol. I: Ezekiel, Daniel, Minor Prophets, Isaiah, Pauline Epistles\
-Vol. II: Heptateuch, Jeremiah, Lamentations\
-Vol. III: Acts, Catholic Epistles, Revelation, I–II Samuel, I–II Kings, I–II Chronicles\
-Vol. IV: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus, Job, Tobit, Judith, Esther, I–II Maccabees
+- Vol. I: Ezekiel, Daniel, Minor Prophets, Isaiah, Pauline Epistles
+- Vol. II: Heptateuch, Jeremiah, Lamentations
+- Vol. III: Acts, Catholic Epistles, Revelation, I–II Samuel, I–II Kings, I–II Chronicles
+- Vol. IV: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus, Job, Tobit, Judith, Esther, I–II Maccabees
 
-The biggest differences between this order of books and the order in which we usually find them in Bibles from the thirteenth century onward are that
+The biggest differences between this order of books and the order in which we usually find them in Bibles from the thirteenth century onward are that {.remove-paragraph-indent}
 
-Jeremiah and Lamentations follow the Heptateuch, rather than following Isaiah;
+- Jeremiah and Lamentations follow the Heptateuch, rather than following Isaiah;
+- Acts, the Catholic Epistles, and Revelation, which usually occur at the end of the New Testament, occur instead between the Old Testament books of the prophet Jeremiah and the historical books of Samuel, Kings, and Chronicles;
+- Proverbs, Ecclesiastes, Wisdom, and Ecclesiasticus precede, rather than follow, Job, Tobit, Judith, and Esther;
+- I–II Maccabees follow Job, Tobit, Judith, and Esther, rather than occurring at the end of the Old Testament;
+- Isaiah follows the Twelve Minor Prophets, rather than preceding the other Major and the Minor Prophets;
+- the Pauline Epistles follow Isaiah (and Daniel); and
+- the Gospels are absent.
 
-Acts, the Catholic Epistles, and Revelation, which usually occur at the end of the New Testament, occur instead between the Old Testament books of the prophet Jeremiah and the historical books of Samuel, Kings, and Chronicles;
+In the Getty-Berlin cuttings we find that, as above, {.remove-paragraph-indent}
 
-Proverbs, Ecclesiastes, Wisdom, and Ecclesiasticus precede, rather than follow, Job, Tobit, Judith, and Esther;
-
-I–II Maccabees follow Job, Tobit, Judith, and Esther, rather than occurring at the end of the Old Testament;
-
-Isaiah follows the Twelve Minor Prophets, rather than preceding the other Major and the Minor Prophets;
-
-the Pauline Epistles follow Isaiah (and Daniel); and
-
-the Gospels are absent.
-
-In the Getty-Berlin cuttings we find that, as above,
-
-Job follows Ecclesiasticus;
-
-Job precedes, not follows, Tobit, Judith, and Esther;
-
-Daniel follows the Twelve Minor Prophets; and
-
-the Gospels are absent (or at least not represented by any known cutting).
+- Job follows Ecclesiasticus;
+- Job precedes, not follows, Tobit, Judith, and Esther;
+- Daniel follows the Twelve Minor Prophets; and
+- the Gospels are absent (or at least not represented by any known cutting).
 
 ## Carthusian Lection Markings
 
