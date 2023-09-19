@@ -49,6 +49,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
 }
 
+/* UTILITY CLASSES
+============================================================================= */
+.small-caps {
+  font-feature-settings: "smcp";
+}
+
 /* PAGE HEADER
 ============================================================================= */
 .quire-page__header {
@@ -122,7 +128,7 @@ strong {
   text-indent: var(--standard-indent);
 }
 .quire-page h2 {
-  font-size: 18px;
+  font-size: 1.1rem;
   line-height: 1.57;
   font-weight: 500;
   font-style: italic;
@@ -131,6 +137,33 @@ strong {
   margin-bottom: 0;
   margin-left: var(--standard-indent);
   text-align: left;
+}
+.quire-page h3 {
+  font-size: 1rem;
+  line-height: 1.57;
+  font-family: var(--skolar-sans);
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+.quire-page h4 {
+  font-size: 1rem;
+  line-height: 1.57;
+  font-family: var(--skolar-sans);
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+/* TABLES
+============================================================================= */
+.quire-page__content .container .content table {
+  font-family: var(--skolar-sans);
+  margin: 1rem 0;
+}
+.content table td, 
+.content table th {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 /* FIGURE CAPTIONS
@@ -216,4 +249,36 @@ strong {
 }
 .quire-page__content .container .content .footnotes .footnote-backref {
   font-size: .75rem;
+}
+
+/* FOR GRJ 19
+============================================================================= */
+/* Appendix in paper 2 */
+.quire-page__content .container .content #alai-kidd-appendix {
+  background-color: #fafaf5;
+  border-radius: .33rem;
+  padding: 1rem var(--standard-indent);
+  text-align: left;
+}
+.quire-page #alai-kidd-appendix h2 {
+  margin-left: 0;
+}
+.quire-page #alai-kidd-appendix h3,
+.quire-page #alai-kidd-appendix h4 {
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+.quire-page #alai-kidd-appendix p + h3,
+.quire-page #alai-kidd-appendix p + h4 {
+  margin-top: var(--standard-indent);
+}
+.quire-page__content #alai-kidd-appendix table thead {
+  display: none;
+}
+.quire-page__content #alai-kidd-appendix table + .accordion-section {
+  margin-top: var(--standard-indent);
+}
+.quire-page__content .container .content #alai-kidd-appendix p {
+  text-indent: 0;
+  margin-bottom: .75rem;
 }
