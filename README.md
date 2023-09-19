@@ -73,6 +73,10 @@ TK
 **_includes/components/icons.js**
 Replaced default `fullscreen-icon` with a 600 weight version to match caption styles
 
+**_includes/components/menu/header.js**
+Adds series number and year to menu header for journal publication,
+uses added `series_issue_number` attribute in publication.yaml
+
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
 

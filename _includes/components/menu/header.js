@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Adds series number and year to menu header for journal publication
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -12,7 +16,7 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const siteTitle = eleventyConfig.getFilter('siteTitle')
-  const { contributor: publicationContributors, contributor_as_it_appears } = eleventyConfig.globalData.publication
+  const { contributor: publicationContributors, contributor_as_it_appears, series_issue_number, pub_date } = eleventyConfig.globalData.publication
 
   return function(params) {
     const { currentURL } = params
@@ -20,6 +24,9 @@ module.exports = function(eleventyConfig) {
 
     const homePageLinkOpenTag = isHomePage ? '' : `<a class="quire-menu__header__title-link" href="/">`
     const homePageLinkCloseTag = isHomePage ? '' : `</a>`
+
+    const pubYear = pub_date.getFullYear()
+    const issueContent = `Number ${series_issue_number} • ${pubYear}`
 
     const contributorContent = contributor_as_it_appears || contributors({ context: publicationContributors, format: 'string', type: 'primary' })
 
@@ -35,6 +42,10 @@ module.exports = function(eleventyConfig) {
             ${siteTitle()}
           </h4>
         ${homePageLinkCloseTag}
+
+        <div class="quire-menu__header__issue-info">
+          ${issueContent}
+        </div>
 
         <div class="quire-menu__header__contributors">
           ${contributorElement}
