@@ -111,11 +111,11 @@ Each folio of text in this Qurʼan manuscript includes five relatively bulky lin
 
 The ten leaves of the Getty Qurʼan constitute five bifolios. There are five lines on each leaf. Leaves one and two include *āyah*s (verses) of *āl ʿImrān* (3:122–26). Other leaves (folios 3–10) include *āyah*s of *al-anʿām* (6:106–22); apparently, two leaves of this part of the manuscript have been lost, as these leaves do not include *āyah*s (folios 3–10) 112–16. Leaf three, attached to leaf ten, includes *āyah*s of *ālʿImrān* (3:129–31). A rectangular illuminated panel is on the back of leaf 10v ([fig. 1](#fig-1-1)). On this leaf (recto) is a three-lined frame containing the following text:
 
-<span lang="ar" dir="rtl">سبع­مائه و تسع و خمسون</span>
+[سبع­مائه و تسع و خمسون]{lang="ar" dir="rtl"}
 
-<span lang="ar" dir="rtl">عدد حروفه خمسه عشر الفا</span>
+[عدد حروفه خمسه عشر الفا]{lang="ar" dir="rtl"}
 
-<span lang="ar" dir="rtl">و ثمانه مایه و اربعون.</span>
+[و ثمانه مایه و اربعون.]{lang="ar" dir="rtl"}
 
 Seven hundred fifty-nine
 
@@ -131,7 +131,7 @@ This is part of a longer text, called briefly “verse count,” in which the nu
 
 This information was also expressed in a four-volume Qurʼan in the horizontal format that was endowed to ʾalā al-Dīn Mosque in Konya, Turkey. Its scribe, Ahmad b. Muhammad b. Yāsīn, copied it in 383 AH/993 CE in Isfahan (TIEM, nos. 453–56). According to its precise calligraphy and conspicuous golden decorations, it was probably produced under the patronage of the courtiers of the Buyyid dynasty (945–1055 CE).[^21] The numbers of its chapters, words, and letters are written in circles inside a horizontal rectangular panel. Scholar of Islamic art Yasser Tabbaa lists and illustrates other manuscripts containing tables with verse counts.[^22] In the Getty Qurʼan, the rectangular panel on the front of the leaf (recto) is divided into two squares, each containing a circle. The four sets of intersecting lines radiating into the center of the circle intersect and form a diamond in the center of the circle. The surface decoration of the panel is totally overlaid with gold. The chain-like pattern of its margins and the ornamental dots of the background are all outlined in brown. This structure can also be seen in certain Qurʼan manuscripts copied in Abbasid style, an example of which is a fragment including *al-ḍuḥā* (Qur’an 93) to the end of the Qurʼan, written in Early Abbasid style, kept in the Chester Beatty Library.[^23] The Chester Beatty manuscript includes two such illuminated leaves at its beginning and at its end. On each of these leaves, as was described for Getty folio 10 above, is a rectangular panel made up of two square frames divided by four triangles (*lachak*). On the other leaves of the Getty fragments, as previously described, the text is written in five lines in gold. Each word or letter is outlined in brown ink to make it distinct from the background.
 
-The *harakāt*, or diacritics marking short vowels, are shown by small circular dots in red ink: for *fatḥa* <span lang="ar" dir="rtl">(ـَ)</span>, a circular dot is inserted above the letter; for *kasra* <span lang="ar" dir="rtl">(ـِ)</span>, a dot underneath; for *ḍamma* <span lang="ar" dir="rtl">(ـُ)</span>, a dot in the left side. Nunnation (*tanwin*) is shown with two dots, one over the other. These features correspond to the elements of style attributed to Arab grammarian Abul Aswad al-Duʾali (d. 69 AH/688 CE), a poet and the founder of Arabic syntax. He invented, as Egyptian encyclopedist al-Qalqashandī informs us in 821 AH / 1418 CE, three main *harakāt* plus *tanwin*.[^24] The vocalization in this copy is mainly used in the last letter of almost all words, for it is normally the last letter that defines a word’s function in the sentence. If no vowel pointing is applied, misunderstanding and change in meaning would be inevitable. This practice of using vocalization exclusively for the last letter is attributed to al-Duʾali.
+The *harakāt*, or diacritics marking short vowels, are shown by small circular dots in red ink: for *fatḥa* ([ـَ]{lang="ar" dir="rtl"}), a circular dot is inserted above the letter; for *kasra* ([ـِ]{lang="ar" dir="rtl"}), a dot underneath; for *ḍamma* ([ـُ]{lang="ar" dir="rtl"}), a dot in the left side. Nunnation (*tanwin*) is shown with two dots, one over the other. These features correspond to the elements of style attributed to Arab grammarian Abul Aswad al-Duʾali (d. 69 AH/688 CE), a poet and the founder of Arabic syntax. He invented, as Egyptian encyclopedist al-Qalqashandī informs us in 821 AH / 1418 CE, three main *harakāt* plus *tanwin*.[^24] The vocalization in this copy is mainly used in the last letter of almost all words, for it is normally the last letter that defines a word’s function in the sentence. If no vowel pointing is applied, misunderstanding and change in meaning would be inevitable. This practice of using vocalization exclusively for the last letter is attributed to al-Duʾali.
 
 Nunnation (*tanvīn*) in this Qurʼan is shown by two red dots. *Shadda* (a diacritic for doubling a consonant) is shown by a light-blue dot. There are no signs for *maddah* (long vowel) or the *hamza* (glottal stop). Because the light blue is the same one used in the illumination, the diacritics seem to have been inserted at the time when the manuscript was being copied. But the dots in dark blue otherwise surrounding the letters were inserted at a later time to complete diacritics or to demonstrate other modes of recitation (*qirāʾāt*) ([fig. 3](#fig-1-3)).
 
@@ -143,37 +143,37 @@ In the Getty Qurʼan, the marker used for the ends of individual verses is a ros
 
  {% figure 'fig-1-4' %}
 
-In the Abjad system, a number is assigned to each letter as its value. But the order of Abjad letters in the western part of the Muslim world is different from their order in the eastern part.<span lang="ar" dir="rtl">^28] Therefore, one of the main criteria for attributing a Qurʼan manuscript to the eastern or western part of the Muslim world is to examine the Abjad letters used for counting the *āyah*s, as art historian Jonathan Bloom does in attributing the early Fatamid Kufic manuscript known as the Blue Qur’an to the west of the Islamic world.[^29] The signs used for the numeral ten *āyah*s on the leaves of the Getty Qur’an, however, are assigned to *āyah*s 110, 120, and 130, as shown by [ق، ی</span>, <span lang="ar" dir="rtl">ق، ک</span> and <span lang="ar" dir="rtl">ق، ل</span>. There is no difference between the numeric value of these letters in the eastern and western Abjad systems. One folio of the Qur’an under discussion in this article in the National Library of Tunisia (Rubti 198)<span lang="ar" dir="rtl">^30] includes *al-hajj* (22:43–44, 22: 63–66), which has a sign for sixtieth *āyah* written with a [س</span>, one of the variable numbers used in the more common, eastern system.
+In the Abjad system, a number is assigned to each letter as its value. But the order of Abjad letters in the western part of the Muslim world is different from their order in the eastern part.[^28] Therefore, one of the main criteria for attributing a Qurʼan manuscript to the eastern or western part of the Muslim world is to examine the Abjad letters used for counting the *āyah*s, as art historian Jonathan Bloom does in attributing the early Fatamid Kufic manuscript known as the Blue Qur’an to the west of the Islamic world.[^29] The signs used for the numeral ten *āyah*s on the leaves of the Getty Qur’an, however, are assigned to *āyah*s 110, 120, and 130, as shown by [ق، ی]{lang="ar" dir="rtl"}, [ق، ک]{lang="ar" dir="rtl"} and [ق، ل]{lang="ar" dir="rtl"}. There is no difference between the numeric value of these letters in the eastern and western Abjad systems. One folio of the Qur’an under discussion in this article in the National Library of Tunisia (Rubti 198)[^30] includes *al-hajj* (22:43–44, 22: 63–66), which has a sign for sixtieth *āyah* written with a [س]{lang="ar" dir="rtl"}, one of the variable numbers used in the more common, eastern system.
 
 Throughout, *Iʾjām* diacritics (the dots distinguishing the consonant pointing), are respectively shown by very thin oblique black lines. The signs to for pause while reading (*waqf*) are indicated by dots of light and dark blue over the letters. This method has been attributed to Arabic linguist Yahya b. Yuʾmar (d. 129 AH/756 CE) and Arab grammarian Nasr b. ʿĀṣim (d. 89 AH / 708 CE). Purportedly, the fifth Umayyad caliph ʿAbd al-malik Marwān (r. 65–86 AH/685–705 CE) and governor of Hejaz and Iraq Hajjāj b. Yūsuf-i Thaqafī (r. 73–95 AH/692–714 CE) ordered its creation and establishment to help distinguish between formally similar letters.[^31]
 
 The handwriting of the fragmentary Qurʼan manuscript is bulky. Letters such as *alif* and *lām* are grounded on the baseline with no deviance. Déroche classifies the one leaf of this manuscript kept at the Khalili Collections, London, under the subgroup D.I and provides a description of its script.[^32] The characteristics greatly resemble those of the monumental script used for endowments, sura headings, and the beginning notes of certain Qurʼan manuscripts in New style. The similarities of style in these Qurʼan scripts are evidence of their production in the same geographic scope. The Qurʼan produced in Isfahan in 327 AH/939 CE (mentioned above; (see [fig. 2](#fig-1-2)) is an example. The text with which this copy begins is part of an endowment, and the verse count is written in Early Abbasid style. Although the quality of the script does not show clearly due to imprecise outlining of the words, the geometry of the letters can be mapped onto the Déroche scripts, and the following properties can be extracted:
 
-returning stroke of the lower portion of the isolated *alif* <span lang="ar" dir="rtl">(الف)</span> is longer and tip-pointed;
+returning stroke of the lower portion of the isolated *alif* ([الف]{lang="ar" dir="rtl"}) is longer and tip-pointed;
 
-medial *jim* <span lang="ar" dir="rtl">(ـجـ)</span> is located on the baseline and the letter preceding it is located higher than it;
+medial *jim* ([ـجـ]{lang="ar" dir="rtl"}) is located on the baseline and the letter preceding it is located higher than it;
 
-first *ʾayn* <span lang="ar" dir="rtl">(ع)</span> has a wide, generally circular opening;
+first *ʾayn* ([ع]{lang="ar" dir="rtl"}) has a wide, generally circular opening;
 
-medial *ʾayn* <span lang="ar" dir="rtl">(ـعـ)</span> is an inverted triangle, and the last ʾayn <span lang="ar" dir="rtl">(ـع)</span> has a sickle-like kern;
+medial *ʾayn* ([ـعـ]{lang="ar" dir="rtl"}) is an inverted triangle, and the last ʾayn ([ـع]{lang="ar" dir="rtl"}) has a sickle-like kern;
 
-*mīm* <span lang="ar" dir="rtl">(م)</span> has a short horizontal kern on the baseline;
+*mīm* ([م]{lang="ar" dir="rtl"}) has a short horizontal kern on the baseline;
 
-*nun* <span lang="ar" dir="rtl">(ن)</span>, the bowl of *sīn* <span lang="ar" dir="rtl">(س)</span>, and *yā* <span lang="ar" dir="rtl">(ی)</span> are relatively big wide circles; and
+*nun* ([ن]{lang="ar" dir="rtl"}), the bowl of *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are relatively big wide circles; and
 
-single *hā* <span lang="ar" dir="rtl">(ه)</span> is a semicircle relying on a vertical line.
+single *hā* ([ه]{lang="ar" dir="rtl"}) is a semicircle relying on a vertical line.
 
-These characteristics conform to the general attributes of Déroche’s group D. Still, a more accurate recognition of the style of the script is difficult because, besides the low quality, there is an in-between quality to the letters’ forms. Most letters conform to subgroup D.I, but the curve of letters *nūn* <span lang="ar" dir="rtl">(ن)</span>, *sīn* <span lang="ar" dir="rtl">(س)</span>, and *yā* <span lang="ar" dir="rtl">(ی)</span> are written in the manner of subgroup D.va, and *alif* <span lang="ar" dir="rtl">(الف)</span> in subgroup D.III.
+These characteristics conform to the general attributes of Déroche’s group D. Still, a more accurate recognition of the style of the script is difficult because, besides the low quality, there is an in-between quality to the letters’ forms. Most letters conform to subgroup D.I, but the curve of letters *nūn* ([ن]{lang="ar" dir="rtl"}), *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are written in the manner of subgroup D.va, and *alif* ([الف]{lang="ar" dir="rtl"}) in subgroup D.III.
 
-A stronger resemblance can be seen in other Qurʼan manuscripts in New style. An example is the beginning of the seventh volume in a ten-volume Qurʼan copied by al-ʿabbās b. Muhammad b. al-ʿabbās al-Maṣāḥifī (the copyist of Qur’an manuscripts) al-Qazvīnī, containing its scribe’s autograph on two pages in Early Abbasid script. Its script mostly conforms to group D.I; only the letter *hā* conforms to group D.III, and the curve of letters *nūn* <span lang="ar" dir="rtl">(ن)</span>, *sīn* <span lang="ar" dir="rtl">(س)</span>, and *yā* <span lang="ar" dir="rtl">(ی)</span> are written in the manner of subgroup D.va ([fig. 5](#fig-1-5)). The autograph reads as follows:
+A stronger resemblance can be seen in other Qurʼan manuscripts in New style. An example is the beginning of the seventh volume in a ten-volume Qurʼan copied by al-ʿabbās b. Muhammad b. al-ʿabbās al-Maṣāḥifī (the copyist of Qur’an manuscripts) al-Qazvīnī, containing its scribe’s autograph on two pages in Early Abbasid script. Its script mostly conforms to group D.I; only the letter *hā* conforms to group D.III, and the curve of letters *nūn* ([ن]{lang="ar" dir="rtl"}), *sīn* ([س]{lang="ar" dir="rtl"}), and *yā* ([ی]{lang="ar" dir="rtl"}) are written in the manner of subgroup D.va ([fig. 5](#fig-1-5)). The autograph reads as follows:
 
-<span lang="ar" dir="rtl">بسم الله الرحمن الرحیم</span>
+[بسم الله الرحمن الرحیم]{lang="ar" dir="rtl"}
 
-<span lang="ar" dir="rtl">کتب هذا الجز</span>
+[کتب هذا الجز]{lang="ar" dir="rtl"}
 
-<span lang="ar" dir="rtl">و اذهبه العباس</span>
+[و اذهبه العباس]{lang="ar" dir="rtl"}
 
-<span lang="ar" dir="rtl">بن محمد القزوینی</span>
+[بن محمد القزوینی]{lang="ar" dir="rtl"}
 
 In the Name of Allah, the Compassionate, the Merciful
 
@@ -189,7 +189,7 @@ The scribe is allegedly from Qazvīn, a city in Central Iran, located in 'Irāq-
 
 Um al-Umarā or Um al-Mulūk (mother of kings) was the title of Sayyidah Malik Khātūn or Shīrīn Dukht-i Ispahbud Rustam-i Ṭabarī (d. 1028), the first Shiite woman ruler in the history of Iran. Belonging to the Bāvandiān family of Tabaristān, she married Fakhr al-Dawla Daylamī. Upon her husband’s death in 387 AH/997 CE, she officially became the ruler of the mountainous region (Jibāl) of the Buyyid realm of dominion. Her two sons—Shams al-Dawla Daylamī, governor of Hamedan (r. 387–412 AH/997–1021 CE), and Majd al-Dawla Daylamī, governor of Rayy (387–420 AH/997–1029 CE)—were mere children when they became governors. The forenamed scribe worked for the library of the Buyyid’s court; the script used in copying the manuscript is in New style and resembles the style of the aforementioned Qurʼan manuscript produced in Isfahan in 939.[^35]
 
-These characteristics are also seen in the monumental script of another copy of the Qur’an. On the basis of its resemblance to prior manuscripts, it was most probably copied in the tenth century in Central Iran (Library of Astan Quds Razavi, no. 5015), although it is missing the date of completion and the scribe’s autograph. It is the fourth volume of a ten-volume Qurʼan in which the sura headings and the insertions on the pages’ margins are written in Early Abbasid style. Its writing and the outlining of the golden Early Abbasid are more exacting compared to other examples. In the sura heading of *al-anʾām*, the forms of letters with the vertical tooth of medial *ʾayn* <span lang="ar" dir="rtl">ـعـ)</span>, the broad shape of *mīm* <span lang="ar" dir="rtl">(م)</span>, the head of *wāw* <span lang="ar" dir="rtl">(و)</span> on the baseline, and the short arms of *lā* <span lang="ar" dir="rtl">(لا)</span> conform to subgroups D.I and D.va ([fig. 6](#fig-1-6])). Some explanation about the place of the sura’s revelation is written in the same style inside the medallion beside the sura heading.
+These characteristics are also seen in the monumental script of another copy of the Qur’an. On the basis of its resemblance to prior manuscripts, it was most probably copied in the tenth century in Central Iran (Library of Astan Quds Razavi, no. 5015), although it is missing the date of completion and the scribe’s autograph. It is the fourth volume of a ten-volume Qurʼan in which the sura headings and the insertions on the pages’ margins are written in Early Abbasid style. Its writing and the outlining of the golden Early Abbasid are more exacting compared to other examples. In the sura heading of *al-anʾām*, the forms of letters with the vertical tooth of medial *ʾayn* ([ـعـ]{lang="ar" dir="rtl"}), the broad shape of *mīm* ([م]{lang="ar" dir="rtl"}), the head of *wāw* ([و]{lang="ar" dir="rtl"}) on the baseline, and the short arms of *lā* ([لا]{lang="ar" dir="rtl"}) conform to subgroups D.I and D.va ([fig. 6](#fig-1-6])). Some explanation about the place of the sura’s revelation is written in the same style inside the medallion beside the sura heading.
 
  {% figure 'fig-1-6' %}
 
@@ -285,6 +285,6 @@ The resemblance of the diacritics used in the Getty Qurʼan to the tradition of 
 
 [^34]: Ramezanali Shakeri, *Ganj-i Hizār Sāli* (The thousand-year treasure) (Mashhad: Astan Quds Razavi, 1988), 65. The colophon is as follows:
 
-    <span lang="ar" dir="rtl">"فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه."</span>
+    ["فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه."]{lang="ar" dir="rtl"}
 
 [^35]: For more information on this style, see Sahragard, *Saṭr-i Mastūr*, 134–38.

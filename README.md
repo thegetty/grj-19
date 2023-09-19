@@ -73,6 +73,8 @@ TK
 **_includes/components/icons.js**
 Replaced default `fullscreen-icon` with a 600 weight version to match caption styles
 
+**_plugins/markdown/index.js**
+Changed `allowedAttributes` on elements to allow any attribute
 
 ## License
 

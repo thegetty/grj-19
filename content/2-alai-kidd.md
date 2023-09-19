@@ -184,8 +184,8 @@ Because most of the cuttings are completely unpublished, what follows is a detai
 | Format | Meaning |
 | --- | --- |
 | *Italics* | rubrics in red |
-| <span class="small-caps">Small caps</span> | majuscules |
-| <span class="small-caps">*Small caps in Italics*</span> | majuscules in color(s) |
+| [Small caps]{.small-caps} | majuscules |
+| [*Small caps in Italics*]{.small-caps} | majuscules in color(s) |
 | [Square brackets] | missing text |
 
 {% accordion '### Septuagesima' %}
@@ -194,7 +194,7 @@ Because most of the cuttings are completely unpublished, what follows is a detai
 
 18 lines of text, with 15-line foliate illuminated initial, with gold and body-color
 
-recto: “<span class="small-caps">*Incipit liber Bresit id est Genesis*. In principio</span> creauit deus cęlum . . . ab aquis. Et fecit deus” ([see fig. 4](#fig-2-4))
+recto: “[*Incipit liber Bresit id est Genesis*. In principio]{.small-caps} creauit deus cęlum . . . ab aquis. Et fecit deus” ([see fig. 4](#fig-2-4))
 
 verso: “cęli & cunctas bestias terrę . . . ligno paradisi. Cui res\[pondit\]”
 
@@ -208,7 +208,7 @@ Kupferstichkabinett, Min. 30490
 
 recto: “Mortem mittit dominus in omnia peccora egyptiorum . . . Consecutus est pharao israel et cooperuit egyptios mare” (part of capitula list; Donatien de Bruyne, *Sommaires, divisions, et rubriques de la bible latine* (Namur: A. Godienne, 1914), 10, series A, XVI.5–XXIII)
 
-verso: “*<span class="small-caps">Incipit liber Elles</span>moth qui est exodus*. <span class="small-caps">Haec sunt nomina fi</span>liorum israhel”
+verso: “*[Incipit liber Elles]{.small-caps}moth qui est exodus*. [Haec sunt nomina fi]{.small-caps}liorum israhel”
 
 Exodus 1:1
 
@@ -218,7 +218,7 @@ Kupferstichkabinett, Inv. 145
 
 18 lines, with 10-line foliate initial
 
-recto: “<span class="small-caps">Explicivnt capitula. Incipit liber</span> / uagecra id est / <span class="small-caps">Leviticvs. Uocavit</span> autem moysen . . . uictimas. si holocaustum”
+recto: “[Explicivnt capitula. Incipit liber]{.small-caps} / uagecra id est / [Leviticvs. Uocavit]{.small-caps} autem moysen . . . uictimas. si holocaustum”
 
 verso stuck down, but partially legible and starting: “\[adole\]bit sacerdos super altare in holocaustum”
 
@@ -232,7 +232,7 @@ Kupferstichkabinett, Min. 4678
 
 recto: “ex populo xiiii milia dcc quod murmurauerunt aduersus moysen . . . et fecit ei sicut fecit seon regi amorreorum”
 
-verso: “Nouem tribubus et dimidię tributi manasse . . . plebis patris sui. <span class="small-caps">Explicivnt capitula. Incipit Vagedaber quod est Numerorvm liber. Locvtvsque</span> est dominus ad Moysen in deserto sy\[nai\]”
+verso: “Nouem tribubus et dimidię tributi manasse . . . plebis patris sui. [Explicivnt capitula. Incipit Vagedaber quod est Numerorvm liber. Locvtvsque]{.small-caps} est dominus ad Moysen in deserto sy\[nai\]”
 
 Capitula (De Bruyne, *Sommaires,* 29–30, series A, XLIII–LIIII; 32, series A, LXX–LXXIIII)
 
@@ -244,7 +244,7 @@ Kupferstichkabinett, Inv. 127
 
 16 lines of text, with 7-line (+ stem = 13-line) foliated initial
 
-recto: “<span class="small-caps">Explicivnt capitula. Incipit liber Helleadarbarim id est Devteronomivm Hęc svnt verba</span> quę locutus est moyses . . . campestri. con\[tra\]”
+recto: “[Explicivnt capitula. Incipit liber Helleadarbarim id est Devteronomivm Hęc svnt verba]{.small-caps} quę locutus est moyses . . . campestri. con\[tra\]”
 
 verso: “solitudinem; per uiam maris rubri . . . nec uoci uestrę uoluit”
 
@@ -256,9 +256,9 @@ Kupferstichkabinett, Min. 30491
 
 9 lines of text
 
-recto: “israel. <span class="small-caps">Explicit liber Helleadabarim id est Devteromimivm. Incipit prologus beati Iheronimi presbiteri in librum Iosue bennun</span>.”
+recto: “israel. [Explicit liber Helleadabarim id est Devteromimivm. Incipit prologus beati Iheronimi presbiteri in librum Iosue bennun]{.small-caps}.”
 
-verso: “Vnde natus sit abraham. . . . alloquitur eos iosue. <span class="small-caps">Explicivnt capitula Incipit liber Iosve Bennvn</span>”
+verso: “Vnde natus sit abraham. . . . alloquitur eos iosue. [Explicivnt capitula Incipit liber Iosve Bennvn]{.small-caps}”
 
 Deuteronomy (last word only); Joshua capitula (De Bruyne, *Sommaires,* 42, series A, XXXIII).
 
@@ -268,7 +268,7 @@ Kupferstichkabinett, Inv. 157
 
 9 lines of text, with 6-line foliate initial
 
-recto: “<span class="small-caps">Tandem</span> finito pentateuco moysi . . . nominibus effe\[runt\]”
+recto: “[Tandem]{.small-caps} finito pentateuco moysi . . . nominibus effe\[runt\]”
 
 verso: “iudeos; quod calumniandi . . . quare danielem iuxta”
 
@@ -284,7 +284,7 @@ Ruth, with halo, holding and pointing to a book
 
 recto stuck down, but partially legible, starting at “sunt eis uxores de filiabus Jabes”
 
-verso: “<span class="small-caps">Explicit liber Sophtim idem Ivdicvm. Incipit liber Rvth. In diebvs vnivs</span> iudicis . . . ipsa cum filiis qui”
+verso: “[Explicit liber Sophtim idem Ivdicvm. Incipit liber Rvth. In diebvs vnivs]{.small-caps} iudicis . . . ipsa cum filiis qui”
 
 recto: Judges 21:14–20(?); verso: Ruth 1:1–4
 
@@ -299,7 +299,7 @@ Kupferstichkabinett, Min. 4683
 
 recto: “Et quia \[sic\] descendentes de iudea docebant fratres . . . Distulit autem illos certissime sciens de ui.”
 
-verso: “<span class="small-caps">Incipit liber Actvvm apostolorum. Primvm qvidem</span> sermonem feci . . . interrogabant eum dicentes. Domine”
+verso: “[Incipit liber Actvvm apostolorum. Primvm qvidem]{.small-caps} sermonem feci . . . interrogabant eum dicentes. Domine”
 
 Capitula (similar to De Bruyne*, Sommaires,* 377–79, series “In,” XL–LXIIII)
 
@@ -326,7 +326,7 @@ Kupferstichkabinett, Inv. 137
 
 19 lines of text, with 8-line (+ stem = 16-line) foliate initial
 
-recto: “<span class="small-caps">Fvit vir</span> unus de ramathan . . . dies et immola\[vit\]”
+recto: “[Fvit vir]{.small-caps} unus de ramathan . . . dies et immola\[vit\]”
 
 verso: “omnibus diebus vitę eius; . . . peticionem quam”
 
@@ -340,7 +340,7 @@ Kupferstichkabinett, Inv. 150
 
 28 lines of text
 
-recto: “<span class="small-caps">Incipit liber Regvm .II. Factvm</span> est autem postquam mortuus est saul. . . . et equites; appropin\[quabant\]”
+recto: “[Incipit liber Regvm .II. Factvm]{.small-caps} est autem postquam mortuus est saul. . . . et equites; appropin\[quabant\]”
 
 verso: ergo et transierunt . . . Percussit ergo eum abner”
 
@@ -354,7 +354,7 @@ Kupferstichkabinett, Inv. 149
 
 14 lines of text, with 9-line foliate initial
 
-“<span class="small-caps">Si septva</span>ginta interpretum . . . erat etiam nostro silen\[tio\]”
+“[Si septva]{.small-caps}ginta interpretum . . . erat etiam nostro silen\[tio\]”
 
 Stegmüller, Repertorium biblicum medii aevi, no. 328. Printed in Weber and Gryson, Biblia Sacra iuxta Vulgatam versionem, 772, lines 1–4.
 
@@ -380,7 +380,7 @@ Kupferstichkabinett, Inv. 158
 
 15 lines of text, with 11-line foliate initial
 
-“<span class="small-caps">Adam Seth</span> henos \[sic\] . . . dondanim. Filii autem cham.”
+“[Adam Seth]{.small-caps} henos \[sic\] . . . dondanim. Filii autem cham.”
 
 stuck down: reverse not readily legible
 
@@ -394,7 +394,7 @@ Kupferstichkabinett, Inv. 4679
 
 King Solomon seated, with halo, crown, and scepter
 
-recto: “<span class="small-caps">Conforta</span>tus est ergo Salomon . . . Precepitque Salomon”; verso “erant in terra . . . quam dinumerauit . . . David in area”
+recto: “[Conforta]{.small-caps}tus est ergo Salomon . . . Precepitque Salomon”; verso “erant in terra . . . quam dinumerauit . . . David in area”
 
 II Chronicles 1:1–2; 2:17–3:1
 
@@ -407,7 +407,7 @@ Kupferstichkabinett, Min. 4684
 
 18 lines of text, with 9-line line (+ stem = 17-line) foliate initial
 
-recto: “*<span class="small-caps">Incipiunt Parabole Salomonis</span>*. Parabolę salomonis filii dauid . . . Sapientiam atque doctrinam”
+recto: “*[Incipiunt Parabole Salomonis]{.small-caps}*. Parabolę salomonis filii dauid . . . Sapientiam atque doctrinam”
 
 verso: “proferam uobis spiritum meum. . . . paruulorum interficiet eos;”
 
@@ -470,7 +470,7 @@ Kupferstichkabinett, Inv. 159
 
 recto: “*Explicit prologus.* Si aut ficellam \[sic\] . . . in sudore uultus mei”
 
-verso: “quam ex aliorum negocio; *<span class="small-caps">Incipit liber Iob</span>*”
+verso: “quam ex aliorum negocio; *[Incipit liber Iob]{.small-caps}*”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 357 (not in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem*).
 
@@ -508,7 +508,7 @@ Tobit
 
 15 lines of text, with 11-line foliate initial
 
-recto: “*<span class="small-caps">Incipit liber Tobie</span>*. Tobias ex tribu & ciuitate neptalim . . . esset in diebus salma\[nassar\]”
+recto: “*[Incipit liber Tobie]{.small-caps}*. Tobias ex tribu & ciuitate neptalim . . . esset in diebus salma\[nassar\]”
 
 verso: “dominis suis. quia non licet . . . mortem et in fabu\[lam\]”
 
@@ -540,9 +540,9 @@ Kupferstichkabinett, Inv. 141
 
 recto stuck down, but partially legible: “quadraginta duobus et uidit . . . non enim excidit verbum Dei”
 
-verso, col. 1: “ei et omnis generatio ei; . . . habitatoribus terrę; Explicit liber Tobie. *<span class="small-caps">Incipit prologus beati Ieronimi presbiteri in librum Hester.</span>*”
+verso, col. 1: “ei et omnis generatio ei; . . . habitatoribus terrę; Explicit liber Tobie. *[Incipit prologus beati Ieronimi presbiteri in librum Hester.]{.small-caps}*”
 
-verso, col. 2: “*<span class="small-caps">Incipit liber Hester</span>*. In diebus assueri . . . Cumque implerentur”
+verso, col. 2: “*[Incipit liber Hester]{.small-caps}*. In diebus assueri . . . Cumque implerentur”
 
 Recto includes Tobit 14:1–6; verso: Tobit 14:16 (end); Esther 1:1–5
 
@@ -558,7 +558,7 @@ recto: “\[sangui\]ne & pietatem nostram . . . sed e contrario”
 
 Esther 16:10–15
 
-verso: “*<span class="small-caps">Incipit prologus beati Ieronimi presbiteri in librum Iudith.</span>* Apud hebreos . . . sanctarum scriptu\[rarum\]”
+verso: “*[Incipit prologus beati Ieronimi presbiteri in librum Iudith.]{.small-caps}* Apud hebreos . . . sanctarum scriptu\[rarum\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 335. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 962, lines 1–3.
 
@@ -572,7 +572,7 @@ recto: “elevasset faciem & ardentibus oculis furorem pectoris indicasset . .�
 
 Esther 15:10–16 (heading)
 
-verso: “\<span class="small-caps">insuperabi\]lem superaret. *[Incipit liber Iudith</span>*. *Expli*\[ . . . \]. Arfaxaz \[sic\] itaque rex medorum . . . regni sui nabuchodo\[nosor\]”
+verso: “\[insuperabi\]lem superaret. *[Incipit liber Iudith]{.small-caps}*. *Expli*\[ . . . \]. Arfaxaz \[sic\] itaque rex medorum . . . regni sui nabuchodo\[nosor\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 335 (last words); Judith 1:1–5
 
@@ -617,7 +617,7 @@ recto: “\[redi\]rent cognoverunt nicanorem . . . ciuibus paratus”
 
 II Maccabees 15:28–30
 
-verso: “*<span class="small-caps">Incipit prefatio Eusebii Ieronimi in librum Ezdram</span>*”
+verso: “*[Incipit prefatio Eusebii Ieronimi in librum Ezdram]{.small-caps}*”
 
 Carthusian letters “.*f.t*” next to II Maccabees 15:29
 
@@ -641,7 +641,7 @@ Kupferstichkabinett, Min. 4681
 
 16 lines, with a 13-line foliate initial
 
-recto: “*<span class="small-caps">Incipit liber Esdre</span>*. Anno primo cyri . . . regno suo; etiam”
+recto: “*[Incipit liber Esdre]{.small-caps}*. Anno primo cyri . . . regno suo; etiam”
 
 verso: “\[Mithri\]dati filii gazabar . . . saraia. rahelaia.”
 
@@ -672,7 +672,7 @@ recto: stuck down, and thus only partially legible, but apparently including as 
 
 Nehemiah 12:39–40, 41
 
-verso: “*Explicit liber Ezdre.* <span class="small-caps">*Incipit prologus sancti Ieronimi presbiteri in Hiezechielem prophetam.* Hiezechi</span>el propheta cum ioachim . . . tradidissent;”
+verso: “*Explicit liber Ezdre.* [*Incipit prologus sancti Ieronimi presbiteri in Hiezechielem prophetam.* Hiezechi]{.small-caps}el propheta cum ioachim . . . tradidissent;”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 492.
 
@@ -684,7 +684,7 @@ Kupferstichkabinett, Min. 4680
 
 13 lines of text, with 9-line foliate initial.
 
-recto: “<span class="small-caps">*Incipit liber Hiezechiel prophete*. Et factvm</span> est in tricesimo anno. . . . quintus trans\[migrationis\]”
+recto: “[*Incipit liber Hiezechiel prophete*. Et factvm]{.small-caps} est in tricesimo anno. . . . quintus trans\[migrationis\]”
 
 verso: “pactum meum; . . . Loqueris ergo uer\[ba\]”
 
@@ -696,7 +696,7 @@ Kupferstichkabinett, Inv. 146
 
 7 lines of text
 
-recto: “<span class="small-caps">Explicit Ihezechiel propheta.</span> *<span class="small-caps">incipit prologus sancti Ieronimi presbiteri in librum duodecim prophetarum</span>*”
+recto: “[Explicit Ihezechiel propheta.]{.small-caps} *[incipit prologus sancti Ieronimi presbiteri in librum duodecim prophetarum]{.small-caps}*”
 
 verso: “& ibat post amatores suos; . . . iuuentutis suę”
 
@@ -708,7 +708,7 @@ Kupferstichkabinett, Inv. 156
 
 15 lines of text, with 9-line foliate initial
 
-recto: “<span class="small-caps">Non idem or</span>do est duodecim prophetarum . . . de omnibus dicere.”
+recto: “[Non idem or]{.small-caps}do est duodecim prophetarum . . . de omnibus dicere.”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 500. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,*1907, lines 1–5.
 
@@ -722,7 +722,7 @@ Kupferstichkabinett, Inv. 161
 
 13 lines of text and a 9-line historiated initial: Hosea holding a scroll
 
-recto: “titulos prophetaverunt. *Explicit prologus.* *<span class="small-caps">Incipit Osee propheta</span>*. <span class="small-caps">Verbum</span> domini quod factum est ad osee . . . Et dixit dominus ad.”
+recto: “titulos prophetaverunt. *Explicit prologus.* *[Incipit Osee propheta]{.small-caps}*. [Verbum]{.small-caps} domini quod factum est ad osee . . . Et dixit dominus ad.”
 
 End of prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 500. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 1907, lines 8–9), and Hosea 1:1–2 (a few words of 1:11 visible on the verso due to show-through)
 
@@ -732,7 +732,7 @@ Private collection
 
 16 lines of text and an 11-line foliate initial
 
-recto: “<span class="small-caps">Explicit Osee Propheta</span>. <span class="small-caps">Incipit Iohel propheta. Verbvm</span> domini quod factum est . . . generationi alterę. Resi\[duum\]”
+recto: “[Explicit Osee Propheta]{.small-caps}. [Incipit Iohel propheta. Verbvm]{.small-caps} domini quod factum est . . . generationi alterę. Resi\[duum\]”
 
 verso: “et dicent. Parce domine . . . et lętare; quoniam”
 
@@ -750,7 +750,7 @@ recto: “locutus est. Clamate . . .” (the cutting is stuck down, but the fi
 
 Joel 3:8–?
 
-verso: “<span class="small-caps">Incipit Amos propheta. Uerba</span> Amos . . . speciosa pastorum”
+verso: “[Incipit Amos propheta. Uerba]{.small-caps} Amos . . . speciosa pastorum”
 
 Amos 1:1–2
 
@@ -760,7 +760,7 @@ Kupferstichkabinett, Min. 1907
 
 14 lines of text, with 9-line historiated initial: Obadiah, with halo and scroll
 
-recto: “<span class="small-caps">Incipit Abdias propheta. Visio Abdie.</span> Hęc dicit dominus . . . in sci / s / suris petrę.”
+recto: “[Incipit Abdias propheta. Visio Abdie.]{.small-caps} Hęc dicit dominus . . . in sci / s / suris petrę.”
 
 Obadiah 1:1–3
 
@@ -778,7 +778,7 @@ recto: “in fundo maris; . . . Nunquid non”
 
 Amos 9:3–7
 
-verso: “<span class="small-caps">Explicit Abdias propheta</span>. <span class="small-caps">Incipit Ionas propheta. Et factvm</span> est uerbum domini . . . in Tharsis; a facię domini.”
+verso: “[Explicit Abdias propheta]{.small-caps}. [Incipit Ionas propheta. Et factvm]{.small-caps} est uerbum domini . . . in Tharsis; a facię domini.”
 
 Jonah 1:1–3
 
@@ -792,7 +792,7 @@ Kupferstichkabinett, Inv. 128
 
 recto: stuck down; partially legible text includes “\[po\]pulo es tu. Et d\[ixit\] . . .” (Jonah 1:8)
 
-verso: “<span class="small-caps">Explicit Ionas propheta;</span> *Incipit micheas propheta*. <span class="small-caps">Incipit Micheas propheta. Uerbum</span> domini quod factum est ad Mich / e / am . . . uobis in testem.”
+verso: “[Explicit Ionas propheta;]{.small-caps} *Incipit micheas propheta*. [Incipit Micheas propheta. Uerbum]{.small-caps} domini quod factum est ad Mich / e / am . . . uobis in testem.”
 
 Micah 1:1–2
 
@@ -808,7 +808,7 @@ recto: “die illa dicit dominus . . . in omnibus gentibus”
 
 Micah 5:10–14
 
-verso: “*Incipit naum propheta*. <span class="small-caps">Onvs Nini</span>uę . . . irascens ipse inimi\[cis\]”
+verso: “*Incipit naum propheta*. [Onvs Nini]{.small-caps}uę . . . irascens ipse inimi\[cis\]”
 
 Nahum 1:1–2
 
@@ -824,7 +824,7 @@ recto: “\[tribulati\]onis et sciens sperantes . . . non affligam te ul\[tra\
 
 Nahum 1:7–12
 
-verso: “<span class="small-caps">*Incipit Abacuc propheta*. Onvs</span> quod uidit abacuc propheta. . . . in iusticiam contra me? Quare respicis con\[temptores\]” (This verse is not present in all versions of the Bible.)
+verso: “[*Incipit Abacuc propheta*. Onvs]{.small-caps} quod uidit abacuc propheta. . . . in iusticiam contra me? Quare respicis con\[temptores\]” (This verse is not present in all versions of the Bible.)
 
 Habakkuk 1:1–3
 
@@ -852,7 +852,7 @@ recto: “\[sage\]nam suam; et semper . . . & apparebit”
 
 Habakkuk 1:17–2:3
 
-verso: “<span class="small-caps">Explicit Abacvc propheta</span>. *Incipit sophonias propheta*. Uerbum domini quod factum est . . . filii ammon re\[gis\]”
+verso: “[Explicit Abacvc propheta]{.small-caps}. *Incipit sophonias propheta*. Uerbum domini quod factum est . . . filii ammon re\[gis\]”
 
 Zephaniah 1:1
 
@@ -862,7 +862,7 @@ Kupferstichkabinett, Inv. 153
 
 28 lines of text, with a 14-line foliate initial and a 17-line historiated initial: Zechariah, with halo and scroll
 
-recto: “\<span class="small-caps">oculis vestris di\]cit dominus. [Explicit Sophonias propheta.</span> <span class="small-caps">*Incipit Aggeus propheta*. In</span> anno secundo darii regis . . . ob causam dicit dominus exercituus quia”
+recto: “\[oculis vestris di\]cit dominus. [Explicit Sophonias propheta.]{.small-caps} [*Incipit Aggeus propheta*. In]{.small-caps} anno secundo darii regis . . . ob causam dicit dominus exercituus quia”
 
 Zephaniah 3:20 (end); Haggai 1:1–9
 
@@ -884,7 +884,7 @@ recto: “planctus ad remmon \[sic\] . . . Et pseudo \[sic\] prophetas; et”
 
 Zacharias 12:11–13:2
 
-verso: “*<span class="small-caps">Incipit Malachias propheta</span>*. Onus uerbi domini ad israel . . . destructi sumus sed”
+verso: “*[Incipit Malachias propheta]{.small-caps}*. Onus uerbi domini ad israel . . . destructi sumus sed”
 
 Malachi 1:1–4
 
@@ -896,9 +896,9 @@ Kupferstichkabinett, Inv. 143
 
 19 lines, with 10-line foliate initial (verso), and 10-line historiated initial (recto): Daniel, with halo and scroll, standing at the gate of a city
 
-recto: “\<span class="small-caps">ser\]ui mei. quam mandaui . . . terram anathemate. [Explicit Malachias propheta</span>. *Incipit prologus sancti hieronimi presbiteri in danielem prophetam;* <span class="small-caps">Danielem</span> prophetam iuxta lxxta . . . chaldaicus est. et qui”
+recto: “\[ser\]ui mei. quam mandaui . . . terram anathemate. [Explicit Malachias propheta]{.small-caps}. *Incipit prologus sancti hieronimi presbiteri in danielem prophetam;* [Danielem]{.small-caps} prophetam iuxta lxxta . . . chaldaicus est. et qui”
 
-verso: “*<span class="small-caps">Incipit Daniel propheta</span>*. <span class="small-caps">Anno ter</span>cio regni ioachim . . . & doctos dis\[ciplina\]”
+verso: “*[Incipit Daniel propheta]{.small-caps}*. [Anno ter]{.small-caps}cio regni ioachim . . . & doctos dis\[ciplina\]”
 
 Malachi 3:4–6 (end), prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 494); Daniel 1:1–4
 
@@ -913,7 +913,7 @@ Kupferstichkabinett, Min. 1908
 
 10 lines, with 9-line foliate initial
 
-recto: “<span class="small-caps">*Incipit prologus sancti Ieronimi presbiteri in Ysaiam prophetam*. Nemo cum</span> prophetas . . . hebreos ligari”
+recto: “[*Incipit prologus sancti Ieronimi presbiteri in Ysaiam prophetam*. Nemo cum]{.small-caps} prophetas . . . hebreos ligari”
 
 verso: “\[Sci\]ens ergo et prudens . . . ex iuditio sed ex”
 
@@ -932,7 +932,7 @@ recto: stuck down; visible text includes “Et dixit rex daniel”
 
 Daniel 14:23
 
-verso: “\<span class="small-caps">insul\]tarent. [Explicit prologus</span>. \<span class="small-caps">rubric, apparently subsequently effaced and later partially re-inked\] *Incipit ysaias propheta.* [Visio Isa</span>iaę filii amos . . . terra; quoniam”
+verso: “\[insul\]tarent. [Explicit prologus]{.small-caps}. \[rubric, apparently subsequently effaced and later partially re-inked\] *Incipit ysaias propheta.* [Visio Isa]{.small-caps}iaę filii amos . . . terra; quoniam”
 
 End of prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 482); Isaiah 1:1–2
 
@@ -947,7 +947,7 @@ Kupferstichkabinett, Min. 1906
 
 27 lines, with 9-line foliate initial (+ stem = 21-line)
 
-recto: “<span class="small-caps">*Incipit argumentum epistolarum Pauli apostoli*. Primvm</span> quęritur quare post euangelia . . . nostram memoriam transmi\[serunt\]”; verso: “tabulas lapideas . . . Nam hanc se proficis\[centem\]”
+recto: “[*Incipit argumentum epistolarum Pauli apostoli*. Primvm]{.small-caps} quęritur quare post euangelia . . . nostram memoriam transmi\[serunt\]”; verso: “tabulas lapideas . . . Nam hanc se proficis\[centem\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 670. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 2448, lines 1–8, 13–27.
 
@@ -957,7 +957,7 @@ Kupferstichkabinett, Inv. 134
 
 21 lines of text, with 9-line (+ stem = 19-line) historiated initial: Saint Paul with halo, seated, writing at a desk
 
-recto: “*<span class="small-caps">Incipit epistola ad Romanos</span>*. <span class="small-caps">Paulvs</span> seruus christi ihesu uocatus apostolus. . . . omnibus qui sunt rome”
+recto: “*[Incipit epistola ad Romanos]{.small-caps}*. [Paulvs]{.small-caps} seruus christi ihesu uocatus apostolus. . . . omnibus qui sunt rome”
 
 verso: “et Graeci. Gloria autem et honor et pax omni operanti bonum”
 
@@ -977,7 +977,7 @@ Romans 16:11–19
 
 Carthusian letters “.*d.s.*” next to Romans 16:15; “*f*” adjacent to Romans 16:17, but perhaps referring to text in the adjacent (missing) column
 
-verso: “*<span class="small-caps">Incipit epistola ad Coronthios</span>* prima. Paulus uocatus apostolus christi ihesu per uoluntatem dei. . . . testimonium christi con\[firmatum\]”
+verso: “*[Incipit epistola ad Coronthios]{.small-caps}* prima. Paulus uocatus apostolus christi ihesu per uoluntatem dei. . . . testimonium christi con\[firmatum\]”
 
 I Corinthians 1:1–6
 
