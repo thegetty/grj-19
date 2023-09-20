@@ -14,7 +14,7 @@ url: 'http://localhost:8080'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Getty Research Journal
-subtitle: Number 19 • 2024
+subtitle:
 reading_line:
 short_title:
 
@@ -28,7 +28,9 @@ description:
 
 pub_date: 2024-12-01 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: journal-periodical # book | journal-periodical | other
+
+series_issue_number: 19
 
 identifier:
   isbn:
@@ -48,13 +50,11 @@ contributor_as_it_appears:
 
 contributor:
   - id: dchon
-    type: primary
     first_name: Doris
     last_name: Chon
     title: Editor
     affiliation: Getty Research Journal
   - id: lgendler
-    type: primary
     first_name: Lauren
     last_name: Gendler
     title: Managing Editor

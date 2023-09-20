@@ -1,5 +1,6 @@
 :root {
   --accent-color: maroon;
+  --accent-color-highlight: #ff6464;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -306,6 +307,111 @@ strong {
 }
 .quire-page__content .container .content .footnotes .footnote-backref {
   font-size: .75rem;
+}
+
+/* TOC
+============================================================================= */
+.quire-contents-list .menu-list {
+  text-align: left;
+  margin-left: var(--standard-indent);
+  padding-top: 2rem;
+}
+.quire-contents-list .menu-list a {
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.57;
+}
+.quire-contents-list .menu-list a .arrow {
+  display: none;
+}
+.quire-contents-list .menu-list .section-item {
+  margin-top: 2rem;
+}
+.quire-contents-list .menu-list .section-item > a:first-child {
+  border-top: 1px solid var(--accent-color);
+  color: var(--accent-color);
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  padding-top: 1.5rem;
+}
+.quire-contents-list .menu-list .section-item ol a {
+  border-bottom-width: 0;
+  font-size: 1.1rem;
+}
+.quire-contents-list .menu-list .section-item ol {
+  margin-left: 0;
+}
+.quire-contents-list .contributor-divider {
+  display: none;
+}
+.quire-contents-list .contributor {
+  display: block;
+  font-weight: 400;
+}
+
+/* MENU
+============================================================================= */
+.quire-menu__header {
+  border-bottom: 1px solid var(--accent-color-highlight);
+  border-top: 1px solid var(--accent-color-highlight);
+  padding-bottom: var(--large-indent);
+  padding-top: 1rem;
+}
+.quire-menu__header__title {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1;
+  width: 72px;
+}
+.quire-menu__header__issue-info {
+  font-size: 1rem;
+  margin-top: 1rem;
+} 
+.quire-menu,
+.quire-menu .page-item a, 
+.quire-menu .section-item a,
+.quire-menu__formats h6 {
+  font-family: var(--skolar-sans);
+  font-size: var(--quire-nav-font-size);
+  line-height: var(--quire-nav-font-line-height);
+  padding: 0;
+  margin: 0;
+}
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active {
+  color: var(--accent-color-highlight) !important;
+}
+.quire-menu .quire-menu__list.menu-list {
+  margin-bottom: 4rem;
+}
+.quire-menu .menu-list > ol {
+  padding-left: 0;
+  margin-left: 0;
+}
+.quire-menu .menu-list li {
+  margin-bottom: 1rem;
+}
+.quire-menu .menu-list li ol {
+  margin-left: 0;
+  padding-left: 0;
+}
+.quire-menu .section-item > a:first-child {
+  text-transform: uppercase;
+  border-top: 1px solid var(--accent-color-highlight);
+  padding-top: .625rem;
+  margin-bottom: .625rem;
+  color: var(--accent-color-highlight) !important;
+  font-weight: 600;
+  letter-spacing: .5px;
+}
+.quire-menu .quire-menu__formats h6 {
+  border-bottom-width: 0;
+  border-top: 1px solid var(--accent-color-highlight);
+  color: var(--accent-color-highlight);
+  padding-top: .625rem;
+}
+.quire-menu .quire-menu__formats .menu-list li {
+  margin-bottom: .5rem;
 }
 
 /* FOR GRJ 19
