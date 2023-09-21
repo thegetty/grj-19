@@ -80,6 +80,9 @@ uses added `series_issue_number` attribute in publication.yaml
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
 
+**_plugins/shortcodes/contributors.js**
+Refactored logic to handle oxford commas correctly
+
 ## License
 
 TK
