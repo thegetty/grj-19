@@ -155,7 +155,7 @@ Another example of Iranian manuscripts having lines in Abbasid style is the copy
 
 The table offers a visual comparison of the main letters of the Getty Qurʼan; the main letters of the monumental scripts of the Qurʼan manuscripts written in New style in Central Iran; group D.I and D.va in Déroche’s classification ([table 1](#table-1-1)). The Getty Qurʼan’s script entirely conforms to the style of the monumental script of the Qurʼan manuscripts from Central Iran. Therefore, not only does it seem possible to attribute the production of the Getty Qurʼan to Central Iran but it is also possible to propose a strong hypothesis attributing mix of D.I and D.va script to Central Iran.
 
- {% figure 'table-1-1' %}
+ {% figure 'table-1-1' 'is-table-scale-6' %}
 
 ## Summary
 

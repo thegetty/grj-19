@@ -25,8 +25,9 @@ figure_list:
     src: figures/sahragard-06.jpg
     caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qurʼan endowed to the Imam Riza Shrine.** Probably 4th century AH/10th century CE. Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
   - id: "table-1-1"
-    label: "Table 1"
-    src: ""
+    label: "Table 1. —"
+    src: tables/sahragard-table-01.html
+    media_type: table
     caption: "Letters in the Getty Qurʼan; in the monumental script of the Qurʼan manuscripts copied in New style; and in François Déroche’s D.I and D.va classification."
   - id: "fig-2-1"
     label: "Fig. 1. —"
