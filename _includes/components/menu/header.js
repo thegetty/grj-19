@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Adds series number and year to menu header for journal publication
+// Adds download links to header area
 //
 const { html } = require('~lib/common-tags')
 
@@ -16,7 +17,10 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const siteTitle = eleventyConfig.getFilter('siteTitle')
-  const { contributor: publicationContributors, contributor_as_it_appears, series_issue_number, pub_date } = eleventyConfig.globalData.publication
+  const { contributor: publicationContributors, contributor_as_it_appears, resource_link: resourceLinks, series_issue_number, pub_date } = eleventyConfig.globalData.publication
+
+  const linkList = eleventyConfig.getFilter('linkList')
+  const otherFormats = resourceLinks.filter(({ type }) => type === 'other-format')
 
   return function(params) {
     const { currentURL } = params
@@ -33,9 +37,17 @@ module.exports = function(eleventyConfig) {
     const contributorElement = contributorContent
       ? `<span class="visually-hidden">Contributors: </span>${contributorContent}`
       : ''
+    
+    const linkList = eleventyConfig.getFilter('linkList')
+    const otherFormats = resourceLinks.filter(({ type }) => type === 'other-format')
+    
+    const otherFormatElement = otherFormats.length
+      ? html`${linkList({ links: otherFormats, classes: ['menu-list'] })}`
+      : ''
 
     return html`
       <header class="quire-menu__header">
+        <div class="quire-menu__header-wrapper">
         ${homePageLinkOpenTag}
           <h4 class="quire-menu__header__title">
             <span class="visually-hidden">Site Title: </span>
@@ -46,10 +58,12 @@ module.exports = function(eleventyConfig) {
         <div class="quire-menu__header__issue-info">
           ${issueContent}
         </div>
-
-        <div class="quire-menu__header__contributors">
-          ${contributorElement}
         </div>
+
+        <div class="quire-menu__header__formats" role="complementary" aria-label="downloads">
+          ${otherFormatElement}
+        </div>
+        
       </header>
     `
   }

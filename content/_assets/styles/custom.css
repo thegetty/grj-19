@@ -1,6 +1,7 @@
 :root {
-  --accent-color: maroon;
+  --accent-color: #800000;
   --accent-color-highlight: #ff6464;
+  --accent-color-highlight: #ff8a8a;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -338,10 +339,18 @@ strong {
 
 /* TOC
 ============================================================================= */
+.quire-contents .quire-page__header .hero-body {
+  margin-left: 0;
+}
+.quire-contents .quire-page__content .container {
+  padding: 1rem 2.5rem;
+}
+.quire-contents-list.list,
+.quire-contents-list.brief {
+  font-family: var(--skolar-sans);
+}
 .quire-contents-list .menu-list {
   text-align: left;
-  margin-left: var(--standard-indent);
-  padding-top: 2rem;
 }
 .quire-contents-list .menu-list a {
   font-size: 1.1rem;
@@ -352,14 +361,14 @@ strong {
   display: none;
 }
 .quire-contents-list .menu-list .section-item {
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 .quire-contents-list .menu-list .section-item > a:first-child {
   border-top: 1px solid var(--accent-color);
   color: var(--accent-color);
   text-transform: uppercase;
   letter-spacing: .5px;
-  padding-top: 1.5rem;
+  padding-top: 1.25rem;
 }
 .quire-contents-list .menu-list .section-item ol a {
   border-bottom-width: 0;
@@ -381,8 +390,11 @@ strong {
 .quire-menu__header {
   border-bottom: 1px solid var(--accent-color-highlight);
   border-top: 1px solid var(--accent-color-highlight);
-  padding-bottom: var(--large-indent);
   padding-top: 1rem;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .quire-menu__header__title {
   font-size: 2rem;
@@ -394,6 +406,23 @@ strong {
   font-size: 1rem;
   margin-top: 1rem;
 } 
+.quire-menu__header__formats {
+  margin-bottom: 1rem;
+}
+.quire-menu__header__formats li {
+  margin-bottom: .25rem !important;
+}
+.quire-menu__header__formats li a {
+  padding: 0;
+  margin-left: 0;
+  color: var(--accent-color-highlight) !important;
+  display: inline;
+  background-color: transparent;
+}
+.quire-menu__header__formats li a:hover {
+  border-bottom: 1px solid var(--accent-color-highlight) !important;
+  /* border-bottom-color: var(--accent-color-highlight) !important; */
+}
 .quire-menu,
 .quire-menu .page-item a, 
 .quire-menu .section-item a,
@@ -432,14 +461,8 @@ strong {
   font-weight: 600;
   letter-spacing: .5px;
 }
-.quire-menu .quire-menu__formats h6 {
-  border-bottom-width: 0;
-  border-top: 1px solid var(--accent-color-highlight);
-  color: var(--accent-color-highlight);
-  padding-top: .625rem;
-}
-.quire-menu .quire-menu__formats .menu-list li {
-  margin-bottom: .5rem;
+.quire-menu__formats {
+  display: none;
 }
 
 /* MASTHEAD, COPYRIGHT, and ABOUT PAGES

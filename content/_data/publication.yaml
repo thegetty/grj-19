@@ -118,10 +118,6 @@ resource_link:
     link_relation: alternate
     url: https://shop.getty.edu/#
   - type: footer-link
-    name: About
-    link_relation: about
-    url: /about/
-  - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
     url: https://www.getty.edu/legal/privacy.html
