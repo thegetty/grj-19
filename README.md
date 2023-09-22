@@ -70,6 +70,9 @@ TK
 
 ### Customizations
 
+**_includes/components/copyright/licensing.js**
+Updated the image exclusions language and moved print/pdf statement to new location
+
 **_includes/components/icons.js**
 Replaced default `fullscreen-icon` with a 600 weight version to match caption styles
 
