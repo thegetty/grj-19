@@ -83,6 +83,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   padding: 0;
   padding-bottom: var(--large-indent);
 }
+@media print {
+  .quire-page__header .hero-body {
+    min-height: 2.25in;
+  }
+}
 .quire-page h1, .quire-page__header__title {
   color: var(--accent-color);
   font-family: var(--skolar-sans);
@@ -401,7 +406,8 @@ strong {
 }
 .quire-menu .page-item a.active, 
 .quire-menu .section-item a.active {
-  color: var(--accent-color-highlight) !important;
+  color: #fff !important;
+  font-weight: 600;
 }
 .quire-menu .quire-menu__list.menu-list {
   margin-bottom: 4rem;
@@ -434,6 +440,98 @@ strong {
 }
 .quire-menu .quire-menu__formats .menu-list li {
   margin-bottom: .5rem;
+}
+
+/* MASTHEAD, COPYRIGHT, and ABOUT PAGES
+============================================================================= */
+@media print {
+  .quire-page.copyright,
+  .quire-page.masthead {
+    page: no-footer;
+  }
+  .masthead_title,
+  .masthead_info {
+    clear: both;
+    float: right;
+    padding-top: 1rem;
+    width: 3.75in;
+  }
+  .masthead_title {
+    border-top: 1px solid var(--accent-color);
+    border-bottom: 1px solid var(--accent-color);
+    margin-top: 0 !important;
+    min-height: 2.25in;
+    padding-bottom: var(--large-indent);
+  }
+  .masthead_info > *,
+  .copyright > * {
+    font-family: var(--skolar-sans);
+    font-size: var(--quire-nav-font-size);
+    line-height: var(--quire-nav-font-line-height);
+    margin-bottom: 1rem;
+    width: 2.875in;
+  }
+  .masthead_info > p.no-bottom-margin,
+  .copyright > p.no-bottom-margin {
+    margin-bottom: 0;
+  }
+  .copyright > * {
+    width: 2.5in;
+  }
+  .copyright a {
+    color: inherit;
+  }
+  .copyright .quire-copyright__icon__link {
+    display: block;
+    margin-top: 1rem;
+  }
+  .copyright .quire-copyright__icon {
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+}
+.masthead .quire-page__content .container .content p {
+  text-indent: 0;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.masthead .quire-page__content .container .content > p:first-child {
+  text-indent: var(--large-indent);
+  text-align: justify;
+} 
+.masthead .quire-page__content .container .content ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.masthead .quire-page__content .container .content ul li {
+  margin: 0;
+}
+.masthead .quire-page__content .container .content ul li::marker {
+  content: '';
+}
+.masthead .quire-page__content .container .content .backmatter h2 {
+  margin-top: var(--standard-indent);
+  color: var(--accent-color);
+  border-bottom-width: 0;
+  border-top: 1px solid var(--accent-color);
+  margin-left: 0;
+  font-weight: 600;
+  font-style: normal;
+  padding-top: .5rem;
+}
+.masthead .quire-page__content .container .content div.publisher p:first-child {
+  margin-bottom: 0;
+}
+.masthead .copyright__publisher-logo,
+.copyright .copyright__publisher-logo {
+  display: none;
+}
+.masthead .quire-page__content .content .quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.quire-copyright__icon__link:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0 !important;
 }
 
 /* FOR GRJ 19

@@ -1,6 +1,8 @@
 ---
 title: About
 layout: page
+classes:
+  - masthead
 order: 503
 outputs:
   - html
@@ -8,7 +10,23 @@ outputs:
 
 {{ publication.description.full }}
 
+<div class="masthead_info remove-paragraph-indent">
+
+{% for editor in publication.series_editors %}
+- {{ editor | markdownify }}
+{% endfor %}
+
+**Getty Research Journal Editorial Board**
+{{ publication.series_editorial_board | markdownify }}
+
+
+</div>
+
 {% backmatter %}
+
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
 
 <div class="citation-info">
 
@@ -24,24 +42,7 @@ outputs:
 
 ### Permanent URL
 
-{{ config.baseURL }}
-
-</div>
-<div class="revision-history">
-
-## Revision History
-
-{{ publication.revision_statement | markdownify }}
-
-{% for revision in publication.revision_history %}
-
-### {{ revision.date }}
-
-{% for item in revision.summary %}
-- {{ item | markdownify }}
-{% endfor %}
-
-{% endfor %}
+{{ publication.url }}
 
 </div>
 <div class="other-formats">
@@ -53,6 +54,35 @@ outputs:
 - [{{ link.name }}]({{ link.url }})
 {% endif %}
 {% endfor %}
+
+</div>
+<div class="revision-history">
+
+## Revision History
+
+{{ publication.revision_statement | markdownify }}
+
+{% for revision in publication.revision_history %}
+
+### {{ revision.date }} {.small-caps}
+
+{% for item in revision.summary %}
+- {{ item | markdownify }}
+{% endfor %}
+
+{% endfor %}
+
+</div>
+<div class="scolars-info">
+
+## Information for Scholars
+
+All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
+
+To submit a manuscript, please visit
+[scholastica link TK] 
+General inquiries may be sent to 
+GRJ@getty.edu.
 
 </div>
 <div class="copyright">
@@ -72,29 +102,24 @@ outputs:
 {% endfor %}
 
 </div>
-<div class="project-team">
-
-{% for person in publication.project_team %}
-- {{ person | markdownify }}
-{% endfor %}
-
-</div>
-<div class="cip-data">
-
-{{ publication.library_of_congress_cip | markdownify }}
-
-</div>
 <div class="cover-image-credits">
 
-Front cover: 
+**Cover**
+**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al. *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: Self-published, 1983) Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst.
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>
+<div class="identifiers">
 
-## Getty Research Institute
+ISSN {{ publication.identifier.issn }}
+E-ISSN {{ publication.identifier.e_issn }} {.small-caps}
 
+ISBN ONLINE {{ publication.identifier.isbn_html }}
+ISBN PDF {{ publication.identifier.isbn_pdf }}
+ISBN EPUB {{ publication.identifier.isbn_epub }}
+ISBN PAPERBACK {{ publication.identifier.isbn_paperback }} {.small-caps}
 
-
+</div>
 
 {% endbackmatter %}
