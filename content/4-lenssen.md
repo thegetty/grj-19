@@ -1,12 +1,12 @@
 ---
 title: "Baghdad Kept on Working: Painting and Propaganda during the British Occupation of Iraq, 1941–45"
 short_title: 
-layout: "essay"
+layout: article
 order: 25
 contributor: 
   - first_name: Anneka  
     last_name: Lenssen
-    bio: "Anneka Lenssen is an associate professor of global modern art at the University of California, Berkeley."
+    bio: "**Anneka Lenssen** is an associate professor of global modern art at the University of California, Berkeley."
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Anneka Lenssen"
 abstract: "This article explores the late-colonial context for a wartime encounter between Polish and Iraqi artists during a period of British military reoccupation, 1941–45. Linking E. L. T. Mesens’s propaganda work for the Allied cause to the activities of Polish painters stationed in Baghdad, particularly Józef Czapski (1896–93) and Józef Jarema (1900–1974), and to those of Iraqi artists Jewad Selim (1919–1961) and Jamil Hamoudi (1924–2003), it demonstrates how a consortium of artists and officers came to model a version of modern art construed as free inquiry into form, or “art alone.” Polish artists mobilized propagandistic narratives about threats to civilization, including the loss of Paris as an open city. Responses by Iraqi artists both reflect and refract the Allied version of civilizational values. As such, the Polish-Iraqi encounter represents an early, not-yet-postwar reckoning with doubts about the progression of artistic practice in a world in which barbarous violence was always imminent."
 ---
@@ -131,17 +131,13 @@ The discursive machinations of the 1940s were not secret. Artists on the Near Ea
 
 Across a vast archipelago of colonies and bases in the Near East, stories of art for art’s sake were narrated time and time again. Allied propaganda gave everyone a role to play in sustaining a tradition that was at once directly attributed to Europe as a bastion of artistic freedom yet construed as a matter of universal concern. What I find most instructive about how Polish and Iraqi artists kept on working in Baghdad is that they explored ways to claim the moral authority of an obviously fabricated conceit of Paris as an open city ruled by art alone. Yet, the myth could not hold. After all, as the colonial conditions of their exchanges make clear, there were no innocent positions then, and there are none now. The Allied countries that fought Nazism in Europe also conducted military campaigns with impunity in Africa, the Middle East, and South Asia. As Nigerian curator and theorist Okwui Enwezor argued in a 2016 essay, drawing on the wartime analysis of Aimé Césaire, it is necessary to understand the terrible killing fields of the war, and the industrial-scale annihilation of the Holocaust, in the same frame as the colonial development of technologies of race, bureaucracy, and violence.[^106] In turn, if we can bear witness to how the late-colonial world orchestrated ideas of transcendent aesthetic value, then we might escape from the too-easy moral oppositions we inherit from its war propaganda. To speak, as some Modernist art critics have, of pure art emerging from preceding collectivist dreams in heroic fashion, is to invite continued violence against the impure, the out of place, and the unfree. By contrast, a history of global modernism that orients itself to humanity must be open to registering the intersubjective vulnerabilities that bind us within the commingled history of our brutal present.
 
-***
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-{% contributors context=pageContributors format='bio' %}
+## Notes {.notes-heading}
 
-{% backmatter %}
-
-## Notes
-
-This article originated as an attempt to think through a challenge Nada Shabout extended to art historians in 2009, which is to treat Iraqi artists who studied in European academies as participants in modern Western art. I drafted the article in 2017 during my postdoctoral fellowship at the Getty Research Institute in Los Angeles and finished it in 2022 while in residence at New York University Abu Dhabi in the Humanities Research Fellowship for the Study of the Arab World program. Both proved to be fitting settings for assessing the entanglements of art and military interests in a so-called liberal age. Unless otherwise noted, all translations from the Polish, French, and the Arabic are by the author, albeit with a great deal of help from colleagues. I wish to credit Julia Kulon for her expert work in locating, translating, and interpreting Polish materials and Sara Sukhun for her careful help reviewing published Arabic materials pertaining to Jewad Selim that enabled me to reconstruct the sequence of his diary and sketchbook entries. I am grateful to Aglaya Glebova and Przemysław Strożek for conversations around texts and word choices and to Eric Karpeles for help with access to the diaries of Józef Czapski. Finally, I am indebted to Ishtar Hamoudi for sending me scans of materials from her father’s personal archive in Baghdad. The peerless Jamil Hamoudi Collection may now be accessed at the Archives and Special Collections of Nami Jafet Memorial Library, American University of Beirut.
-
-{% endbackmatter %}
+This article originated as an attempt to think through a challenge Nada Shabout extended to art historians in 2009, which is to treat Iraqi artists who studied in European academies as participants in modern Western art. I drafted the article in 2017 during my postdoctoral fellowship at the Getty Research Institute in Los Angeles and finished it in 2022 while in residence at New York University Abu Dhabi in the Humanities Research Fellowship for the Study of the Arab World program. Both proved to be fitting settings for assessing the entanglements of art and military interests in a so-called liberal age. Unless otherwise noted, all translations from the Polish, French, and the Arabic are by the author, albeit with a great deal of help from colleagues. I wish to credit Julia Kulon for her expert work in locating, translating, and interpreting Polish materials and Sara Sukhun for her careful help reviewing published Arabic materials pertaining to Jewad Selim that enabled me to reconstruct the sequence of his diary and sketchbook entries. I am grateful to Aglaya Glebova and Przemysław Strożek for conversations around texts and word choices and to Eric Karpeles for help with access to the diaries of Józef Czapski. Finally, I am indebted to Ishtar Hamoudi for sending me scans of materials from her father’s personal archive in Baghdad. The peerless Jamil Hamoudi Collection may now be accessed at the Archives and Special Collections of Nami Jafet Memorial Library, American University of Beirut. {.backmatter}
 
 [^1]: Jozef Jarema, “Oblicze Sztuki Polskiej,” *Kurier Polski w Bagdadzie,* 9 February 1943; and “Istota wspolczesnego malarstwa,” *Kurier Polski w Bagdadzie,* 10 February 1943.
 

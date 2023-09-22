@@ -1,0 +1,40 @@
+---
+classes:
+  - quire-essay
+  - quire-article
+layout: base.11ty.js
+description: Article layout. This custom layout describes a single-page template that has been augmented with PDF Download / Abstract / Citation tools just below the header.
+---
+
+{% pageHeader
+  byline_format=byline_format,
+  image=image,
+  label=label,
+  pageContributors=pageContributors,
+  subtitle=subtitle,
+  title=title
+%}
+
+<section class="section quire-page__content">
+  <div class="container">
+    <div class="content">
+      <div class="article-tools" aria-label="Article download, abstract, and citation" data-outputs-exclude="epub,pdf">
+      <div id='#section-download'>
+      <p><a href="#">PDF {% icon type="download", description="Download the PDF" %}</a></p>
+      </div>
+      {% accordion 'Abstract' %}
+      {{ abstract | markdownify }}
+      {% endaccordion %}
+      {% accordion 'Cite' %}
+      **Chicago**
+      {% citation context='page', page=pageData type='chicago' %}
+      **MLA**
+      {% citation context='page', page=pageData type='mla' %}
+      {% endaccordion %}
+      </div>
+      {{ content }}
+      {% bibliography citations %}
+    </div>
+    {% pageButtons pagination=pagination %}
+  </div>
+</section>

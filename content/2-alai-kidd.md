@@ -1,15 +1,15 @@
 ---
 title: "Cuttings from an Illustrated Twelfth-Century French Manuscript Bible in Los Angeles and Berlin"
 short_title: 
-layout: "essay"
+layout: article
 order: 15
 contributor: 
   - first_name: "Beatrice"  
     last_name: "Alai"
-    bio: "Beatrice Alai is currently affiliated with the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Deutsche Forschungsgemeinschaft project Capturing Biographies: Materiality, Mobility and Agency of the Illuminated Fragments Collection at the Germanisches Nationalmuseum in Nuremberg."
+    bio: "**Beatrice Alai** is currently affiliated with the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Deutsche Forschungsgemeinschaft project Capturing Biographies: Materiality, Mobility and Agency of the Illuminated Fragments Collection at the Germanisches Nationalmuseum in Nuremberg."
   - first_name: "Peter"  
     last_name: "Kidd"
-    bio: "Peter Kidd has been a freelance researcher and cataloger of medieval manuscripts since 2006; before that he worked at the Bodleian Library, Oxford, and the British Library, London."
+    bio: "**Peter Kidd** has been a freelance researcher and cataloger of medieval manuscripts since 2006; before that he worked at the Bodleian Library, Oxford, and the British Library, London."
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Beatrice Alai and Peter Kidd"
 abstract: "A historiated initial depicting the Old Testament prophet Micah, cut probably in the nineteenth century from a twelfth-century illuminated manuscript and acquired by the J. Paul Getty Museum in 1989, is here placed in its temporal, geographical, and religious context through an examination of its decoration, script, and text, in combination with the evidence provided by fifty further cuttings from the same manuscript in Berlin—most of them unpublished—and one in a private collection. From this study it emerges that the cuttings come from a Bible written in the third quarter of the twelfth century in southeastern France for a Carthusian monastery in the orbit of the Grande Chartreuse."
 ---
@@ -66,7 +66,7 @@ These manuscripts demonstrate a close relationship between different Carthusian 
 
 {% figure 'fig-2-9' %}
 
-However, this style is not found in the majority of Carthusian manuscripts; for example, if we look at the Great Bible of the Grande Chartreuse, a difference can be seen in the design of the vegetal tendrils—softer and less nervous—and in the way the colors are applied on the letter bodies and ornaments: while the illuminators of the Bible favor thick, uniform layers of painted color, the artist of the Getty-Berlin cuttings, with the exception of the Genesis initial, applied colors in thin, close strokes with a pen. In fact, scholars have long recognized that this way of drawing sprouts, with the veins of the leaves clearly visible, derives from Cistercian manuscripts made for Cîteaux and Clairvaux in the first half of the twelfth century. If we look at the *De civitate dei* (City of God) of the third quarter of the twelfth century ([figs. 10](#fig-2-10), [11](#fig-2-11)),[^30] for example, the similarity of the scrolling vegetal tendrils filled with pen striations symmetrically arranged in a figure-eight shape, with most of the letters set on a monochrome field, is quite evident. The same goes for the *Lectionarium officii[‏] Cisterciense* (Lectionary of the Cistercian office) and the *Opus imperfectum in Matthaeum* (Incomplete work on Matthew’s Gospel), both now in Troyes.[^31] Another comparison is possible with the famous Bible of Stephen Harding, dated 1109 in the second of four volumes (which was originally the end of the first of two volumes), and perhaps finished a year or two later ([fig. 12](#fig-2-12)).[^32] Besides the use of pen drawing, the shape of the acanthus leaves and the colors filling the interstices are also basically the same as those seen in the Carthusian manuscripts; when analyzing the books originally from Cîteaux (such as Mss. 32, 131, 159, 180, 641, now at the Bibliothèque Municipale in Dijon[^33]), it is immediately clear that their decorative patterns heavily influenced the illuminators active for the Grande Chartreuse.
+However, this style is not found in the majority of Carthusian manuscripts; for example, if we look at the Great Bible of the Grande Chartreuse, a difference can be seen in the design of the vegetal tendrils—softer and less nervous—and in the way the colors are applied on the letter bodies and ornaments: while the illuminators of the Bible favor thick, uniform layers of painted color, the artist of the Getty-Berlin cuttings, with the exception of the Genesis initial, applied colors in thin, close strokes with a pen. In fact, scholars have long recognized that this way of drawing sprouts, with the veins of the leaves clearly visible, derives from Cistercian manuscripts made for Cîteaux and Clairvaux in the first half of the twelfth century. If we look at the *De civitate dei* (City of God) of the third quarter of the twelfth century ([figs. 10](#fig-2-10), [11](#fig-2-11)),[^30] for example, the similarity of the scrolling vegetal tendrils filled with pen striations symmetrically arranged in a figure-eight shape, with most of the letters set on a monochrome field, is quite evident. The same goes for the *Lectionarium officii Cisterciense* (Lectionary of the Cistercian office) and the *Opus imperfectum in Matthaeum* (Incomplete work on Matthew’s Gospel), both now in Troyes.[^31] Another comparison is possible with the famous Bible of Stephen Harding, dated 1109 in the second of four volumes (which was originally the end of the first of two volumes), and perhaps finished a year or two later ([fig. 12](#fig-2-12)).[^32] Besides the use of pen drawing, the shape of the acanthus leaves and the colors filling the interstices are also basically the same as those seen in the Carthusian manuscripts; when analyzing the books originally from Cîteaux (such as Mss. 32, 131, 159, 180, 641, now at the Bibliothèque Municipale in Dijon[^33]), it is immediately clear that their decorative patterns heavily influenced the illuminators active for the Grande Chartreuse.
 
 {% figure 'fig-2-10' %}
 
@@ -86,13 +86,10 @@ However, only the style allows us to establish a link with the Grande Chartreuse
 
 Analysis of the handwriting does not (in the current state of our knowledge) connect the cuttings to a precise Carthusian foundation; it simply confirms that the Bible was written around about the 1160s. The writing shows the typical characteristics of late Caroline minuscule script, in the transitional phase, sometimes called pre-Gothic or proto-Gothic, before the emergence of the fully Gothic *littera textualis.* Features of this period are the use, in combination, of the following:
 
-the round *s* at the end of words (see, for example, fig. 1, last line, “eius”; “dominus” abbreviated to “dns”; and “deus” abbreviated to “ds”) and the tall *s* used at the beginning of the words “samariam” and “super,” three and four lines from the bottom
-
-both uncial *d* (with the ascender slanting to the left) and *d* with an upright ascender (both forms are found on the bottom two lines of fig. 1: “audite, “attendite,” and “plenitudo”; cf. “dns” and “ds”)
-
-both “et” and the ampersand (*&*) (the Genesis cutting, fig. 4, mostly uses “et,” but the ampersand also occurs once; see also the bottom two lines of the Getty cutting, fig. 1)
-
-a few ligatures persist, such as *st* (see, for example, “testem,” the very last word of the Getty cutting, fig. 1)
+- the round *s* at the end of words (see, for example, fig. 1, last line, “eius”; “dominus” abbreviated to “dns”; and “deus” abbreviated to “ds”) and the tall *s* used at the beginning of the words “samariam” and “super,” three and four lines from the bottom
+- both uncial *d* (with the ascender slanting to the left) and *d* with an upright ascender (both forms are found on the bottom two lines of fig. 1: “audite, “attendite,” and “plenitudo”; cf. “dns” and “ds”)
+- both “et” and the ampersand (*&*) (the Genesis cutting, fig. 4, mostly uses “et,” but the ampersand also occurs once; see also the bottom two lines of the Getty cutting, fig. 1)
+- a few ligatures persist, such as *st* (see, for example, “testem,” the very last word of the Getty cutting, fig. 1)
 
 Some differences in the writing among the cuttings suggest the participation of at least two scribes. If we compare, for example, the Esther cutting (see [fig. 2](#fig-2-2)) with the Getty cutting (see [fig. 1](#fig-2-1)), several differences are readily apparent. Overall, the former’s script is more laterally compressed, with letters and their individual strokes closer together; the common abbreviation mark to indicate a missing *m* or *n* is a horizontal stroke with serifs (very unlike the curved form found, for example, twice on the last line of the Getty cutting); the Tironian symbol for “et” (shaped somewhat like a *7*) appears (for example, twice in the first line of the left column) alongside the ampersand (for example in lines 4 and 9 of the right column); the *ct* ligature is still joined, not broken as in the Getty cutting (line 2 of the main text, “factum”); and other letterforms have small differences. Punctuation also provides corroborating evidence as to the date: we see an abundant use of the *punctus elevatus, punctus interrogativus,* and *punctus versus,*[^47] but the *punctus flexus,* introduced by “early Cistercian scribes to assist readers in deciphering the sense of unfamiliar texts”[^48] and later adopted by Carthusian scribes, is absent. As noticed by Dominique Mielle de Becdelièvre, the *punctus flexus* features in the Great Bible from the Grande Chartreuse but not in the older Notre-Dame de Casalibus one,[^49] again suggesting that the Bible to which the cuttings belong was a product of about the 1160s.
 
@@ -108,50 +105,41 @@ Some sequences of biblical books, as represented by the Getty-Berlin cuttings, a
 
 Lectern Bibles written for use in Carthusian houses have the individual books arranged in an apparently eccentric sequence; the reason for this is that they were intended to correspond more closely to (but rarely the same as) the order of the liturgical Matins and refectory readings of the year, as stipulated in the Carthusian Statutes, as follows (here in simplified summary form):[^55]
 
-Advent to Christmas Eve: Isaiah, Daniel (Statutes 2.2)\
-Epiphany to Septuagesima: Pauline Epistles (Statutes 4.1)\
-Septuagesima to Passion Sunday: Genesis to Judges (The Heptateuch) (Statutes 4.4)\
-Passion Sunday to Maundy Thursday: Jeremiah (Statutes 4.13)\
-Triduum (Last Supper to Easter evening): Lamentations\
-Easter to Pentecost: Acts, Catholic Epistles, Revelation (Statutes 4.32)\
-Pentecost to August: I–II Samuel, I–II Kings, I–II Chronicles (Statutes 5.1)\
-August to September: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus (Statutes 5.2)\
-September to October: Job, Tobit, Judith, Esther (Statutes 5.3)\
-October to November: I–II Maccabees (Statutes 5.4)\
-November to Advent: Ezekiel, the Twelve Minor Prophets, Daniel (Statutes 2.2)
+- Advent to Christmas Eve: Isaiah, Daniel (Statutes 2.2)
+- Epiphany to Septuagesima: Pauline Epistles (Statutes 4.1)
+- Septuagesima to Passion Sunday: Genesis to Judges (The Heptateuch) (Statutes 4.4)
+- Passion Sunday to Maundy Thursday: Jeremiah (Statutes 4.13)
+- Triduum (Last Supper to Easter evening): Lamentations
+- Easter to Pentecost: Acts, Catholic Epistles, Revelation (Statutes 4.32)
+- Pentecost to August: I–II Samuel, I–II Kings, I–II Chronicles (Statutes 5.1)
+- August to September: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus (Statutes 5.2)
+- September to October: Job, Tobit, Judith, Esther (Statutes 5.3)
+- October to November: I–II Maccabees (Statutes 5.4)
+- November to Advent: Ezekiel, the Twelve Minor Prophets, Daniel (Statutes 2.2)
 
-The Great Bible, for example, has almost exactly this sequence:[^56]
+The Great Bible, for example, has almost exactly this sequence:[^56] {.remove-paragraph-indent}
 
-Vol. I: Ezekiel, Daniel, Minor Prophets, Isaiah, Pauline Epistles\
-Vol. II: Heptateuch, Jeremiah, Lamentations\
-Vol. III: Acts, Catholic Epistles, Revelation, I–II Samuel, I–II Kings, I–II Chronicles\
-Vol. IV: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus, Job, Tobit, Judith, Esther, I–II Maccabees
+- Vol. I: Ezekiel, Daniel, Minor Prophets, Isaiah, Pauline Epistles
+- Vol. II: Heptateuch, Jeremiah, Lamentations
+- Vol. III: Acts, Catholic Epistles, Revelation, I–II Samuel, I–II Kings, I–II Chronicles
+- Vol. IV: Proverbs, Ecclesiastes, Wisdom, Ecclesiasticus, Job, Tobit, Judith, Esther, I–II Maccabees
 
-The biggest differences between this order of books and the order in which we usually find them in Bibles from the thirteenth century onward are that
+The biggest differences between this order of books and the order in which we usually find them in Bibles from the thirteenth century onward are that {.remove-paragraph-indent}
 
-Jeremiah and Lamentations follow the Heptateuch, rather than following Isaiah;
+- Jeremiah and Lamentations follow the Heptateuch, rather than following Isaiah;
+- Acts, the Catholic Epistles, and Revelation, which usually occur at the end of the New Testament, occur instead between the Old Testament books of the prophet Jeremiah and the historical books of Samuel, Kings, and Chronicles;
+- Proverbs, Ecclesiastes, Wisdom, and Ecclesiasticus precede, rather than follow, Job, Tobit, Judith, and Esther;
+- I–II Maccabees follow Job, Tobit, Judith, and Esther, rather than occurring at the end of the Old Testament;
+- Isaiah follows the Twelve Minor Prophets, rather than preceding the other Major and the Minor Prophets;
+- the Pauline Epistles follow Isaiah (and Daniel); and
+- the Gospels are absent.
 
-Acts, the Catholic Epistles, and Revelation, which usually occur at the end of the New Testament, occur instead between the Old Testament books of the prophet Jeremiah and the historical books of Samuel, Kings, and Chronicles;
+In the Getty-Berlin cuttings we find that, as above, {.remove-paragraph-indent}
 
-Proverbs, Ecclesiastes, Wisdom, and Ecclesiasticus precede, rather than follow, Job, Tobit, Judith, and Esther;
-
-I–II Maccabees follow Job, Tobit, Judith, and Esther, rather than occurring at the end of the Old Testament;
-
-Isaiah follows the Twelve Minor Prophets, rather than preceding the other Major and the Minor Prophets;
-
-the Pauline Epistles follow Isaiah (and Daniel); and
-
-the Gospels are absent.
-
-In the Getty-Berlin cuttings we find that, as above,
-
-Job follows Ecclesiasticus;
-
-Job precedes, not follows, Tobit, Judith, and Esther;
-
-Daniel follows the Twelve Minor Prophets; and
-
-the Gospels are absent (or at least not represented by any known cutting).
+- Job follows Ecclesiasticus;
+- Job precedes, not follows, Tobit, Judith, and Esther;
+- Daniel follows the Twelve Minor Prophets; and
+- the Gospels are absent (or at least not represented by any known cutting).
 
 ## Carthusian Lection Markings
 
@@ -171,31 +159,30 @@ We hope to have shown that the Getty-Berlin cuttings come from a large Bible pro
 
 The initials were excised from the Bible probably in the first half of the nineteenth century, possibly by Guglielmo Libri in France, or more likely in Germany, where most of them came to light. Many of the cuttings were then acquired by the Kupferstichkabinett, perhaps as early as the 1830s or 1840s, and perhaps in two or three tranches, of which one large group remained forgotten and unaccessioned until 2004. Two others are known, including the one at the Getty Museum, both of which came onto the auction market in the 1980s; it is to be hoped that more emerge as a result of this article bringing them to wider scholarly attention.
 
-{% backmatter %}
+{% accordionGlobalControls %}
+
+<div class="appendix" id="#alai-kidd-appendix" >
 
 ## Appendix
 
-{% endbackmatter %}
-
-Descriptions of the Cuttings in Their Probable Original Sequence
+*Descriptions of the Cuttings in Their Probable Original Sequence*
 
 Because most of the cuttings are completely unpublished, what follows is a detailed account of their textual contents and the different types of script used.
 
-*Italics* = rubrics in red
+| Format | Meaning |
+| --- | --- |
+| *Italics* | rubrics in red |
+| [Small caps]{.small-caps} | majuscules |
+| [*Small caps in Italics*]{.small-caps} | majuscules in color(s) |
+| [Square brackets] | missing text |
 
-[Small caps]{.smallcaps} = majuscules
+{% accordion '### Septuagesima' %}
 
-[*Small caps in Italics*]{.smallcaps} = majuscules in color(s)
-
-[Square brackets] = missing text
-
-\## Septuagesima
-
-\### Genesis
+#### Genesis
 
 18 lines of text, with 15-line foliate illuminated initial, with gold and body-color
 
-recto: “[*Incipit liber Bresit id est Genesis*. In principio]{.smallcaps} creauit deus cęlum . . . ab aquis. Et fecit deus” ([see fig. 4](#fig-2-4))
+recto: “[*Incipit liber Bresit id est Genesis*. In principio]{.small-caps} creauit deus cęlum . . . ab aquis. Et fecit deus” ([see fig. 4](#fig-2-4))
 
 verso: “cęli & cunctas bestias terrę . . . ligno paradisi. Cui res\[pondit\]”
 
@@ -203,23 +190,23 @@ Genesis 1:1–7; 2:20–3:2
 
 Kupferstichkabinett, Min. 30490
 
-\### Exodus, preceded by a capitula list
+#### Exodus, preceded by a capitula list
 
 13 lines of text, with 10-line (+ stem = 13-line) foliate initial
 
 recto: “Mortem mittit dominus in omnia peccora egyptiorum . . . Consecutus est pharao israel et cooperuit egyptios mare” (part of capitula list; Donatien de Bruyne, *Sommaires, divisions, et rubriques de la bible latine* (Namur: A. Godienne, 1914), 10, series A, XVI.5–XXIII)
 
-verso: “*[Incipit liber Elles]{.smallcaps}moth qui est exodus*. [Haec sunt nomina fi]{.smallcaps}liorum israhel”
+verso: “*[Incipit liber Elles]{.small-caps}moth qui est exodus*. [Haec sunt nomina fi]{.small-caps}liorum israhel”
 
 Exodus 1:1
 
 Kupferstichkabinett, Inv. 145
 
-\### Leviticus, preceded by capitula explicit
+#### Leviticus, preceded by capitula explicit
 
 18 lines, with 10-line foliate initial
 
-recto: “[Explicivnt capitula. Incipit liber]{.smallcaps} / uagecra id est / [Leviticvs. Uocavit]{.smallcaps} autem moysen . . . uictimas. si holocaustum”
+recto: “[Explicivnt capitula. Incipit liber]{.small-caps} / uagecra id est / [Leviticvs. Uocavit]{.small-caps} autem moysen . . . uictimas. si holocaustum”
 
 verso stuck down, but partially legible and starting: “\[adole\]bit sacerdos super altare in holocaustum”
 
@@ -227,13 +214,13 @@ Leviticus 1:1–3, verso: 1:13–(?)
 
 Kupferstichkabinett, Min. 4678
 
-\### Numbers, preceded by capitula
+#### Numbers, preceded by capitula
 
 18 lines of text, with 16-line foliate initial
 
 recto: “ex populo xiiii milia dcc quod murmurauerunt aduersus moysen . . . et fecit ei sicut fecit seon regi amorreorum”
 
-verso: “Nouem tribubus et dimidię tributi manasse . . . plebis patris sui. [Explicivnt capitula. Incipit Vagedaber quod est Numerorvm liber. Locvtvsque]{.smallcaps} est dominus ad Moysen in deserto sy\[nai\]”
+verso: “Nouem tribubus et dimidię tributi manasse . . . plebis patris sui. [Explicivnt capitula. Incipit Vagedaber quod est Numerorvm liber. Locvtvsque]{.small-caps} est dominus ad Moysen in deserto sy\[nai\]”
 
 Capitula (De Bruyne, *Sommaires,* 29–30, series A, XLIII–LIIII; 32, series A, LXX–LXXIIII)
 
@@ -241,11 +228,11 @@ Numbers 1:1
 
 Kupferstichkabinett, Inv. 127
 
-\### Deuteronomy, preceded by the capitula explicit
+#### Deuteronomy, preceded by the capitula explicit
 
 16 lines of text, with 7-line (+ stem = 13-line) foliated initial
 
-recto: “[Explicivnt capitula. Incipit liber Helleadarbarim id est Devteronomivm Hęc svnt verba]{.smallcaps} quę locutus est moyses . . . campestri. con\[tra\]”
+recto: “[Explicivnt capitula. Incipit liber Helleadarbarim id est Devteronomivm Hęc svnt verba]{.small-caps} quę locutus est moyses . . . campestri. con\[tra\]”
 
 verso: “solitudinem; per uiam maris rubri . . . nec uoci uestrę uoluit”
 
@@ -253,23 +240,23 @@ Deuteronomy 1:1; 1:40–45
 
 Kupferstichkabinett, Min. 30491
 
-\### Prologue to Joshua, preceded by end of Deuteronomy and Joshua capitula
+#### Prologue to Joshua, preceded by end of Deuteronomy and Joshua capitula
 
 9 lines of text
 
-recto: “israel. [Explicit liber Helleadabarim id est Devteromimivm. Incipit prologus beati Iheronimi presbiteri in librum Iosue bennun]{.smallcaps}.”
+recto: “israel. [Explicit liber Helleadabarim id est Devteromimivm. Incipit prologus beati Iheronimi presbiteri in librum Iosue bennun]{.small-caps}.”
 
-verso: “Vnde natus sit abraham. . . . alloquitur eos iosue. [Explicivnt capitula Incipit liber Iosve Bennvn]{.smallcaps}”
+verso: “Vnde natus sit abraham. . . . alloquitur eos iosue. [Explicivnt capitula Incipit liber Iosve Bennvn]{.small-caps}”
 
 Deuteronomy (last word only); Joshua capitula (De Bruyne, *Sommaires,* 42, series A, XXXIII).
 
 Kupferstichkabinett, Inv. 157
 
-\### Joshua prologue
+#### Joshua prologue
 
 9 lines of text, with 6-line foliate initial
 
-recto: “[Tandem]{.smallcaps} finito pentateuco moysi . . . nominibus effe\[runt\]”
+recto: “[Tandem]{.small-caps} finito pentateuco moysi . . . nominibus effe\[runt\]”
 
 verso: “iudeos; quod calumniandi . . . quare danielem iuxta”
 
@@ -277,7 +264,7 @@ Stegmüller, Fredericus. *Repertorium biblicum medii aevi.* Vol. I, *Initia bibl
 
 Kupferstichkabinett, Inv. 166
 
-\### Ruth, preceded by the end of Judges
+#### Ruth, preceded by the end of Judges
 
 22 lines of text, with 13-line historiated initial
 
@@ -285,21 +272,22 @@ Ruth, with halo, holding and pointing to a book
 
 recto stuck down, but partially legible, starting at “sunt eis uxores de filiabus Jabes”
 
-verso: “[Explicit liber Sophtim idem Ivdicvm. Incipit liber Rvth. In diebvs vnivs]{.smallcaps} iudicis . . . ipsa cum filiis qui”
+verso: “[Explicit liber Sophtim idem Ivdicvm. Incipit liber Rvth. In diebvs vnivs]{.small-caps} iudicis . . . ipsa cum filiis qui”
 
 recto: Judges 21:14–20(?); verso: Ruth 1:1–4
 
 Kupferstichkabinett, Min. 4683
 
-\## Easter to Ascension
+{% endaccordion %}
+{% accordion '### Easter to Ascension' %}
 
-\### Acts, preceded by capitula list
+#### Acts, preceded by capitula list
 
 32 lines of text, with 11-line (+ stem = 23-line) foliate initial
 
 recto: “Et quia \[sic\] descendentes de iudea docebant fratres . . . Distulit autem illos certissime sciens de ui.”
 
-verso: “[Incipit liber Actvvm apostolorum. Primvm qvidem]{.smallcaps} sermonem feci . . . interrogabant eum dicentes. Domine”
+verso: “[Incipit liber Actvvm apostolorum. Primvm qvidem]{.small-caps} sermonem feci . . . interrogabant eum dicentes. Domine”
 
 Capitula (similar to De Bruyne*, Sommaires,* 377–79, series “In,” XL–LXIIII)
 
@@ -307,9 +295,10 @@ Acts 1:1–6
 
 Kupferstichkabinett, Inv. 132
 
-\## Pentecost to August
+{% endaccordion %}
+{% accordion '### Pentecost to August' %}
 
-\### I Samuel prologue
+#### I Samuel prologue
 
 12 lines of text, with 8-line foliate initial
 
@@ -321,11 +310,11 @@ Stegmüller, *Repertorium biblicum medii aevi,* no. 323. Printed in Weber and Gr
 
 Kupferstichkabinett, Inv. 137
 
-\### I Samuel
+#### I Samuel
 
 19 lines of text, with 8-line (+ stem = 16-line) foliate initial
 
-recto: “[Fvit vir]{.smallcaps} unus de ramathan . . . dies et immola\[vit\]”
+recto: “[Fvit vir]{.small-caps} unus de ramathan . . . dies et immola\[vit\]”
 
 verso: “omnibus diebus vitę eius; . . . peticionem quam”
 
@@ -335,11 +324,11 @@ Carthusian letter “*.G.*” next to I Samuel 1:16 (or, more probably, the text
 
 Kupferstichkabinett, Inv. 150
 
-\### II Samuel
+#### II Samuel
 
 28 lines of text
 
-recto: “[Incipit liber Regvm .II. Factvm]{.smallcaps} est autem postquam mortuus est saul. . . . et equites; appropin\[quabant\]”
+recto: “[Incipit liber Regvm .II. Factvm]{.small-caps} est autem postquam mortuus est saul. . . . et equites; appropin\[quabant\]”
 
 verso: ergo et transierunt . . . Percussit ergo eum abner”
 
@@ -349,11 +338,11 @@ Carthusian letters “*.a.p.*” and “*.b.*” next to II Samuel 1:1 and 1:5; 
 
 Kupferstichkabinett, Inv. 149
 
-\### I and II Chronicles prologues
+#### I and II Chronicles prologues
 
 14 lines of text, with 9-line foliate initial
 
-“[Si septva]{.smallcaps}ginta interpretum . . . erat etiam nostro silen\[tio\]”
+“[Si septva]{.small-caps}ginta interpretum . . . erat etiam nostro silen\[tio\]”
 
 Stegmüller, Repertorium biblicum medii aevi, no. 328. Printed in Weber and Gryson, Biblia Sacra iuxta Vulgatam versionem, 772, lines 1–4.
 
@@ -363,7 +352,7 @@ Stegmüller, *Repertorium biblicum medii aevi,* no. 327 (not in Weber and Gryson
 
 Kupferstichkabinett, Inv. 160
 
-\### I and II Chronicles prologues
+#### I and II Chronicles prologues
 
 4 lines of text, with 3-line decorated initial
 
@@ -375,11 +364,11 @@ Stegmüller, *Repertorium biblicum medii aevi,* nos. 328 (last word only) and 32
 
 Kupferstichkabinett, Inv. 158
 
-\### I Chronicles
+#### I Chronicles
 
 15 lines of text, with 11-line foliate initial
 
-“[Adam Seth]{.smallcaps} henos \[sic\] . . . dondanim. Filii autem cham.”
+“[Adam Seth]{.small-caps} henos \[sic\] . . . dondanim. Filii autem cham.”
 
 stuck down: reverse not readily legible
 
@@ -387,25 +376,26 @@ I Chronicles 1:1–8
 
 Kupferstichkabinett, Inv. 4679
 
-\### II Chronicles
+#### II Chronicles
 
 11 lines of text, with 10-line historiated initial:
 
 King Solomon seated, with halo, crown, and scepter
 
-recto: “[Conforta]{.smallcaps}tus est ergo Salomon . . . Precepitque Salomon”; verso “erant in terra . . . quam dinumerauit . . . David in area”
+recto: “[Conforta]{.small-caps}tus est ergo Salomon . . . Precepitque Salomon”; verso “erant in terra . . . quam dinumerauit . . . David in area”
 
 II Chronicles 1:1–2; 2:17–3:1
 
 Kupferstichkabinett, Min. 4684
 
-\## August to September
+{% endaccordion %}
+{% accordion '### August to September' %}
 
-\### Proverbs
+#### Proverbs
 
 18 lines of text, with 9-line line (+ stem = 17-line) foliate initial
 
-recto: “*[Incipiunt Parabole Salomonis]{.smallcaps}*. Parabolę salomonis filii dauid . . . Sapientiam atque doctrinam”
+recto: “*[Incipiunt Parabole Salomonis]{.small-caps}*. Parabolę salomonis filii dauid . . . Sapientiam atque doctrinam”
 
 verso: “proferam uobis spiritum meum. . . . paruulorum interficiet eos;”
 
@@ -415,7 +405,7 @@ Carthusian letters “.*a.*” and “*P*” and number “.*I.*” next to Prov
 
 Kupferstichkabinett, Inv. 136
 
-\### Ecclesiastes, preceded by the end of Proverbs
+#### Ecclesiastes, preceded by the end of Proverbs
 
 13 lines of text, with a 13-line foliate initial
 
@@ -429,7 +419,7 @@ Carthusian letter “*e*” at Proverbs 30:15
 
 Kupferstichkabinett, Min. 148
 
-\### Wisdom, preceded by explicit of capitula
+#### Wisdom, preceded by explicit of capitula
 
 13 lines of text, with 11-line foliate initial
 
@@ -443,9 +433,10 @@ Carthusian letters “.*G.c.*” next to Wisdom 2:1
 
 Kupferstichkabinett, Inv. 168
 
-\## September to October
+{% endaccordion %}
+{% accordion '### September to October' %}
 
-\### Job prologue, preceded by Ecclesiasticus
+#### Job prologue, preceded by Ecclesiasticus
 
 11 lines of text, with 9-line foliate initial
 
@@ -461,19 +452,19 @@ Carthusian letter “*d*” (? – cropped) at Ecclesiasticus 50:15 (Oblatio aut
 
 Kupferstichkabinett, Inv. 159
 
-\### Job prologue, followed by incipit to Job
+#### Job prologue, followed by incipit to Job
 
 4 lines of text, with 4-line decorated initial
 
 recto: “*Explicit prologus.* Si aut ficellam \[sic\] . . . in sudore uultus mei”
 
-verso: “quam ex aliorum negocio; *[Incipit liber Iob]{.smallcaps}*”
+verso: “quam ex aliorum negocio; *[Incipit liber Iob]{.small-caps}*”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 357 (not in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem*).
 
 Kupferstichkabinett, Inv. 154
 
-\### Job, preceded by a prologue
+#### Job, preceded by a prologue
 
 14 lines of text, with 12-line foliate initial
 
@@ -487,7 +478,7 @@ Job 1:1–3
 
 Kupferstichkabinett, Inv. 138
 
-\### Tobit prologue, preceded by Job
+#### Tobit prologue, preceded by Job
 
 10 lines of text, with 7-line foliate initial
 
@@ -505,7 +496,7 @@ Tobit
 
 15 lines of text, with 11-line foliate initial
 
-recto: “*[Incipit liber Tobie]{.smallcaps}*. Tobias ex tribu & ciuitate neptalim . . . esset in diebus salma\[nassar\]”
+recto: “*[Incipit liber Tobie]{.small-caps}*. Tobias ex tribu & ciuitate neptalim . . . esset in diebus salma\[nassar\]”
 
 verso: “dominis suis. quia non licet . . . mortem et in fabu\[lam\]”
 
@@ -515,7 +506,7 @@ Carthusian letters “.*b.*” at Tobit 1:1 and “.*d.s.*” at Tobit 3:1
 
 Kupferstichkabinett, Inv. 139
 
-\### Esther prologue, preceded by the end of Tobit
+#### Esther prologue, preceded by the end of Tobit
 
 15 lines of text, with 13-line foliate initial
 
@@ -531,15 +522,15 @@ Carthusian letter “.*h.*” next to Tobit 12:20
 
 Kupferstichkabinett, Inv. 141
 
-\### Esther, preceded by the end of Tobit and a heading for a prologue
+#### Esther, preceded by the end of Tobit and a heading for a prologue
 
 2 columns of 15 lines of text, with a 14-line historiated initial: Esther, full-length, standing on the back of a lion(?), with crown, scepter, and orb-like object
 
 recto stuck down, but partially legible: “quadraginta duobus et uidit . . . non enim excidit verbum Dei”
 
-verso, col. 1: “ei et omnis generatio ei; . . . habitatoribus terrę; Explicit liber Tobie. *[Incipit prologus beati Ieronimi presbiteri in librum Hester.]{.smallcaps}*”
+verso, col. 1: “ei et omnis generatio ei; . . . habitatoribus terrę; Explicit liber Tobie. *[Incipit prologus beati Ieronimi presbiteri in librum Hester.]{.small-caps}*”
 
-verso, col. 2: “*[Incipit liber Hester]{.smallcaps}*. In diebus assueri . . . Cumque implerentur”
+verso, col. 2: “*[Incipit liber Hester]{.small-caps}*. In diebus assueri . . . Cumque implerentur”
 
 Recto includes Tobit 14:1–6; verso: Tobit 14:16 (end); Esther 1:1–5
 
@@ -547,7 +538,7 @@ Carthusian letters “*c.s*” at Esther 1:5 (“Cumque implerentur”)
 
 Kupferstichkabinett, Min. 1904
 
-\### Judith prologue, preceded by the end of Esther
+#### Judith prologue, preceded by the end of Esther
 
 15 lines of text, with 10-line foliate initial
 
@@ -555,13 +546,13 @@ recto: “\[sangui\]ne & pietatem nostram . . . sed e contrario”
 
 Esther 16:10–15
 
-verso: “*[Incipit prologus beati Ieronimi presbiteri in librum Iudith.]{.smallcaps}* Apud hebreos . . . sanctarum scriptu\[rarum\]”
+verso: “*[Incipit prologus beati Ieronimi presbiteri in librum Iudith.]{.small-caps}* Apud hebreos . . . sanctarum scriptu\[rarum\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 335. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 962, lines 1–3.
 
 Kupferstichkabinett, Inv. 163
 
-\### Judith, preceded by end of Esther
+#### Judith, preceded by end of Esther
 
 22 lines of text, with 11-line foliate initial
 
@@ -569,7 +560,7 @@ recto: “elevasset faciem & ardentibus oculis furorem pectoris indicasset . .�
 
 Esther 15:10–16 (heading)
 
-verso: “\[insuperabi\]lem superaret. *[Incipit liber Iudith]{.smallcaps}*. *Expli*\[ . . . \]. Arfaxaz \[sic\] itaque rex medorum . . . regni sui nabuchodo\[nosor\]”
+verso: “\[insuperabi\]lem superaret. *[Incipit liber Iudith]{.small-caps}*. *Expli*\[ . . . \]. Arfaxaz \[sic\] itaque rex medorum . . . regni sui nabuchodo\[nosor\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 335 (last words); Judith 1:1–5
 
@@ -577,9 +568,10 @@ Carthusian letters “*c*” and “*ds*” at Esther 15:15 (“Cumque illa”) 
 
 Kupferstichkabinett, Inv. 131
 
-\## October to November
+{% endaccordion %}
+{% accordion '### October to November' %}
 
-\### I Maccabees, preceded by a capitula list
+#### I Maccabees, preceded by a capitula list
 
 11 lines of text, with 10-line foliate initial
 
@@ -593,7 +585,7 @@ I Maccabees 1:1–2
 
 Kupferstichkabinett, Inv. 130
 
-\### II Maccabees
+#### II Maccabees
 
 16 lines of text, with 10-line (+ stem = 16-line) foliate initial
 
@@ -605,7 +597,7 @@ II Maccabees 1:1–3; 1:13–18
 
 Kupferstichkabinett, Inv. 164
 
-\### End of II Maccabees, followed by incipit of a prologue to Ezra
+#### End of II Maccabees, followed by incipit of a prologue to Ezra
 
 6 lines of text
 
@@ -613,19 +605,19 @@ recto: “\[redi\]rent cognoverunt nicanorem . . . ciuibus paratus”
 
 II Maccabees 15:28–30
 
-verso: “*[Incipit prefatio Eusebii Ieronimi in librum Ezdram]{.smallcaps}*”
+verso: “*[Incipit prefatio Eusebii Ieronimi in librum Ezdram]{.small-caps}*”
 
 Carthusian letters “.*f.t*” next to II Maccabees 15:29
 
 Kupferstichkabinett, Inv. 155
 
-\### Ezra prologue, preceded by II Maccabees
+#### Ezra prologue, preceded by II Maccabees
 
 17 lines of text, with 14-line initial
 
 recto: stuck down, but legible words include “\[fa\]cta . . . \[mnip\]otente . . . \[adl\]ocutus . . . etiam cer\[taminum\] . . . promptio\[res\] . . . \[anim\]is eorum . . . \[fa\]llaciam et . . . \[sin\]gulos . . .”
 
-\### II Maccabees 15:8–11
+#### II Maccabees 15:8–11
 
 verso: “Vtrum difficilius sit facere . . . contra se”
 
@@ -633,11 +625,11 @@ Stegmüller, *Repertorium biblicum medii aevi,* no. 330. Printed in Weber and Gr
 
 Kupferstichkabinett, Min. 4681
 
-\### I Ezra
+#### I Ezra
 
 16 lines, with a 13-line foliate initial
 
-recto: “*[Incipit liber Esdre]{.smallcaps}*. Anno primo cyri . . . regno suo; etiam”
+recto: “*[Incipit liber Esdre]{.small-caps}*. Anno primo cyri . . . regno suo; etiam”
 
 verso: “\[Mithri\]dati filii gazabar . . . saraia. rahelaia.”
 
@@ -645,9 +637,10 @@ Ezra 1:1; 1:8–2:2
 
 Kupferstichkabinett, Inv. 162
 
-\## November to December
+{% endaccordion %}
+{% accordion '### November to December' %}
 
-\### Nehemiah (II Ezra)
+#### Nehemiah (II Ezra)
 
 11 lines of text, with 8-line foliate initial
 
@@ -659,7 +652,7 @@ Nehemiah 1:1–3; 3:3–6
 
 Kupferstichkabinett, Inv. 142
 
-\### Ezekiel prologue, preceded by the end of Nehemiah
+#### Ezekiel prologue, preceded by the end of Nehemiah
 
 16 lines of text, with 11-line foliate initial
 
@@ -667,7 +660,7 @@ recto: stuck down, and thus only partially legible, but apparently including as 
 
 Nehemiah 12:39–40, 41
 
-verso: “*Explicit liber Ezdre.* [*Incipit prologus sancti Ieronimi presbiteri in Hiezechielem prophetam.* Hiezechi]{.smallcaps}el propheta cum ioachim . . . tradidissent;”
+verso: “*Explicit liber Ezdre.* [*Incipit prologus sancti Ieronimi presbiteri in Hiezechielem prophetam.* Hiezechi]{.small-caps}el propheta cum ioachim . . . tradidissent;”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 492.
 
@@ -675,11 +668,11 @@ Carthusian(?) marking “*a*” next to the beginning of the prologue.
 
 Kupferstichkabinett, Min. 4680
 
-\### Ezekiel
+#### Ezekiel
 
 13 lines of text, with 9-line foliate initial.
 
-recto: “[*Incipit liber Hiezechiel prophete*. Et factvm]{.smallcaps} est in tricesimo anno. . . . quintus trans\[migrationis\]”
+recto: “[*Incipit liber Hiezechiel prophete*. Et factvm]{.small-caps} est in tricesimo anno. . . . quintus trans\[migrationis\]”
 
 verso: “pactum meum; . . . Loqueris ergo uer\[ba\]”
 
@@ -687,11 +680,11 @@ Ezekiel 1:1–2; 2:3–7
 
 Kupferstichkabinett, Inv. 146
 
-\### The explicit of Ezekiel, followed by a heading for a prologue to the Minor Prophets, and part of Hosea
+#### The explicit of Ezekiel, followed by a heading for a prologue to the Minor Prophets, and part of Hosea
 
 7 lines of text
 
-recto: “[Explicit Ihezechiel propheta.]{.smallcaps} *[incipit prologus sancti Ieronimi presbiteri in librum duodecim prophetarum]{.smallcaps}*”
+recto: “[Explicit Ihezechiel propheta.]{.small-caps} *[incipit prologus sancti Ieronimi presbiteri in librum duodecim prophetarum]{.small-caps}*”
 
 verso: “& ibat post amatores suos; . . . iuuentutis suę”
 
@@ -699,11 +692,11 @@ Hosea 2:13–15
 
 Kupferstichkabinett, Inv. 156
 
-\### Prologue to the Minor Prophets, followed by part of Hosea
+#### Prologue to the Minor Prophets, followed by part of Hosea
 
 15 lines of text, with 9-line foliate initial
 
-recto: “[Non idem or]{.smallcaps}do est duodecim prophetarum . . . de omnibus dicere.”
+recto: “[Non idem or]{.small-caps}do est duodecim prophetarum . . . de omnibus dicere.”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 500. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,*1907, lines 1–5.
 
@@ -713,21 +706,21 @@ Hosea 1:3–8
 
 Kupferstichkabinett, Inv. 161
 
-\### Hosea, preceded by prologue
+#### Hosea, preceded by prologue
 
 13 lines of text and a 9-line historiated initial: Hosea holding a scroll
 
-recto: “titulos prophetaverunt. *Explicit prologus.* *[Incipit Osee propheta]{.smallcaps}*. [Verbum]{.smallcaps} domini quod factum est ad osee . . . Et dixit dominus ad.”
+recto: “titulos prophetaverunt. *Explicit prologus.* *[Incipit Osee propheta]{.small-caps}*. [Verbum]{.small-caps} domini quod factum est ad osee . . . Et dixit dominus ad.”
 
 End of prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 500. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 1907, lines 8–9), and Hosea 1:1–2 (a few words of 1:11 visible on the verso due to show-through)
 
 Private collection
 
-\### Joel, preceded by the end of Hosea
+#### Joel, preceded by the end of Hosea
 
 16 lines of text and an 11-line foliate initial
 
-recto: “[Explicit Osee Propheta]{.smallcaps}. [Incipit Iohel propheta. Verbvm]{.smallcaps} domini quod factum est . . . generationi alterę. Resi\[duum\]”
+recto: “[Explicit Osee Propheta]{.small-caps}. [Incipit Iohel propheta. Verbvm]{.small-caps} domini quod factum est . . . generationi alterę. Resi\[duum\]”
 
 verso: “et dicent. Parce domine . . . et lętare; quoniam”
 
@@ -737,7 +730,7 @@ Carthusian number “.*I.*” next to Joel 1:1 and letter “*S*” next to Joel
 
 Kupferstichkabinett, Inv. 133
 
-\### Amos, preceded by the end of Joel
+#### Amos, preceded by the end of Joel
 
 14 lines of text, with 8-line historiated initial: Amos, with halo, leaning on a tau-topped staff, and two sheep, one with horns
 
@@ -745,17 +738,17 @@ recto: “locutus est. Clamate . . .” (the cutting is stuck down, but the fi
 
 Joel 3:8–?
 
-verso: “[Incipit Amos propheta. Uerba]{.smallcaps} Amos . . . speciosa pastorum”
+verso: “[Incipit Amos propheta. Uerba]{.small-caps} Amos . . . speciosa pastorum”
 
 Amos 1:1–2
 
 Kupferstichkabinett, Min. 1907
 
-\### Obadiah
+#### Obadiah
 
 14 lines of text, with 9-line historiated initial: Obadiah, with halo and scroll
 
-recto: “[Incipit Abdias propheta. Visio Abdie.]{.smallcaps} Hęc dicit dominus . . . in sci / s / suris petrę.”
+recto: “[Incipit Abdias propheta. Visio Abdie.]{.small-caps} Hęc dicit dominus . . . in sci / s / suris petrę.”
 
 Obadiah 1:1–3
 
@@ -765,7 +758,7 @@ Obadiah 1:12–16
 
 Kupferstichkabinett, Min. 30493
 
-\### Jonah, preceded by Amos and the explicit of Obadiah
+#### Jonah, preceded by Amos and the explicit of Obadiah
 
 14 lines of text and 9-line foliate initial
 
@@ -773,7 +766,7 @@ recto: “in fundo maris; . . . Nunquid non”
 
 Amos 9:3–7
 
-verso: “[Explicit Abdias propheta]{.smallcaps}. [Incipit Ionas propheta. Et factvm]{.smallcaps} est uerbum domini . . . in Tharsis; a facię domini.”
+verso: “[Explicit Abdias propheta]{.small-caps}. [Incipit Ionas propheta. Et factvm]{.small-caps} est uerbum domini . . . in Tharsis; a facię domini.”
 
 Jonah 1:1–3
 
@@ -781,13 +774,13 @@ Carthusian(?) number “*V*” next to Jonah 1:1.
 
 Kupferstichkabinett, Inv. 128
 
-\### Micah, preceded by Jonah
+#### Micah, preceded by Jonah
 
 14 lines of text, with 9-line historiated initial: Micah, with halo and scroll ([fig. 1](#fig-2-1))
 
 recto: stuck down; partially legible text includes “\[po\]pulo es tu. Et d\[ixit\] . . .” (Jonah 1:8)
 
-verso: “[Explicit Ionas propheta;]{.smallcaps} *Incipit micheas propheta*. [Incipit Micheas propheta. Uerbum]{.smallcaps} domini quod factum est ad Mich / e / am . . . uobis in testem.”
+verso: “[Explicit Ionas propheta;]{.small-caps} *Incipit micheas propheta*. [Incipit Micheas propheta. Uerbum]{.small-caps} domini quod factum est ad Mich / e / am . . . uobis in testem.”
 
 Micah 1:1–2
 
@@ -795,7 +788,7 @@ Carthusian letter “.*S.*” next to Micah 1:1
 
 J. Paul Getty Museum, Ms. 38
 
-\### Nahum, preceded by the end of Micah
+#### Nahum, preceded by the end of Micah
 
 11 lines of text, with 9-line foliate initial
 
@@ -803,7 +796,7 @@ recto: “die illa dicit dominus . . . in omnibus gentibus”
 
 Micah 5:10–14
 
-verso: “*Incipit naum propheta*. [Onvs Nini]{.smallcaps}uę . . . irascens ipse inimi\[cis\]”
+verso: “*Incipit naum propheta*. [Onvs Nini]{.small-caps}uę . . . irascens ipse inimi\[cis\]”
 
 Nahum 1:1–2
 
@@ -811,7 +804,7 @@ Carthusian number “.*II.*” next to Nahum 1:1
 
 Kupferstichkabinett, Min. 31812
 
-\### Habakkuk, preceded by the end of Nahum
+#### Habakkuk, preceded by the end of Nahum
 
 13 lines of text, with 10-line foliate initial
 
@@ -819,7 +812,7 @@ recto: “\[tribulati\]onis et sciens sperantes . . . non affligam te ul\[tra\
 
 Nahum 1:7–12
 
-verso: “[*Incipit Abacuc propheta*. Onvs]{.smallcaps} quod uidit abacuc propheta. . . . in iusticiam contra me? Quare respicis con\[temptores\]” (This verse is not present in all versions of the Bible.)
+verso: “[*Incipit Abacuc propheta*. Onvs]{.small-caps} quod uidit abacuc propheta. . . . in iusticiam contra me? Quare respicis con\[temptores\]” (This verse is not present in all versions of the Bible.)
 
 Habakkuk 1:1–3
 
@@ -827,7 +820,7 @@ Carthusian number “.*III.*” at Habakkuk 1:1
 
 Kupferstichkabinett, Inv. 144
 
-\### Habakkuk, chapter 3
+#### Habakkuk, chapter 3
 
 8 lines of text, with 5-line decorated initial
 
@@ -839,7 +832,7 @@ Habakkuk 2:7–9; 2:20–3:3
 
 Kupferstichkabinett, Inv. 167
 
-\### Zephaniah, preceded by Habakkuk
+#### Zephaniah, preceded by Habakkuk
 
 8 lines of text, with 7-line foliate initial
 
@@ -847,17 +840,17 @@ recto: “\[sage\]nam suam; et semper . . . & apparebit”
 
 Habakkuk 1:17–2:3
 
-verso: “[Explicit Abacvc propheta]{.smallcaps}. *Incipit sophonias propheta*. Uerbum domini quod factum est . . . filii ammon re\[gis\]”
+verso: “[Explicit Abacvc propheta]{.small-caps}. *Incipit sophonias propheta*. Uerbum domini quod factum est . . . filii ammon re\[gis\]”
 
 Zephaniah 1:1
 
 Kupferstichkabinett, Inv. 153
 
-\### Haggai, preceded by the end of Zephaniah and followed by Zechariah
+#### Haggai, preceded by the end of Zephaniah and followed by Zechariah
 
 28 lines of text, with a 14-line foliate initial and a 17-line historiated initial: Zechariah, with halo and scroll
 
-recto: “\[oculis vestris di\]cit dominus. [Explicit Sophonias propheta.]{.smallcaps} [*Incipit Aggeus propheta*. In]{.smallcaps} anno secundo darii regis . . . ob causam dicit dominus exercituus quia”
+recto: “\[oculis vestris di\]cit dominus. [Explicit Sophonias propheta.]{.small-caps} [*Incipit Aggeus propheta*. In]{.small-caps} anno secundo darii regis . . . ob causam dicit dominus exercituus quia”
 
 Zephaniah 3:20 (end); Haggai 1:1–9
 
@@ -871,7 +864,7 @@ Carthusian letter “P” at Zechariah 1:1
 
 Kupferstichkabinett, Min. 1905
 
-\### Malachi, preceded by the end of Zechariah
+#### Malachi, preceded by the end of Zechariah
 
 15 lines of text and 9-line foliate initial
 
@@ -879,7 +872,7 @@ recto: “planctus ad remmon \[sic\] . . . Et pseudo \[sic\] prophetas; et”
 
 Zacharias 12:11–13:2
 
-verso: “*[Incipit Malachias propheta]{.smallcaps}*. Onus uerbi domini ad israel . . . destructi sumus sed”
+verso: “*[Incipit Malachias propheta]{.small-caps}*. Onus uerbi domini ad israel . . . destructi sumus sed”
 
 Malachi 1:1–4
 
@@ -887,13 +880,13 @@ Carthusian number “*II*” next to Malachi 1:1
 
 Kupferstichkabinett, Inv. 143
 
-\### Daniel, preceded by the end of Malachi and a prologue
+#### Daniel, preceded by the end of Malachi and a prologue
 
 19 lines, with 10-line foliate initial (verso), and 10-line historiated initial (recto): Daniel, with halo and scroll, standing at the gate of a city
 
-recto: “\[ser\]ui mei. quam mandaui . . . terram anathemate. [Explicit Malachias propheta]{.smallcaps}. *Incipit prologus sancti hieronimi presbiteri in danielem prophetam;* [Danielem]{.smallcaps} prophetam iuxta lxxta . . . chaldaicus est. et qui”
+recto: “\[ser\]ui mei. quam mandaui . . . terram anathemate. [Explicit Malachias propheta]{.small-caps}. *Incipit prologus sancti hieronimi presbiteri in danielem prophetam;* [Danielem]{.small-caps} prophetam iuxta lxxta . . . chaldaicus est. et qui”
 
-verso: “*[Incipit Daniel propheta]{.smallcaps}*. [Anno ter]{.smallcaps}cio regni ioachim . . . & doctos dis\[ciplina\]”
+verso: “*[Incipit Daniel propheta]{.small-caps}*. [Anno ter]{.small-caps}cio regni ioachim . . . & doctos dis\[ciplina\]”
 
 Malachi 3:4–6 (end), prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 494); Daniel 1:1–4
 
@@ -901,13 +894,14 @@ Carthusian number “.*I.*” next to Daniel 1:1
 
 Kupferstichkabinett, Min. 1908
 
-\## Advent to Christmas Eve
+{% endaccordion %}
+{% accordion '### Advent to Christmas Eve' %}
 
-\### Isaiah prologue
+#### Isaiah prologue
 
 10 lines, with 9-line foliate initial
 
-recto: “[*Incipit prologus sancti Ieronimi presbiteri in Ysaiam prophetam*. Nemo cum]{.smallcaps} prophetas . . . hebreos ligari”
+recto: “[*Incipit prologus sancti Ieronimi presbiteri in Ysaiam prophetam*. Nemo cum]{.small-caps} prophetas . . . hebreos ligari”
 
 verso: “\[Sci\]ens ergo et prudens . . . ex iuditio sed ex”
 
@@ -917,7 +911,8 @@ Carthusian number “*III*” adjacent to the last line on the verso, but probab
 
 Kupferstichkabinett, Inv. 135
 
-\## Isaiah, preceded by the end of Daniel and a prologue
+{% endaccordion %}
+{% accordion '### Isaiah, preceded by the end of Daniel and a prologue' %}
 
 12 lines, with 10-line historiated initial: Isaiah, with halo and scroll
 
@@ -925,7 +920,7 @@ recto: stuck down; visible text includes “Et dixit rex daniel”
 
 Daniel 14:23
 
-verso: “\[insul\]tarent. [Explicit prologus]{.smallcaps}. \[rubric, apparently subsequently effaced and later partially re-inked\] *Incipit ysaias propheta.* [Visio Isa]{.smallcaps}iaę filii amos . . . terra; quoniam”
+verso: “\[insul\]tarent. [Explicit prologus]{.small-caps}. \[rubric, apparently subsequently effaced and later partially re-inked\] *Incipit ysaias propheta.* [Visio Isa]{.small-caps}iaę filii amos . . . terra; quoniam”
 
 End of prologue (Stegmüller, *Repertorium biblicum medii aevi,* no. 482); Isaiah 1:1–2
 
@@ -933,23 +928,24 @@ Carthusian number “.*II.*” next to Isaiah 1:1
 
 Kupferstichkabinett, Min. 1906
 
-\## Epiphany to Septuagesima
+{% endaccordion %}
+{% accordion '### Epiphany to Septuagesima' %}
 
-\### Prologue to the Pauline Epistles
+#### Prologue to the Pauline Epistles
 
 27 lines, with 9-line foliate initial (+ stem = 21-line)
 
-recto: “[*Incipit argumentum epistolarum Pauli apostoli*. Primvm]{.smallcaps} quęritur quare post euangelia . . . nostram memoriam transmi\[serunt\]”; verso: “tabulas lapideas . . . Nam hanc se proficis\[centem\]”
+recto: “[*Incipit argumentum epistolarum Pauli apostoli*. Primvm]{.small-caps} quęritur quare post euangelia . . . nostram memoriam transmi\[serunt\]”; verso: “tabulas lapideas . . . Nam hanc se proficis\[centem\]”
 
 Stegmüller, *Repertorium biblicum medii aevi,* no. 670. Printed in Weber and Gryson, *Biblia Sacra iuxta Vulgatam versionem,* 2448, lines 1–8, 13–27.
 
 Kupferstichkabinett, Inv. 134
 
-\### Romans
+#### Romans
 
 21 lines of text, with 9-line (+ stem = 19-line) historiated initial: Saint Paul with halo, seated, writing at a desk
 
-recto: “*[Incipit epistola ad Romanos]{.smallcaps}*. [Paulvs]{.smallcaps} seruus christi ihesu uocatus apostolus. . . . omnibus qui sunt rome”
+recto: “*[Incipit epistola ad Romanos]{.small-caps}*. [Paulvs]{.small-caps} seruus christi ihesu uocatus apostolus. . . . omnibus qui sunt rome”
 
 verso: “et Graeci. Gloria autem et honor et pax omni operanti bonum”
 
@@ -959,7 +955,7 @@ Carthusian letters “*b.s.*” next to the incipit
 
 Kupferstichkabinett, Min. 4682
 
-\### I Corinthians, preceded by the end of Romans
+#### I Corinthians, preceded by the end of Romans
 
 20 lines of text, with 9-line foliate initial (+ stem = 18-line)
 
@@ -969,7 +965,7 @@ Romans 16:11–19
 
 Carthusian letters “.*d.s.*” next to Romans 16:15; “*f*” adjacent to Romans 16:17, but perhaps referring to text in the adjacent (missing) column
 
-verso: “*[Incipit epistola ad Coronthios]{.smallcaps}* prima. Paulus uocatus apostolus christi ihesu per uoluntatem dei. . . . testimonium christi con\[firmatum\]”
+verso: “*[Incipit epistola ad Coronthios]{.small-caps}* prima. Paulus uocatus apostolus christi ihesu per uoluntatem dei. . . . testimonium christi con\[firmatum\]”
 
 I Corinthians 1:1–6
 
@@ -977,17 +973,17 @@ Carthusian letter “*b*” next to I Corinthians 1:1
 
 Kupferstichkabinett, Inv. 165
 
-***
+{% endaccordion %}
 
-{% contributors context=pageContributors format='bio' %}
+</div>
 
-{% backmatter %}
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-## Notes
+## Notes {.notes-heading}
 
-François Avril and Patricia Stirnemann were (as always) especially helpful and generous with information concerning the style of the cuttings. Joseph Bernaer has done more work than anyone else on Carthusian biblical readings, and although we only cite one important article by him, he has generously shared with us much unpublished information. We also benefited greatly from the suggestions and corrections provided by this journal’s anonymous peer reviewer. We are also much obliged to the Kupferstichkabinett staff, in particular to Dagmar Korbacher, for facilitating our study in the Berlin collection.
-
-{% endbackmatter %}
+François Avril and Patricia Stirnemann were (as always) especially helpful and generous with information concerning the style of the cuttings. Joseph Bernaer has done more work than anyone else on Carthusian biblical readings, and although we only cite one important article by him, he has generously shared with us much unpublished information. We also benefited greatly from the suggestions and corrections provided by this journal’s anonymous peer reviewer. We are also much obliged to the Kupferstichkabinett staff, in particular to Dagmar Korbacher, for facilitating our study in the Berlin collection. {.backmatter}
 
 [^1]: Unknown maker, historiated initial from a Bible, circa 1160s, Los Angeles, J. Paul Getty Museum, Ms. 38 (89.MS.45). An image and some data are available at www.getty.edu/art/collection/object/103RWR.
 

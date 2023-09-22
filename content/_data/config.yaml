@@ -11,7 +11,7 @@ accordion:
 analytics:
   googleId: ''
 
-bylineFormat: name-title # name | name-title | false
+bylineFormat: string # name | name-title | false
 
 bibliography:
   displayOnPage: true

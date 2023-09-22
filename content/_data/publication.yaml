@@ -14,7 +14,7 @@ url: 'http://localhost:8080'
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Getty Research Journal
-subtitle: Number 19 • 2024
+subtitle:
 reading_line:
 short_title:
 
@@ -26,19 +26,46 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2024-12-01 # YYYY-MM-DD
+pub_date: 2024-05-28 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: journal-periodical # book | journal-periodical | other
+
+series_issue_number: 19
+
+series_editors:
+  - Doris Chon, *Editor*
+  - Lauren Gendler, *Managing Editor*
+
+series_editorial_board: "Scott Allan, LeRonn Brooks, Maristella Casciato, Anne‑Lise Desmas, Tom Learner, Mary E. Miller, Rebecca Peabody, Andrew Perchuk, Richard Rand, David Saunders, Alexa Sekyra, and Naoko Takahatake"
+
+project_team:
+  - Elizabeth Asborno, Lauren Gendler, Annalisa Zox‑Weaver, *Manuscript Editors*
+  - Joseph Tumolo, *Editorial Assistant*
+  - Michelle Deemer, *Production*
+  - Jeffrey Cohen, *Cover Design*
+  - Greg Albers, *Digital Manager*
+  - Erin Cecele Dunigan, *Digital Assistant*
+
 
 identifier:
   isbn:
+  isbn_html: 978-1-60606-898-4
+  isbn_pdf: 978-1-60606-896-0
+  isbn_epub: 978-1-60606-897-7
+  isbn_paperback: 978-1-60606-895-3
   issn: 1944-8740
+  e_issn: 2329-1249
 
 publisher:
   - name: Getty Research Institute
     location: Los Angeles
     url:
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -48,13 +75,11 @@ contributor_as_it_appears:
 
 contributor:
   - id: dchon
-    type: primary
     first_name: Doris
     last_name: Chon
     title: Editor
     affiliation: Getty Research Journal
   - id: lgendler
-    type: primary
     first_name: Lauren
     last_name: Gendler
     title: Managing Editor
@@ -67,10 +92,10 @@ contributor:
 copyright: © 2024 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution‑NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -78,27 +103,28 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (## MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/grj-19.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (## MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
-  - type: footer-link
-    name: About
-    link_relation: about
-    url: /about/
+    url: /downloads/grj-19.epub
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/#
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -115,11 +141,15 @@ subject:
 # Revision History
 # ------------------------------------------------------------------------------
 
-revision_history:
-  - date:
-    summary:
 
-repository_url:
+revision_history:
+  - date: May 28, 2024
+    summary:
+      - First edition
+
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/grj-19](https://github.com/thegetty/grj-19), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/grj-19
 
 # ------------------------------------------------------------------------------
 # Promo Image

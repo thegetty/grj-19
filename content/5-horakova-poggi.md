@@ -1,7 +1,7 @@
 ---
 title: "Overthrowing Reality: Photo-Poems in 1980s German Democratic Republic Samizdat"
 short_title: 
-layout: "essay"
+layout: article
 order: 30
 contributor: 
   - first_name: Anna   
@@ -56,20 +56,20 @@ The artist’s book *Landschaft als Zeichen, messbar-vermessbar* (Landscape as s
 
 The book explores whether a landscape’s value can be measured, surveyed, or quantified, and is critical of threats to the environment from pollution and the exploitation of natural resources.[^18] The three poems call for the recovery and preservation of the natural landscape, addressing nature and culture, as well as the impact of humans on the environment. Henne’s concrete poem “Landschaft” is laid out on graph paper across Cartesian coordinates, for which the horizontal and vertical axes are composed of the repeated plus (+) signs of a typewriter. The grid-based composition evokes the mathematical procedure involved in measuring the value of the landscape, comprising the land and its natural resources ([fig. 1](#fig-5-1)):
 
-landscape
 
-landscape
+> landscape
+> landscape
+> landscape
+> 
+> 
+> landscape
+>          [’s]{style="margin-left: 5rem"}
+>          [spaces]{style="margin-left: 5rem"}
+>          [dreams]{style="margin-left: 5rem"}
+> 
+> 
+> landscape in emigration
 
-landscape
-
-landscape
-
-’s
-
-spaces
-
-dreams\
-landscape in emigration
 
 The words of the poem are typed abutting the vertical axis of plus signs on both sides, with the final phrase traversing it, running from the top-left quadrant toward the bottom-right quadrant. The word *landschaft* (landscape) is repeated four times on top; with a vertical line of eight plus signs linking the first letter of the third and fourth, creating a box, perhaps to suggest the parceling of land. The layout physically embodies the notion of measured spaces, which beneath the horizontal axis becomes “landscapes’ spaces” and then dreams. In the last line, landscape is linked to emigration, which might be read literally or symbolically.[^19]
 
@@ -139,18 +139,15 @@ In its creative overpainting and overdrawing of an appropriated photograph and M
 
 If the group is supposed to be cast as female, the upper half of the image of the monument is coded as male, signified by a headless, nude male figure drawn hovering above the group, Schlegel’s addition of stark outlines around the statues of soldiers on the memorial, and the delineation of the phallic shape of the memorial itself. The masculinist investiture of the monument is countermanded by the painted lines, through which Müller has crossed out and obscured portions of the memorial and rendered the hovering male figure as decapitated alongside the quasi-decapitated memorial itself, whose photograph has been cut off at the top in the page layout. Müller’s poem is created in a white space within black paint outlines on the opposite page that echoes the shape of the memorial and likewise resembles a decapitated torso, mirroring the headless monument on the right page. The poem takes the perspective of a child, who is unaware of the bygone cheer of the poem’s addressee behind a “door” reminiscent of the fairy tale “Bluebeard”:
 
-DREI FRAGEN HINTER DER TÜR
-
-aus Kindertagen
-
-und Du hast gelacht
-
-gestern vor zweitausend Jahren
-
-THREE QUESTIONS BEHIND THE DOOR\
-from childhood days\
-and you laughed\
-yesterday two thousand years ago
+> DREI FRAGEN HINTER DER TÜR
+> aus Kindertagen
+> und Du hast gelacht
+> gestern vor zweitausend Jahren {lang="de"}
+>
+> THREE QUESTIONS BEHIND THE DOOR
+> from childhood days
+> and you laughed
+> yesterday two thousand years ago
 
 The work stages and subverts what historian Mary Fulbrook terms the “biological essentialism” of the Nazis, which attributed fundamentally different roles to those men and women deemed to be part of the Nazis’ racialized community, and at once turns historically victimized women into perpetrators. It encounters this past, moreover, as something inaccessible, concentrated in the background of the image that Schlegel nevertheless proceeds to excavate.
 
@@ -160,77 +157,43 @@ If the past in “Drei Fragen hinter der Tür” seems to be obscured, it is for
 
 The task of coming to terms with the past is evoked from a different perspective in “Freundschaft” (Friendship) ([fig. 10](#fig-5-10)). The work consists of a three-page foldout featuring a wide-angle photograph of a group of people, possibly officials of some kind, that is cut off at the legs and the feet. The empty ground at the photograph’s center features a nearly illegible text—the text of the poem “Freundschaft”—which appears as though it has been etched into the dark background and then scratched out or otherwise defaced. A clean copy of the poem is reproduced on the following page:
 
-FREUNDSCHAFT
-
-Freundschaft ist sentimental
-
-Unwissenschaftlich, dumm, dunkel
-
-Nicht erkennbar wie alle Gefühle:
-
-Sagen Wissenschaftler, Leute, Schriftsteller
-
-Dichter? Sie verstellen die Schrift
-
-Und benutzen die Schreibmaschine.
-
-Ihre Aufgabe: die Macht zu analysieren
-
-Haben viele aufgegeben.
-
-Freunde:
-
-Außer den Toten: die
-
-Den Befehl verweigerten
-
-Die den Ängstlichen
-
-Die Angst nicht vorwarfen.
-
-Die jeden grüßten ohne Ausnahme
-
-Die nicht sicher waren
-
-Ob sie einen Fehler machten.
-
-Aber sie taten etwas.
-
-FRIENDSHIP
-
-Friendship is sentimental
-
-Unscientific, dumb, dark
-
-Not recognizable like all feelings: 
-
-Say scientists, people, authors
-
-Poets? They distort the script
-
-And use the typewriter.
-
-Their task: to analyze power 
-
-Many have given up.
-
-Friends:
-
-Except for the dead: who
-
-Refused the command
-
-Who did not reproach the anxious ones
-
-For their fear
-
-Who greeted everyone without exception.
-
-Who were not sure
-
-If they were making a mistake
-
-But they did something.
+> FREUNDSCHAFT
+> Freundschaft ist sentimental
+> Unwissenschaftlich, dumm, dunkel
+> Nicht erkennbar wie alle Gefühle:
+> Sagen Wissenschaftler, Leute, Schriftsteller
+> Dichter? Sie verstellen die Schrift
+> Und benutzen die Schreibmaschine.
+> Ihre Aufgabe: die Macht zu analysieren
+> Haben viele aufgegeben.
+> Freunde:
+> Außer den Toten: die
+> Den Befehl verweigerten
+> Die den Ängstlichen
+> Die Angst nicht vorwarfen.
+> Die jeden grüßten ohne Ausnahme
+> Die nicht sicher waren
+> Ob sie einen Fehler machten.
+> Aber sie taten etwas. {lang="de"}
+> 
+> FRIENDSHIP
+> Friendship is sentimental
+> Unscientific, dumb, dark
+> Not recognizable like all feelings: 
+> Say scientists, people, authors
+> Poets? They distort the script
+> And use the typewriter.
+> Their task: to analyze power 
+> Many have given up.
+> Friends:
+> Except for the dead: who
+> Refused the command
+> Who did not reproach the anxious ones
+> For their fear
+> Who greeted everyone without exception.
+> Who were not sure
+> If they were making a mistake
+> But they did something.
 
 {% figure 'fig-5-10' %}
 
@@ -244,17 +207,13 @@ Yet the use of poetry and photography to communicate between the lines empowered
 
 Especially striking in this body of work is the recourse of multiple women artists to the genre of photo-poetry, whether to transmit concerns about the fragility of nature (Wenzel), explore transnational aesthetic allegiances (in works by Jahn), or enact intergenerational solidarities with marginalized women authors (in Schlegel). If for Artaud the new poetry had the power to “leap out of the books to overthrow reality,” the examples discussed above show how this work generated a uniquely intermedial language, giving rise to artistic networks and influences across generations and international borders. It is thanks to exchanges and collaborations such as these that the last generation of East German artists could develop their voices that broke through not only aesthetic and geographic barriers but also through social and political taboos.
 
-***
+{% for person in contributor %}
+{{ person.bio | markdownify }} {.grj-contributor-bio}
+{% endfor %}
 
-{% contributors context=pageContributors format='bio' %}
+## Notes {.notes-heading}
 
-{% backmatter %}
-
-## Notes
-
-The authors thank Skyler Arndt-Briggs, Barton Byg, and other faculty at the National Endowment for the Humanities Summer Institute program “Culture in the Cold War: East German Art, Music and Film at the University of Massachusetts, Amherst in June–July 2018; the Deutsche Film-Aktiengesellschaft Film Library at the University of Massachusetts, Amherst; and Carl Gelderloos (Binghamton University \[SUNY\]) for their invaluable contributions to the project. Unless otherwise noted, all translations from the German, including correspondence with artists, are by the authors. The translation of Wolfgang Henne’s poem “Landschaft” is by Daria Bona. All English translations of Inge Müller’s poetry were completed as part of the “EXCEL Scholars Program,” a faculty-student research collaboration between the coauthor of this article, Anna Horakova, and Julia McSpirit Beckett (BA History and German, 2021) at Lafayette College. Credit for permission to include Müller full poems in essay TK.
-
-{% endbackmatter %}
+The authors thank Skyler Arndt-Briggs, Barton Byg, and other faculty at the National Endowment for the Humanities Summer Institute program “Culture in the Cold War: East German Art, Music and Film at the University of Massachusetts, Amherst in June–July 2018; the Deutsche Film-Aktiengesellschaft Film Library at the University of Massachusetts, Amherst; and Carl Gelderloos (Binghamton University \[SUNY\]) for their invaluable contributions to the project. Unless otherwise noted, all translations from the German, including correspondence with artists, are by the authors. The translation of Wolfgang Henne’s poem “Landschaft” is by Daria Bona. All English translations of Inge Müller’s poetry were completed as part of the “EXCEL Scholars Program,” a faculty-student research collaboration between the coauthor of this article, Anna Horakova, and Julia McSpirit Beckett (BA History and German, 2021) at Lafayette College. Credit for permission to include Müller full poems in essay TK. {.backmatter}
 
 [^1]: Berlin-based dealer Jürgen Holstein assembled the archival materials and special editions on the “GDR art experiment” (“Kunstexperiment DDR,” as he put it) (see Jürgen Holstein et al., eds., *Bücher, Kunst und Kataloge: Dokumentation zum 40 jährigen Bestehen de Antiquariats Jürgen Holstein* (Berlin: Jürgen Holstein Antiquariat, 2007), 136–37.) The collections acquired by the Getty consist of the “DDR Collections, 1928–1993 (bulk 1950–1993),” Los Angeles, Getty Research Institute (GRI), 940002 (http://primo.getty.edu/GRI:GETTY_ALMA21123809170001551) and the collection of artists’ books and magazines assembled originally by Jens Henkel.
 
