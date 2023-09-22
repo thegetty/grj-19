@@ -1,7 +1,7 @@
 ---
 title: "Northern Africa or Central Iran? An Investigation in Production Place of a Fragmentary Kufic Qurʼan at the J. Paul Getty Museum"
 short_title: 
-layout: "essay"
+layout: article
 order: 10
 contributor:
   - first_name: "Mahdi"

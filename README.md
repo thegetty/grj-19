@@ -80,6 +80,9 @@ Replaced default `fullscreen-icon` with a 600 weight version to match caption st
 Added series number and year to menu header for journal publication, uses added `series_issue_number` attribute in publication.yaml
 Added download links to header area
 
+**_layouts/article.liquid**
+New layout template based on `essay.liquid`, added PDF / Abstract / Cite tools below header
+
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
 

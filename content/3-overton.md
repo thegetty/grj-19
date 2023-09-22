@@ -1,7 +1,7 @@
 ---
 title: "Jane Dieulafoy in Varamin: The Emamzadeh Yahya through a Nineteenth-Century Lens"
 short_title: 
-layout: "essay"
+layout: article
 order: 20
 contributor:
   - first_name: "Keelan"

@@ -78,7 +78,6 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 .quire-page__header .hero-body {
   border-top: 1px solid var(--accent-color);
-  border-bottom: 1px solid var(--accent-color);
   margin-left: var(--large-indent);
   margin-right: 0;
   padding: 0;
@@ -86,6 +85,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 @media print {
   .quire-page__header .hero-body {
+    border-bottom: 1px solid var(--accent-color);
     min-height: 2.25in;
   }
 }
@@ -108,18 +108,73 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   color: #444;
   font-weight: 300;
 }
-.quire-page__content .container .content > h2:first-child {
+.quire-page__content .container .content > .article-tools + h2 {
   margin-left: var(--large-indent);
 }
-.quire-page__content .container .content > h2:first-child + p,
-.quire-page__content .container .content > p:first-child {
+.quire-page__content .container .content > .article-tools + h2 + p,
+.quire-page__content .container .content > .article-tools + p {
   text-indent: var(--large-indent);
 }
+@media print {
+  .quire-page__content .container .content > h2:first-child {
+    margin-left: var(--large-indent);
+  }
+  .quire-page__content .container .content > h2:first-child + p,
+  .quire-page__content .container .content > p:first-child {
+    text-indent: var(--large-indent);
+  }
+}
 
-/* PAGE ABSTRACT
+/* PDF / ABSTRACT / CITE
 ============================================================================= */
-.quire-page__abstract {
+#section-abstract,
+#section-cite,
+#section-download {
+  margin-bottom: 0;
+  margin-left: var(--large-indent);
+  margin-top: .75rem;
+  border-bottom: 1px solid var(--accent-color);
+  font-family: var(--quire-nav-font);
+  font-size: var(--quire-nav-font-size);
+  font-weight: 400;
+  line-height: var(--quire-nav-font-line-height);
+  text-align: left;
+}
+#section-cite {
+  margin-bottom: 1rem;
+}
+#section-download a {
+  border-bottom-width: 0;
+  font-weight: 600;
+  color: var(--accent-color) !important;
+}
+#section-download a:hover {
+  border-bottom-width: 0 !important;
+}
+#section-download svg {
+  width: 1rem;
+  height: 1rem;
+  fill: var(--accent-color);
+  margin-left: .25rem;
+}
+#section-abstract .accordion-section__copy-link-button,
+#section-cite .accordion-section__copy-link-button {
   display: none;
+}
+#section-abstract summary p,
+#section-cite summary p,
+#section-download p {
+  color: var(--accent-color);
+}
+#section-abstract p,
+#section-cite p,
+#section-download p {
+  margin-bottom: .75rem;
+  text-indent: 0;
+}
+#section-abstract .accordion-section__controls--arrow::after,
+#section-cite .accordion-section__controls--arrow::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23800000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
 }
 
 /* PAGE CONTENT & HEADINGS
@@ -130,7 +185,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-feature-settings: "onum";
 }
 strong {
-  color: black;
+  color: inherit;
   font-weight: 600;
 }
 .quire-page__content .container .content {
