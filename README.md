@@ -89,6 +89,9 @@ Changed `allowedAttributes` on elements to allow any attribute
 **_plugins/shortcodes/contributors.js**
 Refactored logic to handle oxford commas correctly
 
+**_plugins/shortcodes/figureGroup.js**
+Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
+
 ## License
 
 TK
