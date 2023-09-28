@@ -1,6 +1,7 @@
 ---
-title: "Baghdad Kept on Working: Painting and Propaganda during the British Occupation of Iraq, 1941–45"
-short_title: 
+title: "Baghdad Kept on Working"
+subtitle: "Painting and Propaganda during the British Occupation of Iraq, 1941–45"
+short_title: "Baghdad Kept on Working"
 layout: article
 order: 25
 contributor: 

@@ -1,6 +1,7 @@
 ---
-title: "Jane Dieulafoy in Varamin: The Emamzadeh Yahya through a Nineteenth-Century Lens"
-short_title: 
+title: "Jane Dieulafoy in Varamin"
+subtitle: "The Emamzadeh Yahya through a Nineteenth-Century Lens"
+short_title: "Jane Dieulafoy in Varamin"
 layout: article
 order: 20
 contributor:

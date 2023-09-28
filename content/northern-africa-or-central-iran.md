@@ -1,6 +1,7 @@
 ---
-title: "Northern Africa or Central Iran? An Investigation in Production Place of a Fragmentary Kufic Qurʼan at the J. Paul Getty Museum"
-short_title: 
+title: "Northern Africa or Central Iran?"
+subtitle: "An Investigation in Production Place of a Fragmentary Kufic Qurʼan at the J. Paul Getty Museum"
+short_title: "Northern Africa or Central Iran?" 
 layout: article
 order: 10
 contributor:

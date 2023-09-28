@@ -1,6 +1,6 @@
 ---
 title: "Cuttings from an Illustrated Twelfth-Century French Manuscript Bible in Los Angeles and Berlin"
-short_title: 
+short_title: "Cuttings from an Illustrated Bible"
 layout: article
 order: 15
 contributor: 
