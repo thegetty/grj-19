@@ -570,6 +570,20 @@ strong {
   border-left-width: 0;
 }
 
+/* NAVBAR
+============================================================================= */
+/* Fix display of nav labels */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 860px) {
+  span.nav-label {
+    display: none !important;
+  }
+}
+
 /* MASTHEAD, COPYRIGHT, and ABOUT PAGES
 ============================================================================= */
 @media print {
