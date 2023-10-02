@@ -83,6 +83,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   padding: 0;
   padding-bottom: var(--large-indent);
 }
+.quire-page.quire-contents .quire-page__header .hero-body {
+  border-bottom: 1px solid var(--accent-color);
+}
 @media print {
   .quire-page__header .hero-body {
     border-bottom: 1px solid var(--accent-color);
@@ -108,11 +111,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   color: #444;
   font-weight: 300;
 }
-.quire-page__content .container .content > .article-tools + h2 {
+.quire-page__content .container .content > h2:first-child {
   margin-left: var(--large-indent);
 }
-.quire-page__content .container .content > .article-tools + h2 + p,
-.quire-page__content .container .content > .article-tools + p {
+.quire-page__content .container .content > h2:first-child + p,
+.quire-page__content .container .content > p:first-child {
   text-indent: var(--large-indent);
 }
 @media print {
@@ -127,6 +130,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 
 /* PDF / ABSTRACT / CITE
 ============================================================================= */
+.quire-page__content.page-tools .container .content {
+  padding-bottom: 0;
+}
 #section-abstract,
 #section-cite,
 #section-download {
@@ -143,10 +149,19 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 #section-cite {
   margin-bottom: 1rem;
 }
+#section-download {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
 #section-download a {
   border-bottom-width: 0;
   font-weight: 600;
   color: var(--accent-color) !important;
+  margin-bottom: .75rem;
+}
+#section-download a.doi-link {
+  font-weight: 300;
 }
 #section-download a:hover {
   border-bottom-width: 0 !important;
@@ -175,6 +190,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 #section-abstract .accordion-section__controls--arrow::after,
 #section-cite .accordion-section__controls--arrow::after {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23800000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  margin-top: -4px;
 }
 
 /* PAGE CONTENT & HEADINGS
@@ -189,9 +205,8 @@ strong {
   font-weight: 600;
 }
 .quire-page__content .container .content {
-  margin-top: 0;
   padding-top: 0;
-  margin-top: 1rem;
+  margin-top: .5rem;
 }
 .quire-page__content .container .content p {
   line-height: 1.57;
@@ -337,7 +352,7 @@ strong {
     margin-right: 2rem;
     width: calc((100% - 2rem) / 2);
   }
-  .q-figure.q-figure--group. quire-grid--2 .q-figure:nth-child(2n+2) {
+  .q-figure.q-figure--group.quire-grid--2 .q-figure:nth-child(2n+2) {
     margin-right: 0;
   }
   .q-figure.q-figure--group.quire-grid--3 .q-figure {
@@ -345,7 +360,7 @@ strong {
     margin-right: 2rem;
     width: calc((100% - 2rem) / 3);
   }
-  .q-figure.q-figure--group. quire-grid--3 .q-figure:nth-child(3n+3) {
+  .q-figure.q-figure--group.quire-grid--3 .q-figure:nth-child(3n+3) {
     margin-right: 0;
   }
 }
@@ -674,6 +689,11 @@ strong {
 }
 .quire-page__content .content a.quire-copyright__icon__link:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   border-bottom-width: 0 !important;
+}
+
+
+.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
+  color: inherit !important;
 }
 
 /* FOR GRJ 19

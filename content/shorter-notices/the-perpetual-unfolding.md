@@ -2,7 +2,7 @@
 title: "The Perpetual Unfolding of Photographic History"
 subtitle: "A Previously Unknown Panorama of Salvador, Bahia, by Rodolpho Lindemann"
 short_title: "The Perpetual Unfolding"
-layout: article
+layout: essay
 order: 40
 contributor: 
   - first_name: Julieta  

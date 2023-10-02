@@ -2,7 +2,7 @@
 title: "Baghdad Kept on Working"
 subtitle: "Painting and Propaganda during the British Occupation of Iraq, 1941–45"
 short_title: "Baghdad Kept on Working"
-layout: article
+layout: essay
 order: 25
 contributor: 
   - first_name: Anneka  

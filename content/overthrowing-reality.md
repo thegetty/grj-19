@@ -2,7 +2,7 @@
 title: "Overthrowing Reality"
 subtitle: "Photo-Poems in 1980s German Democratic Republic Samizdat"
 short_title: "Overthrowing Reality"
-layout: article
+layout: essay
 order: 30
 contributor: 
   - first_name: Anna   

@@ -1,7 +1,7 @@
 ---
 title: "Cuttings from an Illustrated Twelfth-Century French Manuscript Bible in Los Angeles and Berlin"
 short_title: "Cuttings from an Illustrated Bible"
-layout: article
+layout: essay
 order: 15
 contributor: 
   - first_name: "Beatrice"  

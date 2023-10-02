@@ -83,8 +83,10 @@ Added download links to header area
 **_includes/components/navigation.js**
 Wrapped nav labels in missing span to enable hiding on mobile
 
-**_layouts/article.liquid**
-New layout template based on `essay.liquid`, added PDF / Abstract / Cite tools below header
+**_includes/page-tools.liquid**
+**_layouts/essay.liquid**
+**_layouts/page.liquid**
+Added page-tools include to display PDF download, DOI, abstract, and Cite
 
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute

@@ -2,7 +2,7 @@
 title: "Northern Africa or Central Iran?"
 subtitle: "An Investigation in Production Place of a Fragmentary Kufic Qurʼan at the J. Paul Getty Museum"
 short_title: "Northern Africa or Central Iran?" 
-layout: article
+layout: essay
 order: 10
 contributor:
   - first_name: "Mahdi"
@@ -10,6 +10,8 @@ contributor:
     bio: "**Mahdi Sahragard** is an assistant professor in the Department of Architecture at Islamic Azad University, Mashhad Branch, Mashhad, Iran."
 copyright: "Getty Research Journal, no. 19 (2024) © 2024 Mahdi Sahragard"
 abstract: "One of the ambiguities in the history of Islamic calligraphy is the determination of the regions where each script prevailed in the first three Hijri centuries. This ambiguity is due to the dispersion of book leaves and the lack of reliable colophons in early copies. The J. Paul Getty Museum preserves a few leaves of a Qurʼan that is one of the significant examples of Early Abbasid style. This Qurʼan was discovered in Kairouan, Tunisia, so historians have attributed its origin to that place. Yet, evidence proves it was produced in Central Iran. This evidence includes the eastern-system diacritic and the Abjad script used in the sign for the numeral ten *āyah*s; moreover, its script resembles the monumental script of some of the signed New style Qurʼans copied in Isfahan and Rayy. Because the Getty Qurʼan is copied in D.I script (the subgroup described by codicologist and paleographer François Déroche), the D.I script can be attributed to Central Iran."
+doi: https://doi.org/10.59491/OHBM8575
+pdf_download: true
 ---
 
 ## Introduction

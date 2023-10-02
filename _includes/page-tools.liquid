@@ -1,0 +1,21 @@
+<section class="quire-page__content page-tools" aria-label="Article download, abstract, and citation" data-outputs-exclude="epub,pdf">
+  <div class="container">
+    <div class="content">
+      <div id='#section-download'>
+        {% if doi %}<a href="{{ doi }}" class="doi-link">{{ doi }}</a>{% endif %}
+        {% if pdf_download %}<a href="#">PDF {% icon type="download", description="Download the PDF" %}</a>{% endif %}
+      </div>
+      {% if abstract %}
+      {% accordion 'Abstract' %}
+      {{ abstract | markdownify }}
+      {% endaccordion %}
+      {% endif %}
+      {% accordion 'Cite' %}
+      **Chicago**
+      {% citation context='page', page=pageData type='chicago' %}
+      **MLA**
+      {% citation context='page', page=pageData type='mla' %}
+      {% endaccordion %}
+    </div>
+  </div>
+</section>
