@@ -26,8 +26,8 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 
 /* Temporary "UNCORRECTED PROOF" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -38,13 +38,13 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PROOF";
     bottom: -130px;
     right: -130px;
@@ -83,6 +83,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   padding: 0;
   padding-bottom: var(--large-indent);
 }
+.quire-page.quire-contents .quire-page__header .hero-body {
+  border-bottom: 1px solid var(--accent-color);
+}
 @media print {
   .quire-page__header .hero-body {
     border-bottom: 1px solid var(--accent-color);
@@ -108,11 +111,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   color: #444;
   font-weight: 300;
 }
-.quire-page__content .container .content > .article-tools + h2 {
+.quire-page__content .container .content > h2:first-child {
   margin-left: var(--large-indent);
 }
-.quire-page__content .container .content > .article-tools + h2 + p,
-.quire-page__content .container .content > .article-tools + p {
+.quire-page__content .container .content > h2:first-child + p,
+.quire-page__content .container .content > p:first-child {
   text-indent: var(--large-indent);
 }
 @media print {
@@ -127,6 +130,9 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 
 /* PDF / ABSTRACT / CITE
 ============================================================================= */
+.quire-page__content.page-tools .container .content {
+  padding-bottom: 0;
+}
 #section-abstract,
 #section-cite,
 #section-download {
@@ -143,10 +149,19 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 #section-cite {
   margin-bottom: 1rem;
 }
+#section-download {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
 #section-download a {
   border-bottom-width: 0;
   font-weight: 600;
   color: var(--accent-color) !important;
+  margin-bottom: .75rem;
+}
+#section-download a.doi-link {
+  font-weight: 300;
 }
 #section-download a:hover {
   border-bottom-width: 0 !important;
@@ -175,6 +190,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 #section-abstract .accordion-section__controls--arrow::after,
 #section-cite .accordion-section__controls--arrow::after {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23800000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  margin-top: -4px;
 }
 
 /* PAGE CONTENT & HEADINGS
@@ -189,9 +205,8 @@ strong {
   font-weight: 600;
 }
 .quire-page__content .container .content {
-  margin-top: 0;
   padding-top: 0;
-  margin-top: 1rem;
+  margin-top: .5rem;
 }
 .quire-page__content .container .content p {
   line-height: 1.57;
@@ -307,6 +322,49 @@ strong {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
+/* GROUP FIGURES
+============================================================================= */
+.q-figure.q-figure--group {
+  display: grid;
+  gap: 0 2rem;
+}
+.q-figure.q-figure--group .q-figure {
+  margin: 0;
+}
+.q-figure.q-figure--group .q-figure__caption {
+  grid-column: 1/-1;
+}
+.q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption {
+  margin-top: 0;
+}
+.q-figure.q-figure--group.has-shared-caption .q-figure .q-figure__caption .q-figure__label-text {
+  text-transform: none;
+}
+.q-figure.q-figure--group.quire-grid--2 {
+  grid-template-columns: 1fr 1fr;
+}
+.q-figure.q-figure--group.quire-grid--3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media print {
+  .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    display: inline-block;
+    margin-right: 2rem;
+    width: calc((100% - 2rem) / 2);
+  }
+  .q-figure.q-figure--group.quire-grid--2 .q-figure:nth-child(2n+2) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure {
+    display: inline-block;
+    margin-right: 2rem;
+    width: calc((100% - 2rem) / 3);
+  }
+  .q-figure.q-figure--group.quire-grid--3 .q-figure:nth-child(3n+3) {
+    margin-right: 0;
+  }
+}
+
 /* FIGURE CAPTIONS
 ============================================================================= */
 .content figure .q-figure__caption {
@@ -318,9 +376,10 @@ strong {
 .content figure .q-figure__caption strong {
   font-weight: 600;
 }
-.q-figure__label--below .q-figure__modal-link {
-  text-transform: uppercase;
+.q-figure__label-text {
+  font-weight: 600;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .q-figure__label .q-figure__label-icon svg {
   width: 1rem;
@@ -519,6 +578,26 @@ strong {
 .quire-menu__formats {
   display: none;
 }
+.quire-menu .page-item .page-item a.active, 
+.quire-menu .section-item .page-item a.active {
+  margin-left: 0;
+  padding-left: 0;
+  border-left-width: 0;
+}
+
+/* NAVBAR
+============================================================================= */
+/* Fix display of nav labels */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 860px) {
+  span.nav-label {
+    display: none !important;
+  }
+}
 
 /* MASTHEAD, COPYRIGHT, and ABOUT PAGES
 ============================================================================= */
@@ -610,6 +689,11 @@ strong {
 }
 .quire-page__content .content a.quire-copyright__icon__link:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   border-bottom-width: 0 !important;
+}
+
+
+.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):focus {
+  color: inherit !important;
 }
 
 /* FOR GRJ 19

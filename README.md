@@ -80,14 +80,22 @@ Replaced default `fullscreen-icon` with a 600 weight version to match caption st
 Added series number and year to menu header for journal publication, uses added `series_issue_number` attribute in publication.yaml
 Added download links to header area
 
-**_layouts/article.liquid**
-New layout template based on `essay.liquid`, added PDF / Abstract / Cite tools below header
+**_includes/components/navigation.js**
+Wrapped nav labels in missing span to enable hiding on mobile
+
+**_includes/page-tools.liquid**
+**_layouts/essay.liquid**
+**_layouts/page.liquid**
+Added page-tools include to display PDF download, DOI, abstract, and Cite
 
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
 
 **_plugins/shortcodes/contributors.js**
 Refactored logic to handle oxford commas correctly
+
+**_plugins/shortcodes/figureGroup.js**
+Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
 
 ## License
 
