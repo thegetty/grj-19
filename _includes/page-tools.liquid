@@ -2,7 +2,6 @@
   <div class="container">
     <div class="content">
       <div id='#section-download'>
-        {% if doi %}<a href="{{ doi }}" class="doi-link">{{ doi }}</a>{% endif %}
         {% if pdf_download %}<a href="#">PDF {% icon type="download", description="Download the PDF" %}</a>{% endif %}
       </div>
       {% if abstract %}
@@ -11,6 +10,10 @@
       {% endaccordion %}
       {% endif %}
       {% accordion 'Cite' %}
+      {% if doi %}
+      **Article DOI**
+      <a href="{{ doi }}" class="doi-link">{{ doi }}</a>
+      {% endif %}
       **Chicago**
       {% citation context='page', page=pageData type='chicago' %}
       **MLA**

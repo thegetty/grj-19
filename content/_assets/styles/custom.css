@@ -151,17 +151,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 #section-download {
   display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-between;
 }
 #section-download a {
   border-bottom-width: 0;
   font-weight: 600;
   color: var(--accent-color) !important;
   margin-bottom: .75rem;
-}
-#section-download a.doi-link {
-  font-weight: 300;
 }
 #section-download a:hover {
   border-bottom-width: 0 !important;
@@ -177,13 +172,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   display: none;
 }
 #section-abstract summary p,
-#section-cite summary p,
-#section-download p {
+#section-cite summary p {
   color: var(--accent-color);
 }
 #section-abstract p,
-#section-cite p,
-#section-download p {
+#section-cite p{
   margin-bottom: .75rem;
   text-indent: 0;
 }
@@ -371,6 +364,9 @@ strong {
   font-family: var(--quire-nav-font);
   font-size: var(--quire-nav-font-size);
   line-height: var(--quire-nav-font-line-height);
+}
+.q-figure__label {
+  margin-right: .2em;
 }
 .q-figure__label,
 .content figure .q-figure__caption strong {
@@ -698,6 +694,19 @@ strong {
 
 /* FOR GRJ 19
 ============================================================================= */
+/* Adjust size of Arabic text for better optical balance, paper 1 */
+[lang="ar"] {
+  font-size: 1.4em;
+  line-height: 0 !important;
+}
+strong [lang="ar"] {
+  font-size: 1.15em;
+}
+[lang="ar"] p,
+p[lang="ar"] {
+  line-height: 28.2667px !important;
+}
+
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
   background-color: #fafaf5;
