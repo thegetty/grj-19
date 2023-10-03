@@ -691,6 +691,19 @@ strong {
 
 /* FOR GRJ 19
 ============================================================================= */
+/* Adjust size of Arabic text for better optical balance, paper 1 */
+[lang="ar"] {
+  font-size: 1.4em;
+  line-height: 0 !important;
+}
+strong [lang="ar"] {
+  font-size: 1.15em;
+}
+[lang="ar"] p,
+p[lang="ar"] {
+  line-height: 28.2667px !important;
+}
+
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
   background-color: #fafaf5;
