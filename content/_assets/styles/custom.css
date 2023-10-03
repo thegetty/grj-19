@@ -365,6 +365,9 @@ strong {
   font-size: var(--quire-nav-font-size);
   line-height: var(--quire-nav-font-line-height);
 }
+.q-figure__label {
+  margin-right: .2em;
+}
 .q-figure__label,
 .content figure .q-figure__caption strong {
   font-weight: 600;
