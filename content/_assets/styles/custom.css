@@ -151,17 +151,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 #section-download {
   display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-between;
 }
 #section-download a {
   border-bottom-width: 0;
   font-weight: 600;
   color: var(--accent-color) !important;
   margin-bottom: .75rem;
-}
-#section-download a.doi-link {
-  font-weight: 300;
 }
 #section-download a:hover {
   border-bottom-width: 0 !important;
@@ -177,13 +172,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   display: none;
 }
 #section-abstract summary p,
-#section-cite summary p,
-#section-download p {
+#section-cite summary p {
   color: var(--accent-color);
 }
 #section-abstract p,
-#section-cite p,
-#section-download p {
+#section-cite p{
   margin-bottom: .75rem;
   text-indent: 0;
 }
