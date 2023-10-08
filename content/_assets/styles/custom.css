@@ -365,14 +365,16 @@ strong {
   font-size: var(--quire-nav-font-size);
   line-height: var(--quire-nav-font-line-height);
 }
-.q-figure__label {
+.q-figure__label,
+.q-lightbox-slides__caption-label {
   margin-right: .2em;
 }
 .q-figure__label,
 .content figure .q-figure__caption strong {
   font-weight: 600;
 }
-.q-figure__label-text {
+.q-figure__label-text,
+.q-lightbox-slides__caption-label {
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -381,6 +383,13 @@ strong {
   width: 1rem;
   margin-bottom: 3px;
   margin-right: 2px;
+}
+.q-lightbox-slides__caption a {
+  color: currentColor;
+  border-bottom: 1px dotted currentColor;
+}
+.q-lightbox-slides__caption a:hover {
+  border-bottom: 1px solid currentColor;
 }
 
 /* CONTRIBUTOR BIOS
