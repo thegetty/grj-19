@@ -706,6 +706,18 @@ strong [lang="ar"] {
 p[lang="ar"] {
   line-height: 28.2667px !important;
 }
+/*  For footnote 34 */
+.quire-page__content .container .content .footnotes p[lang="ar"] {
+  line-height: 21.4167px !important;
+  text-align: right;
+  text-indent: 0;
+  margin-right: var(--standard-indent);
+}
+.quire-page__content .container .content .footnotes p[lang="ar"] + a {
+  margin-top: -18px;
+  text-align: justify;
+  float: right;
+}
 
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {

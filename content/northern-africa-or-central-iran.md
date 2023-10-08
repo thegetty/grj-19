@@ -243,6 +243,6 @@ Efforts to recognize the place of production of the Qurʼan manuscripts in Early
 
 [^34]: Ramezanali Shakeri, *Ganj-i Hizār Sāli* (The thousand-year treasure) (Mashhad: Astan Quds Razavi, 1988), 65. The colophon is as follows:
 
-    ["فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه."]{lang="ar" dir="rtl"}
+    <p lang="ar" dir="rtl">"فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه." </p>
 
 [^35]: For more information on this style, see Sahragard, *Saṭr-i Mastūr*, 134–38.
