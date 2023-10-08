@@ -538,9 +538,16 @@ strong {
   display: inline;
   background-color: transparent;
 }
-.quire-menu__header__formats li a:hover {
-  border-bottom: 1px solid var(--accent-color-highlight) !important;
-  /* border-bottom-color: var(--accent-color-highlight) !important; */
+.quire__secondary .quire-menu a:hover {
+  color: var(--accent-color-highlight) !important;
+}
+.quire__secondary .quire-menu__header__formats li a:hover {
+  color: #fff !important;
+}
+.quire__secondary .quire-menu a:hover svg,
+.quire__secondary .quire-menu a:hover svg use {
+  fill: var(--accent-color-highlight) !important;
+  color: var(--accent-color-highlight) !important;
 }
 .quire-menu,
 .quire-menu .page-item a, 
@@ -553,9 +560,17 @@ strong {
   margin: 0;
 }
 .quire-menu .page-item a.active, 
-.quire-menu .section-item a.active {
+.quire-menu .section-item a.active,
+.quire-menu .page-item a.active *,
+.quire-menu .section-item a.active * {
   color: #fff !important;
   font-weight: 600;
+}
+.quire-menu__header a:hover, 
+.quire-menu__list a:hover,
+.quire-menu__list a:hover * {
+  text-decoration: none;
+  color: var(--accent-color-highlight) !important;
 }
 .quire-menu .quire-menu__list.menu-list {
   margin-bottom: 4rem;

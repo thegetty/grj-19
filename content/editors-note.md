@@ -2,9 +2,9 @@
 title: "Editor's Note"
 layout: "essay"
 order: 8
-contributors:
+contributor:
   - first_name: Doris
-  - last_name: Chon
+    last_name: Chon
 doi: https://doi.org/TK
 ---
 
