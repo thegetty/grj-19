@@ -10,7 +10,7 @@ contributor:
   - first_name: "Peter"  
     last_name: "Kidd"
     bio: "**Peter Kidd** has been a freelance researcher and cataloger of medieval manuscripts since 2006; before that he worked at the Bodleian Library, Oxford, and the British Library, London."
-copyright: "Getty Research Journal, no. 19 (2024) © 2024 Beatrice Alai and Peter Kidd"
+copyright: "© 2024 Beatrice Alai and Peter Kidd"
 abstract: "A historiated initial depicting the Old Testament prophet Micah, cut probably in the nineteenth century from a twelfth-century illuminated manuscript and acquired by the J. Paul Getty Museum in 1989, is here placed in its temporal, geographical, and religious context through an examination of its decoration, script, and text, in combination with the evidence provided by fifty further cuttings from the same manuscript in Berlin—most of them unpublished—and one in a private collection. From this study it emerges that the cuttings come from a Bible written in the third quarter of the twelfth century in southeastern France for a Carthusian monastery in the orbit of the Grande Chartreuse."
 doi: https://doi.org/TK
 pdf_download: true

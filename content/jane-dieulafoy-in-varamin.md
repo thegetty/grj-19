@@ -8,7 +8,7 @@ contributor:
   - first_name: "Keelan"
     last_name: "Overton"
     bio: "**Keelan Overton** is an independent scholar based in Santa Barbara, California."
-copyright: "Getty Research Journal, no. 19 (2024) © 2024 Keelan Overton"
+copyright: "© 2024 Keelan Overton"
 abstract: "This article explores the condition and reception of Varamin’s architectural heritage from the Ilkhanid period (1256–1353) during the late nineteenth century. I use two relatively untapped sources: the photographs of French traveler Jane Dieulafoy (1851–1916) and the account of Qajar statesman E‘temad al-Saltaneh (1843–96). Reading these sources in tandem paints a robust picture of Varamin when it was becoming known for luster tilework and its Emamzadeh Yahya tomb complex was being steadily plundered. While our travelers captured a seminal moment in Varamin’s history, this study ultimately moves beyond their frames and encourages a present-day appreciation of the city’s still standing monuments."
 doi: https://doi.org/TK
 pdf_download: true
