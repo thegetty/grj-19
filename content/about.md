@@ -6,6 +6,7 @@ classes:
 order: 503
 outputs:
   - html
+doi: https://doi.org/TK
 ---
 
 {{ publication.description.full }}
@@ -19,7 +20,6 @@ outputs:
 **Getty Research Journal Editorial Board**
 {{ publication.series_editorial_board | markdownify }}
 
-
 </div>
 
 {% backmatter %}
@@ -30,7 +30,11 @@ outputs:
 
 <div class="citation-info">
 
-## Citation Information
+## Journal Citation Information
+
+### Issue DOI
+
+https://doi.org/TK
 
 ### Chicago
 
@@ -39,10 +43,6 @@ outputs:
 ### MLA
 
 {% citation context='publication', type='mla' %}
-
-### Permanent URL
-
-{{ publication.url }}
 
 </div>
 <div class="other-formats">

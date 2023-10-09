@@ -65,6 +65,14 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-right: var(--standard-indent) !important;
 }
 
+/* COVER
+============================================================================= */
+/* Fix positioning of arrow */
+.quire-cover__more .hero-more svg {
+  margin-left: 2px;
+  margin-top: 4px;
+}
+
 /* PAGE HEADER
 ============================================================================= */
 .quire-page__header {
@@ -101,6 +109,18 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin: 0;
   margin-top: .75rem;
   text-align: left;
+}
+.quire-page__header__title .section-name {
+  display: block;
+  font-size: var(--quire-nav-font-size);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin-bottom: .5rem;
+  /* border-bottom: 1px solid var(--accent-color); */
+  /* padding-bottom: 1rem; */
+  padding-top: 1rem;
+  margin-top: -.75rem;
 }
 .quire-page__header__contributor {
   margin-top: 1rem;
@@ -365,14 +385,16 @@ strong {
   font-size: var(--quire-nav-font-size);
   line-height: var(--quire-nav-font-line-height);
 }
-.q-figure__label {
+.q-figure__label,
+.q-lightbox-slides__caption-label {
   margin-right: .2em;
 }
 .q-figure__label,
 .content figure .q-figure__caption strong {
   font-weight: 600;
 }
-.q-figure__label-text {
+.q-figure__label-text,
+.q-lightbox-slides__caption-label {
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -381,6 +403,13 @@ strong {
   width: 1rem;
   margin-bottom: 3px;
   margin-right: 2px;
+}
+.q-lightbox-slides__caption a {
+  color: currentColor;
+  border-bottom: 1px dotted currentColor;
+}
+.q-lightbox-slides__caption a:hover {
+  border-bottom: 1px solid currentColor;
 }
 
 /* CONTRIBUTOR BIOS
@@ -529,9 +558,16 @@ strong {
   display: inline;
   background-color: transparent;
 }
-.quire-menu__header__formats li a:hover {
-  border-bottom: 1px solid var(--accent-color-highlight) !important;
-  /* border-bottom-color: var(--accent-color-highlight) !important; */
+.quire__secondary .quire-menu a:hover {
+  color: var(--accent-color-highlight) !important;
+}
+.quire__secondary .quire-menu__header__formats li a:hover {
+  color: #fff !important;
+}
+.quire__secondary .quire-menu a:hover svg,
+.quire__secondary .quire-menu a:hover svg use {
+  fill: var(--accent-color-highlight) !important;
+  color: var(--accent-color-highlight) !important;
 }
 .quire-menu,
 .quire-menu .page-item a, 
@@ -544,9 +580,17 @@ strong {
   margin: 0;
 }
 .quire-menu .page-item a.active, 
-.quire-menu .section-item a.active {
+.quire-menu .section-item a.active,
+.quire-menu .page-item a.active *,
+.quire-menu .section-item a.active * {
   color: #fff !important;
   font-weight: 600;
+}
+.quire-menu__header a:hover, 
+.quire-menu__list a:hover,
+.quire-menu__list a:hover * {
+  text-decoration: none;
+  color: var(--accent-color-highlight) !important;
 }
 .quire-menu .quire-menu__list.menu-list {
   margin-bottom: 4rem;
@@ -705,6 +749,18 @@ strong [lang="ar"] {
 [lang="ar"] p,
 p[lang="ar"] {
   line-height: 28.2667px !important;
+}
+/*  For footnote 34 */
+.quire-page__content .container .content .footnotes p[lang="ar"] {
+  line-height: 21.4167px !important;
+  text-align: right;
+  text-indent: 0;
+  margin-right: var(--standard-indent);
+}
+.quire-page__content .container .content .footnotes p[lang="ar"] + a {
+  margin-top: -18px;
+  text-align: justify;
+  float: right;
 }
 
 /* Appendix in paper 2 */

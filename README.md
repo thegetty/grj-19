@@ -80,8 +80,15 @@ Replaced default `fullscreen-icon` with a 600 weight version to match caption st
 Added series number and year to menu header for journal publication, uses added `series_issue_number` attribute in publication.yaml
 Added download links to header area
 
+**_includes/components/menu/item.js**
+Display subtitles and contributors in sidebar menu
+
 **_includes/components/navigation.js**
 Wrapped nav labels in missing span to enable hiding on mobile
+
+**_includes/components/page-header.js**
+**_layouts/essay.liquid**
+Add section name (based on directory) above article title
 
 **_includes/page-tools.liquid**
 **_layouts/essay.liquid**

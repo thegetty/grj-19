@@ -8,8 +8,10 @@ contributor:
   - first_name: "Keelan"
     last_name: "Overton"
     bio: "**Keelan Overton** is an independent scholar based in Santa Barbara, California."
-copyright: "Getty Research Journal, no. 19 (2024) © 2024 Keelan Overton"
+copyright: "© 2024 Keelan Overton"
 abstract: "This article explores the condition and reception of Varamin’s architectural heritage from the Ilkhanid period (1256–1353) during the late nineteenth century. I use two relatively untapped sources: the photographs of French traveler Jane Dieulafoy (1851–1916) and the account of Qajar statesman E‘temad al-Saltaneh (1843–96). Reading these sources in tandem paints a robust picture of Varamin when it was becoming known for luster tilework and its Emamzadeh Yahya tomb complex was being steadily plundered. While our travelers captured a seminal moment in Varamin’s history, this study ultimately moves beyond their frames and encourages a present-day appreciation of the city’s still standing monuments."
+doi: https://doi.org/TK
+pdf_download: true
 ---
 
 A highlight of the exhibition *Persia: Ancient Iran and the Classical World* held in 2022 at the Getty Villa was two panels of colorful glazed bricks from the palace of Darius I (r. 522–486 BCE) at Susa. Both panels were borrowed from the Musée du Louvre, and the example depicting a royal archer ended up in Paris because of the amateur photographer Jane Dieulafoy (1851–1916).[^1] In 1881–82, Jane and her husband, Marcel, spent a year traveling around Iran, and in 1884, Nasir al-Din Shah Qajar (r. 1848–96) granted them permission to excavate Susa, which unfolded over two seasons in 1885–86.[^2] Wooden crates filled with glazed bricks were soon transported to Paris and entered the Department of Oriental Antiquities, at whose 1888 inauguration Jane received the cross of the Légion d’Honneur.[^3] While Susa bricks flooded the Louvre, another form of Persian architectural revetment steadily entered French collections. Luster tiles dating to the first half of the thirteenth century and the Ilkhanid period (1256–1353) were also sourced from archaeological excavations but more commonly taken off the walls of still-standing buildings. One such site was the Emamzadeh Yahya (1260–1307) at Varamin, a tomb complex that the Dieulafoys visited just two months into their trip.

@@ -8,9 +8,9 @@ contributor:
   - first_name: "Mahdi"
     last_name: "Sahragard"
     bio: "**Mahdi Sahragard** is an assistant professor in the Department of Architecture at Islamic Azad University, Mashhad Branch, Mashhad, Iran."
-copyright: "Getty Research Journal, no. 19 (2024) © 2024 Mahdi Sahragard"
+copyright: "© 2024 Mahdi Sahragard"
 abstract: "One of the ambiguities in the history of Islamic calligraphy is the determination of the regions where each script prevailed in the first three Hijri centuries. This ambiguity is due to the dispersion of book leaves and the lack of reliable colophons in early copies. The J. Paul Getty Museum preserves a few leaves of a Qurʼan that is one of the significant examples of Early Abbasid style. This Qurʼan was discovered in Kairouan, Tunisia, so historians have attributed its origin to that place. Yet, evidence proves it was produced in Central Iran. This evidence includes the eastern-system diacritic and the Abjad script used in the sign for the numeral ten *āyah*s; moreover, its script resembles the monumental script of some of the signed New style Qurʼans copied in Isfahan and Rayy. Because the Getty Qurʼan is copied in D.I script (the subgroup described by codicologist and paleographer François Déroche), the D.I script can be attributed to Central Iran."
-doi: https://doi.org/10.59491/OHBM8575
+doi: https://doi.org/TK
 pdf_download: true
 ---
 
@@ -243,6 +243,6 @@ Efforts to recognize the place of production of the Qurʼan manuscripts in Early
 
 [^34]: Ramezanali Shakeri, *Ganj-i Hizār Sāli* (The thousand-year treasure) (Mashhad: Astan Quds Razavi, 1988), 65. The colophon is as follows:
 
-    ["فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه."]{lang="ar" dir="rtl"}
+    <p lang="ar" dir="rtl">"فرغ من تذهیبه العباس بن محمد بن العباس │ فی صفر من شهور سنه احدی تسعین و ثلثمائه │ کتبه العباس بن محمد بن العباس│ المصاحفی القزوینی بالری │ لخزانة السیده ام امیرالامرا اطال│ الله مدتهما فی سنه تسع و ثمانین و ثلثمائه." </p>
 
 [^35]: For more information on this style, see Sahragard, *Saṭr-i Mastūr*, 134–38.
