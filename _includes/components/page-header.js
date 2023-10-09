@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add section name (based on directory) above article title
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -10,6 +14,7 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
+  const titleCase = require('~plugins/filters/titleCase')
 
   const { labelDivider } = eleventyConfig.globalData.config.pageTitle
   const { imageDir } = eleventyConfig.globalData.config.figures
@@ -17,6 +22,7 @@ module.exports = function(eleventyConfig) {
   return function (params) {
     const {
       byline_format: bylineFormat,
+      filePathStem,
       image,
       label,
       pageContributors,
@@ -52,10 +58,17 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
+    const paths = filePathStem ? filePathStem.match(/[^\/]+/g) : ''
+    const section = paths.length - 2
+    const sectionName = paths.length > 1 ? titleCase(paths[section].replaceAll('-', ' ')) : ''
+
+    const sectionElement = sectionName ? `<span class="section-name" data-outputs-exclude="epub,pdf">${sectionName}</span>` : ''
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
           <h1 class="quire-page__header__title" id="${slugify(title)}">
+            ${sectionElement}
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>

@@ -102,6 +102,18 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-top: .75rem;
   text-align: left;
 }
+.quire-page__header__title .section-name {
+  display: block;
+  font-size: var(--quire-nav-font-size);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin-bottom: .5rem;
+  /* border-bottom: 1px solid var(--accent-color); */
+  /* padding-bottom: 1rem; */
+  padding-top: 1rem;
+  margin-top: -.75rem;
+}
 .quire-page__header__contributor {
   margin-top: 1rem;
   font-family: var(--skolar-sans);

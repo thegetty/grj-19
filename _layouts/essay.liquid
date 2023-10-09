@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Feed filePathStem to page header to allow for section naming
+##
 classes:
   - quire-essay
 layout: base.11ty.js
@@ -7,6 +10,7 @@ description: Essay layout. This layout describes a single-page template that has
 
 {% pageHeader
   byline_format=byline_format,
+  filePathStem=page.filePathStem,
   image=image,
   label=label,
   pageContributors=pageContributors,
