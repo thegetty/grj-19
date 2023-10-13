@@ -687,13 +687,27 @@ strong {
     width: 1.5rem;
   }
 }
+@media screen {
+  .masthead .quire-page__header .hero-body {
+    margin-left: 0;
+    padding-top: var(--large-indent);
+    padding-bottom: .75rem;
+    border-top-width: 0;
+    border-bottom: 1px solid var(--accent-color);
+  }
+  .quire-page.masthead:not(.quire-cover) h1, 
+  .masthead:not(.quire-cover) .quire-page__header__title {
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+}
 .masthead .quire-page__content .container .content p {
   text-indent: 0;
   margin-bottom: 1rem;
   text-align: left;
 }
 .masthead .quire-page__content .container .content > p:first-child {
-  text-indent: var(--large-indent);
   text-align: justify;
 } 
 .masthead .quire-page__content .container .content ul {
