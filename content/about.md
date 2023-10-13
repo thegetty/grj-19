@@ -6,7 +6,6 @@ classes:
 order: 503
 outputs:
   - html
-doi: https://doi.org/TK
 ---
 
 {{ publication.description.full }}
@@ -28,23 +27,6 @@ doi: https://doi.org/TK
 - {{ person | markdownify }}
 {% endfor %}
 
-<div class="citation-info">
-
-## Journal Citation Information
-
-### Issue DOI
-
-https://doi.org/TK
-
-### Chicago
-
-{% citation context='publication', type='chicago' %}
-
-### MLA
-
-{% citation context='publication', type='mla' %}
-
-</div>
 <div class="other-formats">
 
 ## Other Formats
@@ -54,6 +36,13 @@ https://doi.org/TK
 - [{{ link.name }}]({{ link.url }})
 {% endif %}
 {% endfor %}
+
+</div>
+<div class="journal-doi">
+
+## Journal DOI
+
+{{ publication.identifier.doi }}
 
 </div>
 <div class="revision-history">
@@ -106,8 +95,6 @@ GRJ@getty.edu.
 
 **Cover**
 **Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al. *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: Self-published, 1983) Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst. Courtesy of the artist.
-
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>
 <div class="identifiers">
