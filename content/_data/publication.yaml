@@ -33,7 +33,7 @@ pub_type: journal-periodical # book | journal-periodical | other
 series_issue_number: 19
 
 series_editors:
-  - Doris Chon, *Editor*
+  - Doris Chon, *Executive Editor*
   - Lauren Gendler, *Managing Editor*
 
 series_editorial_board: "Scott Allan, LeRonn Brooks, Maristella Casciato, Anne‑Lise Desmas, Tom Learner, Mary E. Miller, Rebecca Peabody, Andrew Perchuk, Richard Rand, David Saunders, Alexa Sekyra, and Naoko Takahatake"
@@ -119,6 +119,10 @@ resource_link:
     link_relation: alternate
     url: https://shop.getty.edu/#
   - type: footer-link
+    name: About
+    link_relation: about
+    url: https://www.getty.edu/research/publications/grj/
+  - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
     url: https://www.getty.edu/legal/privacy.html
@@ -126,6 +130,9 @@ resource_link:
     name: Terms of Use
     link_relation: terms-of-service
     url: https://www.getty.edu/legal/copyright.html
+
+
+
 
 # ------------------------------------------------------------------------------
 # Subjects
