@@ -240,6 +240,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   line-height: var(--quire-nav-font-line-height);
   text-align: left;
 }
+#section-abstract:first-child ,
+#section-cite:first-child {
+  border-top: 1px solid var(--accent-color);
+  padding-top: .6rem;
+}
 #section-cite {
   margin-bottom: 1rem;
 }
