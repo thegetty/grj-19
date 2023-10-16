@@ -95,6 +95,9 @@ Add section name (based on directory) above article title
 **_layouts/page.liquid**
 Added page-tools include to display PDF download, DOI, abstract, and Cite
 
+**_layouts/cover.liquid**
+Add journal issue info and publisher, remove contributor
+
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
 

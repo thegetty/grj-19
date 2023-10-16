@@ -67,10 +67,84 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 
 /* COVER
 ============================================================================= */
+.quire-cover__overlay {
+  background-position-y: top;
+}
+.hero-body .container.is-fluid {
+  right: 0;
+  left: auto;
+  margin-right: 0;
+  padding: .5rem var(--standard-indent);
+  background-color: transparent;
+  text-align: right;
+  top: 0;
+  bottom: auto;
+}
+.hero-body .container.is-fluid .title {
+  color: var(--accent-color);
+  font-size: 3.5rem;
+  font-weight: 300;
+  margin: 0;
+  text-align: right;
+}
+.hero-body .container.is-fluid .issue-info {
+  font-family: var(--skolar-sans);
+  font-weight: 600;
+  font-feature-settings: "smcp";
+  text-transform: lowercase;
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+.hero-body .container.is-fluid .publisher {
+  font-family: var(--skolar-sans);
+  font-style: italic;
+  font-size: 1.125rem;
+}
+/* Reduce font size to maintain same layout on tablet */
+@media screen and (max-width:660px) {
+  .hero-body .container.is-fluid {
+    padding: .5rem 1.5rem;
+  }
+  .hero-body .container.is-fluid .title {
+    font-size: 2.5rem;
+  }
+  .hero-body .container.is-fluid .issue-info {
+    margin-top: .75rem;
+    font-size: .95rem;
+  }
+  .hero-body .container.is-fluid .publisher {
+    font-size: .8725rem;
+  }
+}
+/* Show type in white box above image on mobile */
+@media screen and (max-width:470px) {
+  .quire-cover__overlay {
+    background-position-y: 240px;
+  }
+  .hero-body .container.is-fluid {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+   }
+  .hero-body .container.is-fluid .title {
+    max-width: 200px;
+  }
+  .hero-body .container.is-fluid {
+    background: white;
+    height: 240px;
+    width: 100%;
+  }
+}
+
 /* Fix positioning of arrow */
 .quire-cover__more .hero-more svg {
   margin-left: 2px;
   margin-top: 4px;
+}
+
+/* Match line height to main body text */
+.quire-cover .quire-page__content .container.is-fluid .content p {
+  line-height: 1.57;
 }
 
 /* PAGE HEADER
