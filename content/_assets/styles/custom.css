@@ -169,9 +169,20 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   border-bottom: 1px solid var(--accent-color);
 }
 @media print {
+  .quire-page__header {
+    padding: 0;
+    margin: 0;
+    width: auto;
+    max-width: auto;
+    margin-bottom: .5rem;
+  }
   .quire-page__header .hero-body {
     border-bottom: 1px solid var(--accent-color);
     min-height: 2.25in;
+  }
+  .quire-page__header__contributor {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 .quire-page h1, .quire-page__header__title {
@@ -314,6 +325,11 @@ strong {
   margin-bottom: 0;
   margin-left: var(--standard-indent);
   text-align: left;
+}
+@media print {
+  .quire-page__content .content h2 {
+    margin-bottom: 0;
+  }
 }
 .quire-page h3 {
   font-size: 1rem;
@@ -542,7 +558,9 @@ strong {
   to achieve indented style */
 .quire-page__content .content .footnotes ol li::marker {
   font-weight: 600;
-  content: "\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0" counter(list-item) '.'; 
+  content: "\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0" counter(list-item) '.';
+  margin-right: 0;
+  padding-right: 0; 
 }
 /* Flows first paragraph of the note to follow the custom marker */
 .quire-page__content .content .footnotes li > p:first-child {
@@ -554,6 +572,13 @@ strong {
 }
 .quire-page__content .container .content .footnotes .footnote-backref {
   font-size: .75rem;
+}
+@media print {
+  .footnotes {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: .1875in;
+  }
 }
 
 /* TOC
@@ -602,6 +627,34 @@ strong {
 .quire-contents-list .contributor {
   display: block;
   font-weight: 400;
+}
+@media print {
+  .quire-contents .quire-page__header .hero-body {
+    margin-left: var(--large-indent);
+  }
+  .quire-contents-list .section-item > a::after,
+  .quire-contents-list .section-item.frontmatter-page > a::after,
+  .quire-contents-list .page-item > a::after,
+  .quire-contents-list .page-item.frontmatter-page > a::after {
+    content: none;
+  }
+  .quire-contents-list .page-item > a::before,
+  .quire-contents-list .page-item.frontmatter-page > a::before {
+    content: target-counter(attr(href, url), page);
+    margin-left: calc( -1 * var(--large-indent));
+    margin-right: 0;
+    width: var(--large-indent);
+    display: inline-block;
+  }
+  .quire-contents-list.list {
+    padding: 0;
+    margin: 0;
+  }
+  .quire-contents .quire-page__content .container {
+    margin: 0;
+    padding-left: var(--large-indent);
+    padding-right: 0;
+  }
 }
 
 /* MENU
@@ -748,12 +801,12 @@ strong {
     margin-bottom: 1rem;
     width: 2.875in;
   }
+  .copyright > * {
+    width: 3in;
+  }
   .masthead_info > p.no-bottom-margin,
   .copyright > p.no-bottom-margin {
     margin-bottom: 0;
-  }
-  .copyright > * {
-    width: 2.5in;
   }
   .copyright a {
     color: inherit;
@@ -830,6 +883,28 @@ strong {
   color: inherit !important;
 }
 
+/* OTHER PRINT/PDF STYLES
+============================================================================= */
+@media print {
+  /* Splash page, for Shorter Notices divider */
+  @page splash {
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page.quire-splash .quire-page__header .hero-body {
+    border-width: 0;
+    margin-top: 2.25in;
+  }
+  .quire-splash .quire-page__header .hero-body .quire-page__header__title {
+    color: var(--accent-color);
+    text-align: center;
+  }
+}
+
 /* FOR GRJ 19
 ============================================================================= */
 /* Adjust size of Arabic text for better optical balance, paper 1 */
@@ -855,6 +930,11 @@ p[lang="ar"] {
   margin-top: -18px;
   text-align: justify;
   float: right;
+}
+@media print {
+  .quire-page__content .container .content .footnotes p[lang=ar] {
+    line-height: 17px !important;
+  }
 }
 
 /* Appendix in paper 2 */
