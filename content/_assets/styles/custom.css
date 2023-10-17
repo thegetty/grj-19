@@ -905,6 +905,74 @@ strong {
   }
 }
 
+/* PDF running feet */ 
+@media screen {
+  .pdf-footers__title,
+  .pdf-footers__issue {
+    display: none;
+  }
+}
+@media print {
+  .pdf-footers__title,
+  .pdf-footers__issue {
+    font-family: var(--skolar-sans);
+    font-size: 7pt;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .pdf-footers__issue {
+    flow: static(issue);
+    text-align: left;
+    margin-left: var(--standard-indent);
+    padding-left: var(--standard-indent);
+  }
+  .pdf-footers__title {
+    flow: static(pagetitle);
+    text-align: right;
+    padding-right: var(--standard-indent);
+  }
+  @page :left {
+    @bottom-left {
+      font-weight: 600 !important;
+      font-size: 8pt;
+      width: var(--large-indent);
+      text-align: right;
+    }
+    @bottom-center {
+      content: flow(issue);
+      margin-right: calc( -1 * var(--large-indent));
+    }
+    @bottom-right {
+      content: none;
+    }
+  }
+  @page :right {
+    @bottom-left {
+      content: none;
+    }
+    @bottom-center {
+      content: flow(pagetitle);
+      margin-left: calc( -1 * var(--large-indent));
+    }
+    @bottom-right {
+      font-weight: 600 !important;
+      font-size: 8pt;
+      width: var(--large-indent);
+      text-align: left;
+    }
+  }
+  @page :first {
+    @bottom-center {
+      content: none;
+    }
+  }
+  @page no-footer {
+    @bottom-center {
+      content: none;
+    }
+  }
+}
+
 /* FOR GRJ 19
 ============================================================================= */
 /* Adjust size of Arabic text for better optical balance, paper 1 */

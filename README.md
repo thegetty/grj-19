@@ -88,7 +88,7 @@ Wrapped nav labels in missing span to enable hiding on mobile
 
 **_includes/components/page-header.js**
 **_layouts/essay.liquid**
-Add section name (based on directory) above article title
+Add section name (based on directory) above article title and add elements for PDF footers
 
 **_includes/page-tools.liquid**
 **_layouts/essay.liquid**
