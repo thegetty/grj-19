@@ -41,7 +41,7 @@ module.exports = function (eleventyConfig, { page }) {
 
     let figureTags = []
     for (let i=0; i < ids.length; i++) {
-      figureTags += await figure(eleventyConfig, { page }).bind(this)(ids[i], classes)
+      figureTags += await figure(eleventyConfig, { page }).bind(this)(ids[i])
     }
 
     const captionElement = caption ? figureCaption({ caption }) : ''

@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Add section name (based on directory) above article title
+// Add elements for PDF footers
 //
 const { html } = require('~lib/common-tags')
 const path = require('path')
@@ -12,12 +13,18 @@ const path = require('path')
  */
 module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
   const titleCase = require('~plugins/filters/titleCase')
 
   const { labelDivider } = eleventyConfig.globalData.config.pageTitle
   const { imageDir } = eleventyConfig.globalData.config.figures
+  const {
+    pub_date: pubDate,
+    series_issue_number: issueNumber,
+    title: pubTitle
+  } = eleventyConfig.globalData.publication
 
   return function (params) {
     const {
@@ -26,6 +33,7 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
+      short_title: shortTitle,
       subtitle,
       title
     } = params
@@ -73,6 +81,8 @@ module.exports = function(eleventyConfig) {
             ${pageTitle({ title, subtitle })}
           </h1>
           ${contributorsElement}
+          <span class="pdf-footers__title">${contributors({ context: pageContributors, format: 'string' })}  / ${markdownify(shortTitle || title)}</span>
+          <span class="pdf-footers__issue">${pubTitle}, No. ${issueNumber} (${pubDate.getFullYear()})</span>
         </div>
       </section>
       ${imageElement}

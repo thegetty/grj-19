@@ -82,19 +82,19 @@ figure_list:
     src: figures/overton-01.jpg
     caption: "**View of Jane Dieulafoy’s photography album “Perse 1,” pp. 34–35, March 2022, showing photographs taken in Khorramdareh and Qazvin in May 1881.** On the right page is the domed tomb of the [Emamzadeh Shahzadeh Hossein](https://www.google.com/maps/place/Shazdeh+Hossein/@36.2572276,49.9983629,17z/data=!4m5!3m4!1s0x3ff35520604a07c1:0x697017425b8b87a2!8m2!3d36.2572363!4d50.0005295) at Qazvin (975–1008 AH/1568–1600). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1). Photograph by the author"
   - id: "fig-3-2-a"
-    label: "a"
+    label: " "
     src: figures/overton-02-a.jpg
     caption: ""  
   - id: "fig-3-2-b"
-    label: "b"
+    label: " "
     src: figures/overton-02-b.jpg
     caption: ""  
   - id: "fig-3-3-a"
-    label: "a"
+    label: " "
     src: figures/overton-03-a.jpg
     caption: ""  
   - id: "fig-3-3-b"
-    label: "b"
+    label: " "
     src: figures/overton-03-b.jpg
     caption: ""  
   - id: "fig-3-4"
@@ -186,11 +186,11 @@ figure_list:
     src: figures/lenssen-11.jpg
     caption: "**Unsigned illustration (likely by Jamil Hamoudi [Iraqi, 1924–2003]) in “Al-Fann al-Islāmī,” *ʿAshtarūt*, no. 3 (1943): 47, captioned: “The Painter Prince, by the famous Persian painter Bihzad.”** Beirut, Nami Jafet Memorial Library, American University of Beirut, Archives and Special Collections, Jamil Hamoudi Collection, 1917–2012, box 36. Image: Ishtar Hamoudi / American University of Beirut / Library Archives."
   - id: "fig-4-12-a"
-    label: "a"
+    label: " "
     src: figures/lenssen-12-a.jpg
     caption: ""
   - id: "fig-4-12-b"
-    label: "b"
+    label: " "
     src: figures/lenssen-12-b.jpg
     caption: ""
   - id: "fig-5-1"
@@ -242,23 +242,23 @@ figure_list:
     src: figures/pestarino-02.jpg
     caption: "**Unknown draftsperson, after Rodolpho Lindemann (German-born, 1852–?).** *São Salvador de Bahia, vue prise du Fort do Mar* (São Salvador de Bahia, view from Fort do Mar) from *Album de vues du Brésil* (Paris: Imprimerie A. Lahure, 1889). Digital image: Biblioteca Digital Luso-Brasileira." 
   - id: "fig-6-3-a"
-    label: "a"
+    label: " "
     src: figures/pestarino-03-a.jpg
     caption: "" 
   - id: "fig-6-3-b"
-    label: "b"
+    label: " "
     src: figures/pestarino-03-b.jpg
     caption: "" 
   - id: "fig-6-3-c"
-    label: "c"
+    label: " "
     src: figures/pestarino-03-c.jpg
     caption: "" 
   - id: "fig-6-4-a"
-    label: "a"
+    label: " "
     src: figures/pestarino-04-a.jpg
     caption: "." 
   - id: "fig-6-4-b"
-    label: "b"
+    label: " "
     src: figures/pestarino-04-b.jpg
     caption: "" 
   - id: "fig-6-5"

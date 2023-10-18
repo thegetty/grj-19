@@ -1,7 +1,6 @@
 ---
 title: "Shorter Notices"
 short_title: 
-layout: "table-of-contents"
-presentation: "list"
+layout: splash
 order: 35
 ---

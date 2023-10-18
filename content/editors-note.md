@@ -2,6 +2,8 @@
 title: "Editor's Note"
 layout: "essay"
 order: 8
+classes:
+  - page-one
 contributor:
   - first_name: Doris
     last_name: Chon

@@ -62,7 +62,9 @@ git clone --recursive https://github.com/thegetty/grj-19.git
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+4. In `_site/pdf.html` find `_assets/tables/sahragard-table-01-images/` and replace with `_assets/`
+
+5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
@@ -88,12 +90,15 @@ Wrapped nav labels in missing span to enable hiding on mobile
 
 **_includes/components/page-header.js**
 **_layouts/essay.liquid**
-Add section name (based on directory) above article title
+Add section name (based on directory) above article title and add elements for PDF footers
 
 **_includes/page-tools.liquid**
 **_layouts/essay.liquid**
 **_layouts/page.liquid**
 Added page-tools include to display PDF download, DOI, abstract, and Cite
+
+**_layouts/cover.liquid**
+Add journal issue info and publisher, remove contributor
 
 **_plugins/markdown/index.js**
 Changed `allowedAttributes` on elements to allow any attribute
@@ -106,4 +111,4 @@ Added caption and class parameters that can be fed in from shortcode; and simpli
 
 ## License
 
-TK
+This publication uses [Skolar PE](https://rosettatype.com/SkolarPE) and [Skolar Sans PE](https://rosettatype.com/SkolarSansPE), designed by David Březina and © Rosetta Type Foundry s.r.o. The Typekit service used to deliver these fonts is provided specifically for this project by Adobe and is subject to their [Terms of Use](http://www.adobe.com/products/eulas/tou_typekit). © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
