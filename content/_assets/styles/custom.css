@@ -65,6 +65,34 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-right: var(--standard-indent) !important;
 }
 
+@media print {
+  .pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .pdf-float-bottom {
+    float: none;
+    -prince-float: bottom;
+    margin-bottom: 0 !important;
+  }
+  .pdf-60-percent-width img {
+    max-width: 60%;
+    margin: 0 !important;
+  }
+  .pdf-wide-image-left {
+    width: calc(100% + var(--large-indent));
+  }
+  .pdf-wide-image-right {
+    width: calc(100% + var(--large-indent));
+    margin-left: calc(-1 * var(--large-indent)) !important;
+  }
+  .pdf-90-percent-width img {
+    max-width: 90%;
+    margin: 0 !important;
+  }
+}
+
 /* COVER
 ============================================================================= */
 .quire-cover__overlay {
@@ -455,21 +483,29 @@ strong {
   grid-template-columns: 1fr 1fr 1fr;
 }
 @media print {
-  .q-figure.q-figure--group.quire-grid--2 .q-figure {
-    display: inline-block;
-    margin-right: 2rem;
-    width: calc((100% - 2rem) / 2);
+  .q-figure.q-figure--group {
+    margin-bottom: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
-  .q-figure.q-figure--group.quire-grid--2 .q-figure:nth-child(2n+2) {
-    margin-right: 0;
+  .q-figure.q-figure--group.quire-grid--2 .q-figure {
+    margin-bottom: 1.5rem;
+    width: calc(50% - 1rem);
   }
   .q-figure.q-figure--group.quire-grid--3 .q-figure {
-    display: inline-block;
-    margin-right: 2rem;
-    width: calc((100% - 2rem) / 3);
+    margin-bottom: 1.5rem;
+    width: calc(33% - 1rem);
   }
-  .q-figure.q-figure--group.quire-grid--3 .q-figure:nth-child(3n+3) {
-    margin-right: 0;
+  .q-figure.q-figure--group.has-shared-caption {
+    margin-bottom: 1.5rem;
+  }
+  .q-figure.q-figure--group.has-shared-caption .q-figure {
+    margin-bottom: 0;
+  }
+  .q-figure.q-figure--group.has-shared-caption .q-figure figcaption {
+    display: none;
   }
 }
 
@@ -1039,6 +1075,15 @@ p[lang="ar"] {
 .quire-page__content .container .content #alai-kidd-appendix p {
   text-indent: 0;
   margin-bottom: .75rem;
+}
+@media print {
+  .quire-page__content .container .content #alai-kidd-appendix {
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+  .quire-page__content .container .content #alai-kidd-appendix h2:first-child {
+    margin-top: 0;
+  }
 }
 
 /* Table in paper 1 */
