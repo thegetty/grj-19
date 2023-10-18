@@ -152,13 +152,13 @@ Um al-Umarā or Um al-Mulūk (mother of kings) was the title of Sayyidah Malik K
 
 These characteristics are also seen in the monumental script of another copy of the Qur’an. On the basis of its resemblance to prior manuscripts, it was most probably copied in the tenth century in Central Iran (Library of Astan Quds Razavi, no. 5015), although it is missing the date of completion and the scribe’s autograph. It is the fourth volume of a ten-volume Qurʼan in which the sura headings and the insertions on the pages’ margins are written in Early Abbasid style. Its writing and the outlining of the golden Early Abbasid are more exacting compared to other examples. In the sura heading of *al-anʾām*, the forms of letters with the vertical tooth of medial *ʾayn* ([ـعـ]{lang="ar" dir="rtl"}), the broad shape of *mīm* ([م]{lang="ar" dir="rtl"}), the head of *wāw* ([و]{lang="ar" dir="rtl"}) on the baseline, and the short arms of *lā* ([لا]{lang="ar" dir="rtl"}) conform to subgroups D.I and D.va ([fig. 6](#fig-1-6])). Some explanation about the place of the sura’s revelation is written in the same style inside the medallion beside the sura heading.
 
- {% figure 'fig-1-6' %}
+ {% figure 'fig-1-6' 'pdf-float-top' %}
 
 Another example of Iranian manuscripts having lines in Abbasid style is the copy of the Qurʼan written by Ahmad b. Muhammad b. Yāsīn, dated 383 AH/993 CE (TIEM, nos. 453–56). This copy, in four volumes, is produced in the horizontal format like the Qurʼan copied by al-ʿabbās b. Muhammad al-Qazvīnī. In circles inside the panels on its beginning pages, the numbers of its suras, words, and letters are written in Early Abbasid style. But, due to the script’s small size and the imprecise outlining of words, an exact recognition of its style is not possible.
 
 The table offers a visual comparison of the main letters of the Getty Qurʼan; the main letters of the monumental scripts of the Qurʼan manuscripts written in New style in Central Iran; group D.I and D.va in Déroche’s classification ([table 1](#table-1-1)). The Getty Qurʼan’s script entirely conforms to the style of the monumental script of the Qurʼan manuscripts from Central Iran. Therefore, not only does it seem possible to attribute the production of the Getty Qurʼan to Central Iran but it is also possible to propose a strong hypothesis attributing mix of D.I and D.va script to Central Iran.
 
- {% figure 'table-1-1' 'is-table-scale-6' %}
+ {% figure 'table-1-1' 'is-table-scale-6 pdf-wide-image-right' %}
 
 ## Summary
 

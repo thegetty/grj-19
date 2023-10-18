@@ -1,5 +1,5 @@
 ---
-title: About this Issue
+title: About This Issue
 layout: page
 classes:
   - masthead
@@ -8,7 +8,7 @@ outputs:
   - html
 ---
 
-**Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }}** {style="color: var(--accent-color);"}
+Number {{ publication.series_issue_number }} • {{ publication.pub_date | date: "%Y" }} {style="color: var(--accent-color);"}
 
 {{ publication.description.full }}
 
