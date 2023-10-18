@@ -55,6 +55,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 ============================================================================= */
 .small-caps {
   font-feature-settings: "smcp";
+  font-variant-caps: small-caps; /* for PrinceXML support */
 }
 
 .remove-paragraph-indent {
@@ -119,6 +120,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-family: var(--skolar-sans);
   font-weight: 600;
   font-feature-settings: "smcp";
+  font-variant-caps: small-caps; /* for PrinceXML support */
   text-transform: lowercase;
   margin-top: 1rem;
   font-size: 1.25rem;
@@ -330,6 +332,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-weight: 300;
   text-align: justify;
   font-feature-settings: "onum";
+  font-variant-numeric: oldstyle-nums; /* for PrinceXML support */
 }
 strong {
   color: inherit;
@@ -530,6 +533,7 @@ strong {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-feature-settings: "lnum";
+  font-variant-numeric: lining-nums; /* for PrinceXML support */
 }
 .q-figure__label .q-figure__label-icon svg {
   width: 1rem;
