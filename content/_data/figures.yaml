@@ -141,6 +141,11 @@ figure_list:
     label: "Fig. 14. —"
     src: figures/overton-14.jpg
     caption: "**The Emamzadeh Yahya at Varamin after the major renovation of the early twentieth century, likely early 1930s**. Photograph by André Godard (French, 1881–1965). Paris, Musée du Louvre, Département des arts de l’Islam, Archives Godard, 1APAI/9025."
+  - id: "table-3-1"
+    label: " "
+    src: tables/overton-table-01.html
+    media_type: table
+    caption: ""
   - id: "fig-4-1"
     label: "Fig. 1. —"
     src: figures/lenssen-01.jpg
