@@ -1123,7 +1123,6 @@ table#sahragard-table-01 img {
 /* Table in paper 3: Hyperspecific fix to avoid lines of paragraph text appearing below the first table page */
 @media print {
   #table-3-1 {
-    margin-bottom: 0;
-    padding-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
   }
 }
