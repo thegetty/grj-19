@@ -386,6 +386,9 @@ strong {
   padding: 0;
   font-style: normal;
 }
+.quire-page__content .container .content blockquote em {
+  font-style: italic;
+}
 .quire-page__content .container .content blockquote p {
   text-indent: 0;
   margin-bottom: 1rem;
