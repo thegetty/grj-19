@@ -19,7 +19,7 @@ The *Getty Research Journal* presents peer-reviewed articles on the visual arts 
 All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
 
 To submit a manuscript, please visit
-[scholastica link TK] 
+grj.scholasticahq.com 
 General inquiries may be sent to 
 GRJ@getty.edu.
 
