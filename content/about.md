@@ -71,7 +71,7 @@ Number {{ publication.series_issue_number }} • {{ publication.pub_date | date:
 All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
 
 To submit a manuscript, please visit
-[scholastica link TK] 
+[grj.scholasticahq.com](https://grj.scholasticahq.com) 
 General inquiries may be sent to 
 GRJ@getty.edu.
 
@@ -96,7 +96,7 @@ GRJ@getty.edu.
 <div class="cover-image-credits">
 
 **Cover**
-**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al. *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: Self-published, 1983) Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst. Courtesy of the artist.
+**Marion Wenzel (German, b. 1958).** Untitled (Winter landscape), 1980/81, gelatin silver print, 15 × 15 cm. From Wolfgang Henne et al., *Landschaft als Zeichen, messbar-vermessbar* (Leipzig: self-published, 1983). Los Angeles, Getty Research Institute, 93-B10567. © Marion Wenzel, VG Bild Kunst. Courtesy of the artist.
 
 </div>
 <div class="identifiers">
