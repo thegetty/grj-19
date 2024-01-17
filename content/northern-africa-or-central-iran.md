@@ -229,7 +229,7 @@ The author would like to acknowledge the anonymous reviewers for their insightfu
 
 [^27]: Déroche, *Abbasid Tradition*, 25.
 
-[^28]: G. Weil and G. S. Colin, “Abd̲j̲ad,” in *Encyclopaedia of Islam*, 2nd ed., ed. P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel, and W. P. Heinrichs, http://dx.doi.org/10.1163/1573-3912_islam_SIM_0140.
+[^28]: G. Weil and G. S. Colin, “Ab<span class="underline">dj</span>ad,” in *Encyclopaedia of Islam*, 2nd ed., ed. P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel, and W. P. Heinrichs, http://dx.doi.org/10.1163/1573-3912_islam_SIM_0140.
 
 [^29]: Jonathan Bloom, “The Blue Koran: An Early Fatimid Kufic Manuscript from the Maghrib,” in *Les Manuscrits du Moyen-Orient: Essais de codicologies et de paléographie*, ed. François Déroche (Istanbul: Institut Français d’Études Anatoliennes d’Istanbul, 1989), 97.
 
