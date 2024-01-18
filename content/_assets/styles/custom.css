@@ -98,6 +98,24 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 90%;
     margin: 0 !important;
   }
+  .pdf-85-percent-width img {
+    max-width: 85%;
+    margin: 0 !important;
+  }
+  .q-figure--group.pdf-85-percent-width {
+    max-width: 85% !important;
+    width: 85% !important;
+  }
+  .q-figure--group.pdf-85-percent-width img {
+    max-width: 100%;
+  }
+  .pdf-no-bottom-margin {
+    margin-bottom: 0 !important;
+  }
+}
+
+.image-border img {
+  border: 1px solid black;
 }
 
 .q-lightbox-ui__fullscreen-button {
@@ -426,6 +444,9 @@ strong {
   list-style-type: initial;
   text-align: left;
   margin-left: calc( 2 * var(--standard-indent));
+}
+.quire-page__content .container .content blockquote ul {
+  margin-left: var(--standard-indent) !important;
 }
 .quire-page__content .container .content ul li {
   margin-bottom: .5rem;
@@ -1130,7 +1151,7 @@ button.global-accordion-collapse-all {
 }
 .quire-page__content .container .content #alai-kidd-appendix p {
   text-indent: 0;
-  margin-bottom: .5rem;
+  margin-bottom: .25rem;
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
