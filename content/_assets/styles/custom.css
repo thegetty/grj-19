@@ -58,6 +58,12 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-variant-caps: small-caps; /* for PrinceXML support */
 }
 
+.underline {
+  text-decoration: underline;
+  text-underline-offset: .25em;
+  text-decoration-thickness: .75px;
+}
+
 .remove-paragraph-indent {
   text-indent: 0 !important;
 }
@@ -92,6 +98,28 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     max-width: 90%;
     margin: 0 !important;
   }
+  .pdf-85-percent-width img {
+    max-width: 85%;
+    margin: 0 !important;
+  }
+  .q-figure--group.pdf-85-percent-width {
+    max-width: 85% !important;
+    width: 85% !important;
+  }
+  .q-figure--group.pdf-85-percent-width img {
+    max-width: 100%;
+  }
+  .pdf-no-bottom-margin {
+    margin-bottom: 0 !important;
+  }
+}
+
+.image-border img {
+  border: 1px solid black;
+}
+
+.q-lightbox-ui__fullscreen-button {
+  display: none;
 }
 
 /* COVER
@@ -357,6 +385,9 @@ strong {
   margin-left: var(--standard-indent);
   text-align: left;
 }
+.quire-page h2 em {
+  font-style: normal;
+}
 @media print {
   .quire-page__content .content h2 {
     margin-bottom: 0;
@@ -412,16 +443,19 @@ strong {
   list-style-position: inside;
   list-style-type: initial;
   text-align: left;
+  margin-left: calc( 2 * var(--standard-indent));
+}
+.quire-page__content .container .content blockquote ul {
+  margin-left: var(--standard-indent) !important;
 }
 .quire-page__content .container .content ul li {
   margin-bottom: .5rem;
   margin-left: 0;
+  display: inline-block;
 }
 .quire-page__content .container .content ul li::before {
-  content: none;
-}
-.quire-page__content .container .content ul li::marker {
-  content: '—\00A0\00A0\00A0\00A0';
+  content: '—';
+  margin-left: calc(-1 * var(--standard-indent));
 }
 .quire-page__content .container .content ul li > p:first-child {
   display: inline;
@@ -564,6 +598,9 @@ strong {
 }
 .q-lightbox-slides__caption a:hover {
   border-bottom: 1px solid currentColor;
+}
+.q-figure__label--below .q-figure__modal-link:hover svg {
+  fill: var(--accent-color);
 }
 
 /* CONTRIBUTOR BIOS
@@ -905,11 +942,13 @@ strong {
   margin-left: 0;
   margin-top: 0;
   margin-bottom: 1rem;
+  list-style-type: none;
 }
 .masthead .quire-page__content .container .content ul li {
   margin: 0;
+  display: list-item;
 }
-.masthead .quire-page__content .container .content ul li::marker {
+.masthead .quire-page__content .container .content ul li::before {
   content: '';
 }
 .masthead .quire-page__content .container .content .backmatter h2 {
@@ -1070,12 +1109,28 @@ p[lang="ar"] {
   padding: 1rem var(--standard-indent);
   text-align: left;
 }
+.global-accordion-controls {
+  background-color: #fafaf5;
+  margin-bottom: 0;
+  margin-top: 1.5rem;
+  padding: .5rem 1rem;
+}
+button.global-accordion-expand-all,
+button.global-accordion-collapse-all {
+  margin-top: 0;
+}
+.quire-page #alai-kidd-appendix .accordion-section__body {
+  margin-bottom: 4rem;
+}
 .quire-page #alai-kidd-appendix h2 {
   margin-left: 0;
 }
-.quire-page #alai-kidd-appendix h3,
+.quire-page #alai-kidd-appendix h3 {
+  margin-bottom: 1.35rem;
+  margin-top: 0;
+}
 .quire-page #alai-kidd-appendix h4 {
-  margin-bottom: 1rem;
+  margin-bottom: .65rem;
   margin-top: 0;
 }
 .quire-page #alai-kidd-appendix p + h3,
@@ -1096,7 +1151,7 @@ p[lang="ar"] {
 }
 .quire-page__content .container .content #alai-kidd-appendix p {
   text-indent: 0;
-  margin-bottom: .75rem;
+  margin-bottom: .25rem;
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
@@ -1109,17 +1164,17 @@ p[lang="ar"] {
 }
 
 /* Table in paper 1 */
-.q-lightbox-slides__element table#sahragard-table-01 img {
+.q-lightbox-slides__element table.sahragard-table-01 img {
   all: revert;
 }
-table#sahragard-table-01 tbody td {
+table.sahragard-table-01 tbody td {
   width: 6%;
   max-width: 120px;
 }
-table#sahragard-table-01 tbody td:first-child {
+table.sahragard-table-01 tbody td:first-child {
   width: initial;
 }
-table#sahragard-table-01 img {
+table.sahragard-table-01 img {
   max-width: 30px;
 }
 

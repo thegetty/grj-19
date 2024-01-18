@@ -10,7 +10,7 @@ contributor:
     bio: "**Julieta Pestarino** is an anthropologist and holds a PhD in History and Theory of the Arts from the Universidad de Buenos Aires, Argentina."
 copyright: "© 2024 Julieta Pestarino"
 abstract: "This article examines a panoramic photograph of the Brazilian city of Salvador, in the state of Bahia, taken around 1880 by Rodolpho Lindemann. Recently added to the collection of the Getty Research Institute, this large six-part folding work has not been mentioned in previous studies or in the foremost books on the history of photography in Brazil, suggesting that its existence has not been widely known. Although it bears no signature or stamp, comparison with a drawing based on the photograph made it possible to determine its authorship. This article explores connections with other panoramic images produced in the country in order to propose a framework for thinking about the representation of landscapes and cities according to the panoramic tradition as well as the question of unknown authorship in photography."
-doi: https://doi.org/TK
+doi: https://doi.org/10.59491/VUPK7286
 pdf_download: true
 ---
 

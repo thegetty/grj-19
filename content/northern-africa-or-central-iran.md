@@ -10,7 +10,7 @@ contributor:
     bio: "**Mahdi Sahragard** is an assistant professor in the Department of Architecture at Islamic Azad University, Mashhad Branch, Mashhad, Iran."
 copyright: "© 2024 Mahdi Sahragard"
 abstract: "One of the ambiguities in the history of Islamic calligraphy is the determination of the regions where each script prevailed in the first three Hijri centuries. This ambiguity is due to the dispersion of book leaves and the lack of reliable colophons in early copies. The J. Paul Getty Museum preserves a few leaves of a Qur&apos;an that is one of the significant examples of Early Abbasid style. This Qur&apos;an was discovered in Kairouan, Tunisia, so historians have attributed its origin to that place. Yet, evidence proves it was produced in Central Iran. This evidence includes the eastern-system diacritic and the Abjad script used in the sign for the numeral ten *āyah*s; moreover, its script resembles the monumental script of some of the signed New Style Qur&apos;ans copied in Isfahan and Rayy. Because the Getty Qur&apos;an is copied in D.I script (the subgroup described by codicologist and paleographer François Déroche), the D.I script can be attributed to Central Iran."
-doi: https://doi.org/TK
+doi: https://doi.org/10.59491/YZUL6030
 pdf_download: true
 ---
 
@@ -18,7 +18,7 @@ pdf_download: true
 
 Islamic calligraphy thrived in two main realms in the first centuries of its flourishing. Officially, it was mostly employed by those charged with copying the Qur&apos;an and architectural inscriptions while adhering to prescribed rules and principles of calligraphy and attending to its aesthetic aspect through rigorous, direct strokes of the pen (*qalam*). Unofficially, it was generally employed in bureaucratic and everyday affairs, in which scribes used cursive and mostly unprincipled strokes of the pen. In the first realm, as early writers such as Ibn al-Nadīm and today’s researchers show, Hijazi (Makkī/Madanī) scripts shaped the first stage of writing the Qur&apos;an.[^1]
 
-Some scholars say that the classification of the scripts used in the Qurʼans of the first Islamic centuries (the seventh to ninth centuries CE) originated in copies that were preserved in the Royal Danish Library by Orientalist and theologian Jacob Georg Christian Adler (1756–1834). Adler, according to firsthand sources, first used the word *Kufic* to refer to the script of the five copies in the library’s collection. Years later, on the basis of information gained from the introduction to *Al-Fihrist* by Ibn al-Nadīm, Italian historian Michele Amari (1806–89) proposed the Makkī/Madanī scripts as the first to be used in copying the Qur&apos;an,[^2] although later his definitive view was challenged by Qur&apos;anic paleographer Estelle Whelan and art historian Sheila Blair.[^3] Using Adler’s methodology for her 1939 publication, scholar of early Arabic scripts Nabia Abbott tried to resolve the discrepancies between texts and the surviving manuscripts by proposing a classification of scripts into the double categories of Makkī-Madanī and Basrī-Kufic under the title of Hijazi scripts.[^4] Nevertheless, the problem of the diversity of styles and their nonuniformity with names of calligraphic scripts and terms from the texts remained unresolved.
+Some scholars say that the classification of the scripts used in the Qur&apos;ans of the first Islamic centuries (the seventh to ninth centuries CE) originated in copies that were preserved in the Royal Danish Library by Orientalist and theologian Jacob Georg Christian Adler (1756–1834). Adler, according to firsthand sources, first used the word *Kufic* to refer to the script of the five copies in the library’s collection. Years later, on the basis of information gained from the introduction to *Al-Fihrist* by Ibn al-Nadīm, Italian historian Michele Amari (1806–89) proposed the Makkī/Madanī scripts as the first to be used in copying the Qur&apos;an,[^2] although later his definitive view was challenged by Qur&apos;anic paleographer Estelle Whelan and art historian Sheila Blair.[^3] Using Adler’s methodology for her 1939 publication, scholar of early Arabic scripts Nabia Abbott tried to resolve the discrepancies between texts and the surviving manuscripts by proposing a classification of scripts into the double categories of Makkī-Madanī and Basrī-Kufic under the title of Hijazi scripts.[^4] Nevertheless, the problem of the diversity of styles and their nonuniformity with names of calligraphic scripts and terms from the texts remained unresolved.
 
 On the basis of classification propounded by Muslim historians such as Nāji Zayn al-dīn in 1972 and Habiballah Faẓāʾilī in 1973,[^5] another classification was proposed by British scholar Martin Lings in 1976. In Lings’s classification, Kufic is reckoned to be the evolved form of the early scripts and, from the tenth century on, divided into two significant styles: Eastern Kufic, nearly encompassing Iran, and Western Kufic, encompassing Andalusia and North and West Africa.[^6] Despite this classification’s vast geographic and historic scope, which provided for a more rigorous recognition of scripts, it did not prevail.
 
@@ -32,7 +32,7 @@ A few surviving leaves of a Qur&apos;an attributed to the ninth century offer us
 
 ## The Fragmentary Kufic Qur&apos;an at the Getty Museum
 
-Ten leaves of a Qurʼan manuscript produced in the horizontal format and written in outlined gold script on parchment are preserved in the Getty Museum (Ms Ludwig X 1).[^15] Other leaves are listed in other collections and at auctions. In what follows, the characteristics of the Getty leaves and the other leaves’ places of preservation are expounded.
+Ten leaves of a Qur&apos;an manuscript produced in the horizontal format and written in outlined gold script on parchment are preserved in the Getty Museum (Ms Ludwig X 1).[^15] Other leaves are listed in other collections and at auctions. In what follows, the characteristics of the Getty leaves and the other leaves’ places of preservation are expounded.
 
 > ### Fragmentary Qur&apos;an from the J. Paul Getty Museum:
 > 3rd century AH/9th century CE, probably Central Iran
@@ -229,7 +229,7 @@ The author would like to acknowledge the anonymous reviewers for their insightfu
 
 [^27]: Déroche, *Abbasid Tradition*, 25.
 
-[^28]: G. Weil and G. S. Colin, “Abd̲j̲ad,” in *Encyclopaedia of Islam*, 2nd ed., ed. P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel, and W. P. Heinrichs, http://dx.doi.org/10.1163/1573-3912_islam_SIM_0140.
+[^28]: G. Weil and G. S. Colin, “Ab<span class="underline">dj</span>ad,” in *Encyclopaedia of Islam*, 2nd ed., ed. P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel, and W. P. Heinrichs, http://dx.doi.org/10.1163/1573-3912_islam_SIM_0140.
 
 [^29]: Jonathan Bloom, “The Blue Koran: An Early Fatimid Kufic Manuscript from the Maghrib,” in *Les Manuscrits du Moyen-Orient: Essais de codicologies et de paléographie*, ed. François Déroche (Istanbul: Institut Français d’Études Anatoliennes d’Istanbul, 1989), 97.
 
