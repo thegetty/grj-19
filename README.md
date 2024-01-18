@@ -92,6 +92,9 @@ Wrapped nav labels in missing span to enable hiding on mobile
 **_layouts/essay.liquid**
 Add section name (based on directory) above article title and add elements for PDF footers
 
+**_includes/components/table-of-contents/item/list.js**
+Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, and this let to straight apostrophes being processed when we didn't want them to be.
+
 **_includes/page-tools.liquid**
 **_layouts/essay.liquid**
 **_layouts/page.liquid**

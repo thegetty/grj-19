@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, line 69
+//
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -62,7 +66,7 @@ module.exports = function (eleventyConfig) {
         ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
         : ''
 
-    let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
+    let mainElement = `${pageTitleElement}${isPage && !children ? arrowIcon : ''}`
 
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
