@@ -13,7 +13,7 @@ contributor:
     bio:  "**Isotta Poggi** is associate curator of photographs at the Getty Research Institute, Los Angeles."
 copyright: "© 2024 Anna Horakova and J. Paul Getty Trust"
 abstract: "In the 1980s, the youngest generation of artists to have been raised in the German Democratic Republic (GDR) experimented collaboratively to produce work in intermedial genres, with particular focus on synthesizing poetry and such visual arts as photography and printmaking. Drawing on the rich collection of East German samizdat artists’ books in the Getty Research Institute, this article examines diverse approaches to design integrating photography and poetry that emerged from within this vibrant community, including artistic practices of dialogue across consecutive pages (Wolfgang Henne and Marion Wenzel), montaged works (the artist’s trio of the Günther-Jahn-Bach Editionen), and handwritten poems combined with found photographs, drawing, and overpainting (Inge Müller and Christine Schlegel). The intermedial focus and the limited print-run editions, which—because of a legal loophole—allowed for modest circulation of these largely uncensored materials, enabled artists to speak about controversial issues such as the environment, the legal system, transgenerational feminist solidarities, or accountability for Germany’s Nazi past."
-doi: https://doi.org/TK
+doi: https://doi.org/10.59491/ZUEW3338
 pdf_download: true
 ---
 
