@@ -9,7 +9,10 @@ contributor:
     last_name: Lenssen
     bio: "**Anneka Lenssen** is an associate professor of global modern art at the University of California, Berkeley."
 copyright: "© 2024 Anneka Lenssen"
-abstract: "This article explores the late-colonial context for a wartime encounter between Polish and Iraqi artists during a period of British military reoccupation, 1941–45. Linking E. L. T. Mesens’s propaganda work for the Allied cause to the activities of Polish painters stationed in Baghdad, particularly Józef Czapski (1896–93) and Józef Jarema (1900–1974), and to those of Iraqi artists Jewad Selim (1919–61) and Jamil Hamoudi (1924–2003), it demonstrates how a consortium of artists and officers came to model a version of modern art construed as free inquiry into form, or “art alone.” Polish artists mobilized propagandistic narratives about threats to civilization, including the loss of Paris as an open city. Responses by Iraqi artists both reflect and refract the Allied version of civilizational values. As such, the Polish-Iraqi encounter represents an early, not-yet-postwar reckoning with doubts about the progression of artistic practice in a world in which barbarous violence was always imminent."
+abstract: "This article explores the late-colonial context for a wartime encounter between Polish and Iraqi artists during a period of British military reoccupation, 1941–45. Linking E. L. T. Mesens’s propaganda work for the Allied cause to the activities of Polish painters stationed in Baghdad, particularly Józef Czapski (1896–93) and Józef Jarema (1900–1974), and to those of Iraqi artists Jewad Selim (1919–61) and Jamil Hamoudi (1924–2003), it demonstrates how a consortium of artists and officers came to model a version of modern art construed as free inquiry into form, or “art alone.” Polish artists mobilized propagandistic narratives about threats to civilization, including the loss of Paris as an open city. Responses by Iraqi artists both reflect and refract the Allied version of civilizational values. As such, the Polish-Iraqi encounter represents an early, not-yet-postwar reckoning with doubts about the progression of artistic practice in a world in which barbarous violence was always imminent.
+
+
+Keywords: Arab art, Polish art, Second World War, displacement, global modernism"
 doi: https://doi.org/10.59491/SNOY1871
 pdf_download: true
 ---
