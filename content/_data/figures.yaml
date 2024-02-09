@@ -34,13 +34,13 @@ figure_list:
     label: "Fig. 6. —"
     src: figures/sahragard-06.jpg
     zoom: true
-    caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qur&apos;an endowed to the Imam Riza Shrine,** probably 4th century AH/10th century CE, **ink on paper, 13 x 18 cm.** Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
+    caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qur&apos;an endowed to the Imam Riza Shrine, probably 4th century AH/10th century CE,** **ink on paper, 13 x 18 cm.** Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
     alt: "Manuscript page with black Arabic script, red dots, two central lines of golden script, and a golden medallion on the left."
   - id: "table-1-1"
     label: "Table 1. —"
     src: tables/sahragard-table-01.html
     media_type: table
-    caption: "**Letters in the Getty Qur&apos;an;** in the monumental script of the Qur&apos;an manuscripts copied in New Style; and in François Déroche’s D.I and D.Va classification."
+    caption: "**Letters in the Getty Qur&apos;an; in the monumental script of the Qur&apos;an manuscripts copied in New Style; and in François Déroche’s D.I and D.Va classification.**"
   - id: "fig-2-1"
     label: "Fig. 1. —"
     src: figures/alai-kidd-01.jpg
@@ -69,7 +69,7 @@ figure_list:
     label: "Fig. 5. —"
     src: figures/alai-kidd-05.jpg
     zoom: true
-    caption: "**Decorated initial *O* (*Osculetur*), last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 35r. Image: BnF."
+    caption: "**Decorated initial *O* (*Osculetur*), last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 35r (detail). Image: BnF."
     alt: "A blue initial filled with yellow, blue, and green foliate ornament, within a cruciform green background."
   - id: "fig-2-6"
     label: "Fig. 6. —"
@@ -81,43 +81,43 @@ figure_list:
     label: "Fig. 7. —"
     src: figures/alai-kidd-07.jpg
     zoom: true
-    caption: "**Historiated initial *V* (*Vir*) with Job suffering, last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 98r. Image: BnF."
+    caption: "**Historiated initial *V* (*Vir*) with Job suffering, last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 98r (detail). Image: BnF."
     alt: "Job in bed with attendees within a blue and gold initial on an orange-red background."
   - id: "fig-2-8"
     label: "Fig. 8. —"
     src: figures/alai-kidd-08.jpg
     zoom: true
-    caption: "**Historiated initial *O* (*Omnis sapientia*) with Christ and a personification of Wisdom, last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 54v. Image: BnF."
+    caption: "**Historiated initial *O* (*Omnis sapientia*) with Christ and a personification of Wisdom, last third of the twelfth century, gold, tempera colors, and inks on parchment.** From the Liget Bible, Paris, Bibliothèque Nationale de France, Ms. Latin 11508, fol. 54v (detail). Image: BnF."
     alt: "Full-length man and woman with halos within a green initial on a black-outlined blue, rectangular background."
   - id: "fig-2-9"
     label: "Fig. 9. —"
     src: figures/alai-kidd-09.jpg
     zoom: true
-    caption: "**Decorated initial *Q* (*Quidam*), last third of the twelfth century, gold, tempera colors, and inks on partchment.** From *Decretum Gratiani,* Grenoble, Bibliothèque Municipale, Ms. 475, fol. 153v. Image: Bibliothèque Municipale de Grenoble, Ms.34 Rés."
+    caption: "**Decorated initial *Q* (*Quidam*), last third of the twelfth century, gold, tempera colors, and inks on parchment.** From *Decretum Gratiani,* Grenoble, Bibliothèque Municipale, Ms. 475, fol. 153v (detail). Image: Bibliothèque Municipale de Grenoble, Ms.34 Rés."
     alt: "Red initial filled with burnished gold and blue-and-green foliate ornament within a blue background."
   - id: "fig-2-10"
     label: "Fig. 10. —"
     src: figures/alai-kidd-10.jpg
     zoom: true
-    caption: "**Decorated initial *G* (*Gloriosissimam*), third quarter of the twelfth century, gold, tempera colors, and inks on parchment.** From *De civitate dei,* Dijon, Bibliothèque Municipale, Ms. 159, fol. 2v. Image: Bibliothèque Municipale de Dijon."
+    caption: "**Decorated initial *G* (*Gloriosissimam*), third quarter of the twelfth century, gold, tempera colors, and inks on parchment.** From *De civitate dei,* Dijon, Bibliothèque Municipale, Ms. 159, fol. 2v (detail). Image: Bibliothèque Municipale de Dijon."
     alt: "Initial filled with burnished gold and blue, green, and orange-red foliate ornament within a blue background."
   - id: "fig-2-11"
     label: "Fig. 11. —"
     src: figures/alai-kidd-11.jpg
     zoom: true
-    caption: "**Decorated initial *D* (*De civitate*), third quarter of the twelfth century, tempera colors and inks on parchment.** From *De civitate dei*, Dijon, Bibliothèque Municipale, Ms. 159, fol. 24v. Image: Bibliothèque Municipale de Dijon."
+    caption: "**Decorated initial *D* (*De civitate*), third quarter of the twelfth century, tempera colors and inks on parchment.** From *De civitate dei*, Dijon, Bibliothèque Municipale, Ms. 159, fol. 24v (detail). Image: Bibliothèque Municipale de Dijon."
     alt: "A green foliate initial outlined in blue, within a red background."
   - id: "fig-2-12"
     label: "Fig. 12. —"
     src: figures/alai-kidd-12.jpg
     zoom: true
-    caption: "**Decorated initial *P* (*Paulus*), ca. 1109, gold, tempera colors, and inks on parchment.** From the Bible of Stephen Harding, Dijon, Bibliothèque Municipale de Dijon, Ms. 15, fol. 94r. Image: Bibliothèque Municipale de Dijon."
+    caption: "**Decorated initial *P* (*Paulus*), ca. 1109, gold, tempera colors, and inks on parchment.** From the Bible of Stephen Harding, Dijon, Bibliothèque Municipale, Ms. 15, fol. 94r. Image: Bibliothèque Municipale de Dijon."
     alt: "Initial of green, blue, orange-red, and burnished-gold foliate ornament extending the full height of the introduced column of script."
   - id: "fig-3-1"
     label: "Fig. 1. —"
     src: figures/overton-01.jpg
     zoom: true
-    caption: "**View of Jane Dieulafoy’s photography album “Perse 1,” pp. 34–35, March 2022, showing photographs taken in Khorramdareh and Qazvin in May 1881.** On the right page is the domed tomb of the Emamzadeh Shahzadeh Hossein at Qazvin (975–1008 AH/1568–1600). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1). Photograph by the author."
+    caption: "**View of Jane Dieulafoy’s photography album “Perse 1,” pp. 34–35, showing photographs taken in Khorramdareh and Qazvin in May 1881.** On the right page is the domed tomb of the Emamzadeh Shahzadeh Hossein at Qazvin (975–1008 AH/1568–1600). Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, 4 Phot 18 (1). Photograph by the author, March 2022."
     alt: "Viewed from above, a three-dimensional album open to a double-page spread of landscape-oriented pages, each with three sepia-toned photographs."
   - id: "fig-3-2-a"
     label: " "
@@ -147,7 +147,7 @@ figure_list:
     label: "Fig. 4. —"
     src: figures/overton-04.jpg
     zoom: true
-    caption: "**The architectural monuments of Varamin observed by Eʿtemad al-Saltaneh in 1876.** The citadel (*qaʿleh*) is now lost, but the surrounding sites (ca. 1260–1490) all stand to various degrees. Drawing by Kanika Kalra."
+    caption: "**The architectural monuments of Varamin observed by Eʿtemad al-Saltaneh in 1876.** The citadel (*qaʿleh*), represented through dashed lines, is now lost, but the surrounding sites (ca. 1260–1490) all stand to various degrees. Drawing by Kanika Kalra."
     alt: "A map identifying six named sites with black dots in relation to the sketched boundaries of the citadel site."   
   - id: "fig-3-5"
     label: "Fig. 5. —"
@@ -206,7 +206,7 @@ figure_list:
   - id: "fig-3-14"
     label: "Fig. 14. —"
     src: figures/overton-14.jpg
-    caption: "**The Emamzadeh Yahya at Varamin after the major renovation of the early twentieth century, likely early 1930s**. Photograph by André Godard (French, 1881–1965). Paris, Musée du Louvre, Département des Arts de l’Islam, Archives Godard, 1APAI/9025."
+    caption: "**View of the south (back) facade of the Emamzadeh Yahya at Varamin during or after the major renovation of the early twentieth century, likely early 1930s**. Photograph by André Godard (French, 1881–1965). Paris, Musée du Louvre, Département des Arts de l’Islam, Archives Godard, 1APAI/9025."
     alt: "Black and white photograph of a domed brick building constructed on a square plan with a large arch in front."
   - id: "table-3-1"
     label: " "
@@ -247,13 +247,13 @@ figure_list:
     label: "Fig. 6. —"
     src: figures/lenssen-06.jpg
     zoom: true
-    caption: "**Edward Matuszczak (Polish, 1906–65).** Landscape from Baghdad, 1943, oil on canvas, 44.5 × 51.5 cm. Alexandria, Egypt, Museum of Fine Arts." 
+    caption: "**Edward Matuszczak (Polish, 1906–65).** Landscape from Baghdad, 1943, oil on canvas, 44.5 × 51.5 cm. Alexandria, Egypt, Museum of Fine Arts. By permission of the Fine Art Sector, Ministry of Culture, Egypt." 
     alt: "Impasto brushwork depicting a garden setting with benches, trees, and distant figures, in a blue, green, brown, and ocher palette."
   - id: "fig-4-7"
     label: "Fig. 7. —"
     src: figures/lenssen-07.jpg
     zoom: true
-    caption: "**Józef Czapski (Polish, 1896–1993).** Drawing in diary, 21 January 1943. Vol. 2, 8 September 1942 to 23 May 1943. National Museum in Kraków, Archives of Maria and Józef Czapski. Inv. No. MNK VIII-rkps.1923. Image: Laboratory Stock National Museum in Kraków." 
+    caption: "**Józef Czapski (Polish, 1896–1993).** Drawing in diary, 21 January 1943. Vol. 2, 8 September 1942 to 23 May 1943. National Museum in Kraków, Archives of Maria and Józef Czapski, inv. no. MNK VIII-rkps.1923. Image: Laboratory Stock National Museum in Kraków." 
     alt: "Polish handwriting beneath two ink, line drawings of artifacts from a museum in Damascus pasted to the noebook page."
   - id: "fig-4-8"
     label: "Fig. 8. —"
