@@ -100,7 +100,7 @@ I would like to thank the Getty Foundation and Idurre Alonso, curator of Latin A
 
 [^7]: Deborah Poole, *Vision, Race, and Modernity: A Visual Economy of the Andean Image World* (Princeton, NJ: Princeton University Press, 1997), 8.
 
-[^8]: This album has been digitized and is available to view online at the Biblioteca Digital Luso-Brasileira, https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/46289. It contains ninety-four images of Brazil, with photographs by Marc Ferrez, Lindemann, and Joaquim Insley Pacheco, among others, as well as lithographic drawings based on photos. According to Kossoy, it can be considered the final piece of publicity for Brazil produced by the imperial government as it entered into decline, given that the album was published less than a year before the Proclamation of the Republic of Brazil. For more details on the photographs included in *Álbum de vues du Brésil,* see Boris Kossoy, “A Construção do Nacional na Fotografia Brasileira: O Espelho Europeu,” in *Realidades e ficções na trama fotográfica* (São Paulo: Ateliê, 2000), 73–126.
+[^8]: This album has been digitized and is available to view online at the Biblioteca Digital Luso-Brasileira, https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/46289. It contains ninety-four images of Brazil, with photographs by Marc Ferrez, Lindemann, and Joaquim Insley Pacheco, among others, as well as lithographic drawings based on photos. According to Kossoy, it can be considered the final piece of publicity for Brazil produced by the imperial government as it entered into decline, given that the album was published less than a year before the Proclamation of the Republic of Brazil. For more details on the photographs included in *Álbum de vues du Brésil,* see Boris Kossoy, “A Construção do Nacional na Fotografia Brasileira: O Espelho Europeu,” in *Realidades e Ficções na Trama Fotográfica* (São Paulo: Ateliê, 2000), 73–126.
 
 [^9]: For more information on Brazil’s participation in this event and the extensive use of photographs, see Maria Inez Turazzi, *Poses e trejeitos: A fotografia e as exposições na era do espetáculo: 1839/1889* (Rio de Janeiro: Funarte, 1995).
 
@@ -118,7 +118,7 @@ I would like to thank the Getty Foundation and Idurre Alonso, curator of Latin A
 
 [^16]: The three-part panorama by Leuzinger is located at the Getty Research Institute, and a copy is also found in the National Library of Brazil, available online at https://objdigital.bn.br/objdigital2/acervo_digital/div_iconografia/icon72486/icon72486.htm. The painted panorama by Casanovas is located in the collection of the Instituto Moreira Salles in São Paulo, Brazil, and is also available online at https://acervos.ims.com.br/portals/#/detailpage/4294983067.
 
-[^17]: For the specific case of the panoramas by Leuzinger, see Caroline Ivanski Langer, “Os primeiros olhares à modernidade do Rio de Janeiro: A fotografia do suíço Georges Leuzinger na segunda metade do século XIX,” *Amerika* 24 (July 2022) https://doi.org/10.4000/amerika.15697.
+[^17]: For the specific case of the panoramas by Leuzinger, see Caroline Ivanski Langer, “Os primeiros olhares à modernidade do Rio de Janeiro: A fotografia do suíço Georges Leuzinger na segunda metade do século XIX,” *Amerika* 24 (July 2022), https://doi.org/10.4000/amerika.15697.
 
 [^18]: Crary, *Techniques of the Observer*.
 
