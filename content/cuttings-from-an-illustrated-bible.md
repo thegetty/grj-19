@@ -11,7 +11,10 @@ contributor:
     last_name: "Kidd"
     bio: "**Peter Kidd** has been a freelance researcher and cataloger of medieval manuscripts since 2006; before that he worked at the Bodleian Library, Oxford, and the British Library, London."
 copyright: "© 2024 Beatrice Alai and Peter Kidd"
-abstract: "A historiated initial depicting the Old Testament prophet Micah, cut probably in the nineteenth century from a twelfth-century illuminated manuscript and acquired by the J. Paul Getty Museum in 1989, is here placed in its temporal, geographical, and religious contexts through an examination of its decoration, script, and text, in combination with the evidence provided by fifty further cuttings from the same manuscript in Berlin—most of them unpublished—and one in a private collection. From this study it emerges that the cuttings come from a Bible written in the third quarter of the twelfth century in southeastern France for a Carthusian monastery in the orbit of the Grande Chartreuse."
+abstract: "A historiated initial depicting the Old Testament prophet Micah, cut probably in the nineteenth century from a twelfth-century illuminated manuscript and acquired by the J. Paul Getty Museum in 1989, is here placed in its temporal, geographical, and religious contexts through an examination of its decoration, script, and text, in combination with the evidence provided by fifty further cuttings from the same manuscript in Berlin—most of them unpublished—and one in a private collection. From this study it emerges that the cuttings come from a Bible written in the third quarter of the twelfth century in southeastern France for a Carthusian monastery in the orbit of the Grande Chartreuse.
+
+
+Keywords: medieval, illuminated, Romanesque, Kupferstichkabinett, Carthusian, Grande Chartreuse"
 doi: https://doi.org/10.59491/DCXR1870
 pdf_download: true
 ---
@@ -135,7 +138,7 @@ In the Getty-Berlin cuttings we find that, as above, {.remove-paragraph-indent}
 
 ## Carthusian Lection Markings
 
-Beyond stylistic analyses of script and decoration and the peculiar sequence of the biblical books, other features of the Getty-Berlin cuttings demonstrate conclusively that the parent Bible was used by Carthusians. In our description of the Getty cutting at the beginning of this article, we noted the presence of a red *S* in the left margin, next to the start of the text (see [fig. 1](#fig-2-1)). Similar marginal notations occur on other cuttings in Berlin, including majuscule letters *P* (Proverbs 1:29, Zechariah 1:1), *S* (Joel 2:18), and *T* (Haggai 1:1); roman numerals *I* (Daniel 1:1, Joel 1:1), *II* (Isaiah 1:1, Nahum 1:1, Malachi 1:1), and *III* (Habakkuk 1:1); and minuscule letters *a* (2 Samuel 1:1, Proverbs 1:29, Ezekiel prologue), *b* (2 Samuel 1:5, 2 Samuel 2:18, Tobit 1:1, Ezekiel 1:1, Romans 1:1, Corinthians 1:1), *c* (Judith 1:5, 2 Samuel 2:22), *d* (Ecclesiasticus 50:15), *e* (Proverbs 30:15), *f* (Romans 16:17), *g* (1 Samuel 1:28?), and *h* (Tobit 12:20). All these forms of annotation are characteristic of Carthusian Bibles. The letters *P, S,* and *T* stand for *primus, secundus,* and *tertius* (or *prima lectio, secunda lectio,* and *tertia lectio*) and indicate the start of the three biblical lections read on weekdays by Carthusians. Sometimes *I, II,* and *III* are used in their place. Also Carthusian is the presence in the margins of the first eight letters of the alphabet, *a* to *h,* to indicate the eight biblical lections to be read on Sundays and major feast days.[^57] (This is not to be confused with the method, probably developed by the Paris Dominicans in the thirteenth century, of dividing parts of a work into subsections using the first seven letters of the alphabet, *a* to *g.*)[^58] The three different types of markings in the Getty-Berlin cuttings may represent successive stages of annotation: the cutting with the decorated initial at the start of Proverbs, for example, has on its verso a roman numeral *I* in brown ink, overwritten with a *P* in red, next to which is an *a,* also in red.
+Beyond stylistic analyses of script and decoration and the peculiar sequence of the biblical books, other features of the Getty-Berlin cuttings demonstrate conclusively that the parent Bible was used by Carthusians. In our description of the Getty cutting at the beginning of this article, we noted the presence of a red *S* in the left margin, next to the start of the text (see [fig. 1](#fig-2-1)). Similar marginal notations occur on other cuttings in Berlin, including majuscule letters *P* (Proverbs 1:29, Zechariah 1:1), *S* (Joel 2:18), and *T* (Haggai 1:1); roman numerals *I* (Daniel 1:1, Joel 1:1), *II* (Isaiah 1:1, Nahum 1:1, Malachi 1:1), and *III* (Habakkuk 1:1); and minuscule letters *a* (2 Samuel 1:1, Proverbs 1:29, Ezekiel prologue), *b* (2 Samuel 1:5, 2 Samuel 2:18, Tobit 1:1, Ezekiel 1:1, Romans 1:1, 1 Corinthians 1:1), *c* (Judith 1:5, 2 Samuel 2:22), *d* (Ecclesiasticus 50:15), *e* (Proverbs 30:15), *f* (Romans 16:17), *g* (1 Samuel 1:28?), and *h* (Tobit 12:20). All these forms of annotation are characteristic of Carthusian Bibles. The letters *P, S,* and *T* stand for *primus, secundus,* and *tertius* (or *prima lectio, secunda lectio,* and *tertia lectio*) and indicate the start of the three biblical lections read on weekdays by Carthusians. Sometimes *I, II,* and *III* are used in their place. Also Carthusian is the presence in the margins of the first eight letters of the alphabet, *a* to *h,* to indicate the eight biblical lections to be read on Sundays and major feast days.[^57] (This is not to be confused with the method, probably developed by the Paris Dominicans in the thirteenth century, of dividing parts of a work into subsections using the first seven letters of the alphabet, *a* to *g.*)[^58] The three different types of markings in the Getty-Berlin cuttings may represent successive stages of annotation: the cutting with the decorated initial at the start of Proverbs, for example, has on its verso a roman numeral *I* in brown ink, overwritten with a *P* in red, next to which is an *a,* also in red.
 
 ## Modern Provenance
 
@@ -252,7 +255,7 @@ recto: “[Tandem]{.small-caps} finito pentateuco moysi . . . nominibus effe\[
 
 verso: “iudeos; quod calumniandi . . . quare danielem iuxta”
 
-Fredericus, Stegmüller, *Repertorium biblicum medii aevi*, vol. 1, *Initia biblica, apocrypha, prologi* (Madrid: Consejo Superior de Investigaciones Científicas, Instituto Francisco Suárez, 1950). Printed in Robert Weber and Roger Gryson, eds., *Biblia Sacra iuxta Vulgatam versionem,* 5th ed. (Stuttgart: Deutsche Bibelgesellschaft, 2007). 402, lines 1–3, 18–22.
+Fredericus Stegmüller, *Repertorium biblicum medii aevi*, vol. 1, *Initia biblica, apocrypha, prologi* (Madrid: Consejo Superior de Investigaciones Científicas, Instituto Francisco Suárez, 1950). Printed in Robert Weber and Roger Gryson, eds., *Biblia Sacra iuxta Vulgatam versionem,* 5th ed. (Stuttgart: Deutsche Bibelgesellschaft, 2007), 402, lines 1–3, 18–22.
 
 Kupferstichkabinett, Inv. 166
 
@@ -374,8 +377,8 @@ Kupferstichkabinett, Inv. 4679
 
 King Solomon seated, with halo, crown, and scepter
 
-recto: “[Conforta]{.small-caps}tus est ergo Salomon. . . . Precepitque Salomon” verso; 
-“erant in terra . . . quam dinumerauit . . . David in area”
+recto: “[Conforta]{.small-caps}tus est ergo Salomon. . . . Precepitque Salomon”  
+verso: “erant in terra . . . quam dinumerauit . . . David in area”
 
 2 Chronicles 1:1–2; 2:17–3:1
 
@@ -574,7 +577,7 @@ recto: “Vbi symonem loco fratrum eius exercitus ducem constituit. . . . & ui
 
 verso: “Et / factum est / \[added\] postquam percussit alexander . . . munitiones. et”
 
-I Maccabees 1:1–2
+1 Maccabees 1:1–2
 
 Kupferstichkabinett, Inv. 130
 
@@ -1102,6 +1105,6 @@ François Avril and Patricia Stirnemann were (as always) especially helpful and 
 
 [^61]: Wescher, *Beschreibendes Verzeichnis der Miniaturen*, 213, 93, and 213, respectively
 
-[^62]: Burton B. Fredericksen, *The Burdens of the Wealth: Paul Getty and His Museum* (Bloomington, IN: Archway, 2015), 24–36. The Wescher provenance of the Getty cutting was first proposed in Kidd, “A Collector’s Mark Re-Interpreted.”
+[^62]: Burton B. Fredericksen, *The Burdens of Wealth: Paul Getty and His Museum* (Bloomington, IN: Archway, 2015), 24–36. The Wescher provenance of the Getty cutting was first proposed in Kidd, “A Collector’s Mark Re-Interpreted.”
 
 [^63]: Additions: Inv. 132r, 133v, Min. 4678; erasures: Inv. 130r, 134v, 141r, 146v, Min. 1906v, 4683r; later notes: capitulum, Inv. 132v, 145v, 149r, 157v, Min. 4679r, 4683r, 4684r; reading marks: Inv. 132r.
