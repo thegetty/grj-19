@@ -10,7 +10,7 @@ figure_list:
     label: "Fig. 2. —"
     src: figures/sahragard-02.jpg
     zoom: true
-    caption: "**Double-page spread from a Qur&apos;an produced in Isfahan, 327 AH/939 CE, containing the verse count plus the number of words, letters, and diacritical points;** ink on paper, each folio: 9 x 11 cm. Mashhad, Library of Astan Quds Razavi, no. 3013, fols. 1v–2r."
+    caption: "**Double-page spread from a Qur&apos;an produced in Isfahan, 327 AH/939 CE, containing the verse count plus the number of words, letters, and diacritical points;** ink on paper, each folio: 9 × 11 cm. Mashhad, Library of Astan Quds Razavi, no. 3013, fols. 1v–2r."
     alt: "Manuscript spread showing two golden braided frames, each with medallions and containing five lines of golden Arabic script."
   - id: "fig-1-3"
     label: "Fig. 3. —"
@@ -28,13 +28,13 @@ figure_list:
     label: "Fig. 5. —"
     src: figures/sahragard-05.jpg
     zoom: true
-    caption: "**Two pages of a Qur&apos;an copied probably for the Buyyid dynasty's court by al-Abbās b. Muhammad al-Qazvīnī, date unknown, ink on paper, 19 x 13 cm.** Mashhad, Library of Astan Quds Razavi, no. 3012, fols. 1r–2v."
+    caption: "**Two pages of a Qur&apos;an copied probably for the Buyyid dynasty's court by al-Abbās b. Muhammad al-Qazvīnī, date unknown, ink on paper, 19 × 13 cm.** Mashhad, Library of Astan Quds Razavi, no. 3012, fols. 1r–2v."
     alt: "Damaged manuscript spread showing double-bordered golden frames with red ground, each containing two lines of Arabic script."
   - id: "fig-1-6"
     label: "Fig. 6. —"
     src: figures/sahragard-06.jpg
     zoom: true
-    caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qur&apos;an endowed to the Imam Riza Shrine, probably 4th century AH/10th century CE,** **ink on paper, 13 x 18 cm.** Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
+    caption: "**Sura heading of *al-anʾām* copied in Early Abbasid script in the Qur&apos;an endowed to the Imam Riza Shrine, probably 4th century AH/10th century CE,** **ink on paper, 13 × 18 cm.** Mashhad, Library of Astan Quds Razavi, no. 5015, fol. 6v."
     alt: "Manuscript page with black Arabic script, red dots, two central lines of golden script, and a golden medallion on the left."
   - id: "table-1-1"
     label: "Table 1. —"
@@ -45,7 +45,7 @@ figure_list:
     label: "Fig. 1. —"
     src: figures/alai-kidd-01.jpg
     zoom: true
-    caption: "**Historiated initial *V* (*Verbum*) with the prophet Micah, ca. 1160s, tempera colors and inks on parchment, cutting: 13.7 x 13.5 cm.** Los Angeles, J. Paul Getty Museum, Ms. 38 (89.MS.45)."
+    caption: "**Historiated initial *V* (*Verbum*) with the prophet Micah, ca. 1160s, tempera colors and inks on parchment, cutting: 13.7 × 13.5 cm.** Los Angeles, J. Paul Getty Museum, Ms. 38 (89.MS.45)."
     alt: "A robed man with halo, standing within a large initial."
   - id: "fig-2-2"
     label: "Fig. 2. —"

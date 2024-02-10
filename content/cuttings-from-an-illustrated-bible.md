@@ -852,7 +852,7 @@ Zephaniah 3:20 (end); Haggai 1:1–9
 
 verso: “\[quad\]drigam et ascensorem eius. . . . Explicit Aggeus propheta. Incipit Zacharias propheta. IN mense octauo . . . comprehenderunt pa\[tres\]”
 
-Carthusian letter “.*T.*” and plummet numbers “*vi*” at Haggai 1:1 and “*vii*” at Haggai 1:9
+Carthusian letter “.*T.*” and plummet numbers “*vi*” at Haggai 1:1 and “*vii*” at Haggai&#160;1:9
 
 Haggai 2:23–24 (end); Zechariah 1:1–6.
 
