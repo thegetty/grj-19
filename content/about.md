@@ -104,10 +104,10 @@ GRJ@getty.edu.
 {% endif %}
 {% endfor %}
 
-[doi:]{.small-caps} {{ publication.identifier.doi }}
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
 
-issn: {{ publication.identifier.issn }}
-e-issn: {{ publication.identifier.e_issn }} {.small-caps}
+ISSN: {{ publication.identifier.issn }}
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
 
 </div>
 

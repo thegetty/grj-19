@@ -38,9 +38,9 @@ outputs:
 {% endif %}
 {% endfor %}
 
-[doi:]{.small-caps} {{ publication.identifier.doi }}
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
 
 ISSN: {{ publication.identifier.issn }} 
-E-ISSN: {{ publication.identifier.e_issn }} {.small-caps}
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
 
 {% endbackmatter %}

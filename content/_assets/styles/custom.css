@@ -57,6 +57,11 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   font-feature-settings: "smcp";
   font-variant-caps: small-caps; /* for PrinceXML support */
 }
+.small-caps--lowercase {
+  font-feature-settings: "smcp";
+  font-variant-caps: small-caps; /* for PrinceXML support */
+  text-transform: lowercase;
+}
 
 .underline {
   text-decoration: underline;
