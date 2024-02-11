@@ -340,7 +340,8 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   display: none;
 }
 #section-abstract summary p,
-#section-cite summary p {
+#section-cite summary p,
+.page-tools__heading {
   color: var(--accent-color);
 }
 #section-abstract p,

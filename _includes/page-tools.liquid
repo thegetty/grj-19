@@ -8,7 +8,17 @@
       {% endif %}
       {% if abstract %}
       {% accordion 'Abstract' %}
-      {{ abstract }}
+
+      {{ abstract | markdownify }}
+
+      {% if keywords %}
+
+      Keywords {.page-tools__heading}
+      
+      {{ keywords | markdownify }}
+
+      {% endif %}
+
       {% endaccordion %}
       {% endif %}
       {% if doi %}
