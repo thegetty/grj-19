@@ -149,13 +149,13 @@ This article originated as an attempt to think through a challenge Nada Shabout 
 
 [^3]: Jarema, “Oblicze Sztuki Polskiej.”
 
-[^4]: Jewad Selim, letter to Khaldun al-Husri, copied into 23 September 1943 diary entry, in Jabra Ibrahim Jabra, *Al-Riḥla al-Thāmina: Dirāsāt Naqdiyya* (Saida: Maktabat al-ʿAṣrīyya, 1967), 159. Two notes regarding Selim’s diary warrant mention here. First, when Selim died suddenly in 1961, a diary and an early sketchbook passed into the possession of Jabra Ibrahim Jabra, a Palestinian literary critic who moved to Baghdad in 1948 and became a principal chronicler of Iraqi modern arts. Jabra published selected entries in two venues: the journal *Ḥiwār,* in February 1964, and a book of collected writings, *Al-Riḥla al-Thāmina,* in 1967 (hereafter *RT*). Even though the same entries appear in both publications, the versions in *Ḥiwār* are slightly more abridged than those in *RT* (although, in one instance, *Ḥiwār* contains text not included in *RT*). I cite page numbers from *RT*. Second, the date of this particular diary entry, and consequently of the letter, is uncertain. When Jabra published the text *Ḥiwār*, it carried a 23 September 1943 date; however, in *RT,* it is dated to 23 July 1943. Contextual references seem consistent with a September date, which I use here.
+[^4]: Jewad Selim, letter to Khaldun al-Husri, copied into 23 September 1943 diary entry, in Jabra Ibrahim Jabra, *Al-Riḥla al-Thāmina: Dirāsāt Naqdiyya* (Saida: Maktabat al-ʿAṣrīyya, 1967), 159. Two notes regarding Selim’s diary warrant mention here. First, when Selim died suddenly in 1961, a diary and an early sketchbook passed into the possession of Jabra Ibrahim Jabra, a Palestinian literary critic who moved to Baghdad in 1948 and became a principal chronicler of Iraqi modern arts. Jabra published selected entries in two venues: the journal *Ḥiwār,* in February 1964, and a book of collected writings, *Al-Riḥla al-Thāmina,* in 1967 (hereafter *RT*). Even though the same entries appear in both publications, the versions in *Ḥiwār* are slightly more abridged than those in *RT* (although, in one instance, *Ḥiwār* contains text not included in *RT*). I cite page numbers from *RT*. Second, the date of this particular diary entry, and consequently of the letter, is uncertain. When Jabra published the text *Ḥiwār*, it carried a 23 September 1943 date; however, in *RT,* it is dated to 23 July 1943. Contextual references seem consistent with a September date, which I use here.
 
 [^5]: “Yaʿīsh lil-fann wa-lil-fann faqaṭ.” Jamil Hamoudi, “Mushkilat al-Jīl al-Jadīd,” *ʿAshtarūt,* no. 3 (1943): 15. As I detail later in this article, *ʿAshtarūt* was a handwritten journal that Hamoudi produced while attending the Institute of Fine Arts in Baghdad.
 
-[^6]: Siham Ahmad, “Al-Maʿraḍ al-Sanawī al-Thālath li-Aṣdiqāʾ al-Fann,” *ʿAshtarūt* (February 1944): n.p.
+[^6]: Siham Ahmad, “Al-Maʿraḍ al-Sanawī al-Thālath li-Aṣdiqāʾ al-Fann,” *ʿAshtarūt* (February 1944): n.p.
 
-[^7]: Jewad Selim, interviewed in Jamil Hamoudi, “Khams Daqāʾiq maʿa al-Naḥḥāt al-ʿIrāqī,” *Al-Jawhara,* no. 2 (31 July 1945): 17.
+[^7]: Jewad Selim, interviewed in Jamil Hamoudi, “Khams Daqāʾiq maʿa al-Naḥḥāt al-ʿIrāqī,” *Al-Jawhara,* no. 2 (31 July 1945): 17.
 
 [^8]: In the 1980s, a number of Iraq artists commented on the era retrospectively. Buland al-Haidari, a contemporary of Selim, emphasized the “how” of painting in “Jawād Salīm wa Fāʾiq Ḥassan,” *Funūn ʿArabiyya,* no. 2 (January 1981): 108–9. Artist Shakir Hassan Al Said, who had studied with Selim and Faiq Hassan, drew on testimony by Hassan in a 1983 study of Iraqi art movements to emphasize the “indirect,” discursive quality of the Polish impact on Iraqi attitudes. See Al Said, *Fuṣūl min Tārīkh al-Ḥaraka al-Tashkīliyya fī al-ʿIrāq,* vol. 1 (Baghdad: Ministry of Culture and Information, 1983), 100–101. Subsequent discussions of the Polish influence in American and European scholarship include Silvia Naef, *À la recherche d’une modernité arabe: L'évolution des arts plastiques en Égypte, au Liban et en Irak* (Geneva: Slatkine, 1996), esp. 219–29; Nada Shabout, *Modern Arab Art: Formation of Arab Aesthetics* (Gainesville: University Press of Florida, 2007), 28; Saleem Al-Bahloly, “History Regained: A Modern Artist in Baghdad Encounters a Lost Tradition of Painting,” *Muqarnas*, no. 35 (2018): 229–72; Amin Alsaden, “Alternative Salons: Cultivating Art and Architecture in the Domestic Spaces of Post–World War II Baghdad,” in *The Art of the Salon in the Arab Region: Politics of Taste Making,* ed. Nadia von Maltzahn and Monique Bellan (Beirut: Ergon Verlag Wurzburg, 2018), 165–206; and Sarah Johnson, “Battle Ground: Environmental Determinism and the Politics of Painting the Iraq Landscape,” *Journal of Contemporary Iraq & The Arab World* 15, nos. 1–2 (2021): 41–65.
 
@@ -193,7 +193,7 @@ This article originated as an attempt to think through a challenge Nada Shabout 
 
 [^25]: See Bawden’s much later interview with the Imperial War Museum, “Bawden, Edward (Oral History),” 1980, audio recording, 4622, reel 3, 27:03, https://www.iwm.org.uk/collections/item/object/80004582. Bawden is mentioned in passing in Jewad Selim, diary entry, 20 April 1944, *RT*, 168.
 
-[^26]: Dia Azzawi, *Fann al-Mulṣaqāt fī al-ʿIrāq* (Baghdad: Ministry of Information, 1974), 25.
+[^26]: Dia Azzawi, *Fann al-Mulṣaqāt fī al-ʿIrāq* (Baghdad: Ministry of Information, 1974), 25.
 
 [^27]: Kenneth Wood, “Al-Fann Tanāquḍ Gharīb,” *Al-Fikr al-Hadīth,* no. 3 (December 1945): 90–92.
 
@@ -299,11 +299,11 @@ This article originated as an attempt to think through a challenge Nada Shabout 
 
 [^78]: Jamil Hamoudi, “Lamḥa ʿan al-Fann al-Islāmī,” *ʿAshtarūt*, no. 3 (1943): 53–55.
 
-[^79]: Initial inspection of the selected images suggests that, in addition to the Faure volumes, Hamoudi and Selim took samples from studies of Islamic art published in Egypt, including Ahmad Taymur Pasha, *Al-Taṣwīr ʿind al-ʿArab*, ed. Z. M. Hassan (Cairo: Maṭbʿat Lajnat al-Taʾlīf wa-al-Tarjama wa-al-Nashr, 1942); and Zaki Muhammad Hasan, *Kunūz al-Fāṭimīyīn* (Cairo: Maṭbaʿat Dār al-Kutub al-Miṣrīya, 1937).
+[^79]: Initial inspection of the selected images suggests that, in addition to the Faure volumes, Hamoudi and Selim took samples from studies of Islamic art published in Egypt, including Ahmad Taymur Pasha, *Al-Taṣwīr ʿind al-ʿArab*, ed. Z. M. Hassan (Cairo: Maṭbʿat Lajnat al-Taʾlīf wa-al-Tarjama wa-al-Nashr, 1942); and Zaki Muhammad Hasan, *Kunūz al-Fāṭimīyīn* (Cairo: Maṭbaʿat Dār al-Kutub al-Miṣrīya, 1937).
 
 [^80]: Both the so-called Persian drawing—actually a fifteenth-century Ottoman copy of a drawing by Venetian artist Gentile Bellini in the Ottoman court—and its erroneous attribution appear in Faure, *L'art médiéval,* 231.
 
-[^81]: Nizar Selim, *L’art contemporain en Iraq*, 60; and Jabra, *Nuṣb al-Ḥurrīya,* 176. For discussion of the spread of Islam as an “infinite dream” expressing itself in different buildings and ornamental schema, see Faure, *L'art médiéval,* 212–13, 222.
+[^81]: Nizar Selim, *L’art contemporain en Iraq*, 60; and Jabra, *Nuṣb al-Ḥurrīya,* 176. For discussion of the spread of Islam as an “infinite dream” expressing itself in different buildings and ornamental schema, see Faure, *L'art médiéval,* 212–13, 222.
 
 [^82]: Selim, letter to al-Husri, diary entry, 23 September 1943, in *RT*, 161.
 
@@ -319,9 +319,9 @@ This article originated as an attempt to think through a challenge Nada Shabout 
 
 [^88]: Selim, letter to al-Husri, diary entry, 16 November 1944, in *RT*, 173.
 
-[^89]: Jabra, *Nuṣb al-Ḥurrīya,* 176.
+[^89]: Jabra, *Nuṣb al-Ḥurrīya,* 176.
 
-[^90]: Jabra, *Nuṣb al-Ḥurrīya,* 176. The sentence is “Nous constatons qu’il multiplie notre ferveur à vivre et nous fait oublier la mort,” in Élie Faure, *Histoire de l'art: L'esprit des formes* (Paris: G. Crès, 1927), 452. Jabra shares that Selim copies Faure’s description of art and play into his sketchbook as well.
+[^90]: Jabra, *Nuṣb al-Ḥurrīya,* 176. The sentence is “Nous constatons qu’il multiplie notre ferveur à vivre et nous fait oublier la mort,” in Élie Faure, *Histoire de l'art: L'esprit des formes* (Paris: G. Crès, 1927), 452. Jabra shares that Selim copies Faure’s description of art and play into his sketchbook as well.
 
 [^91]: The most detailed account of Art and Liberty is Sam Bardaouil, *Surrealism in Egypt: Modernism and the Art and Liberty Group* (London: I. B. Tauris, 2017).
 
