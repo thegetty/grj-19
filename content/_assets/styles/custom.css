@@ -122,6 +122,10 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   display: none;
 }
 
+.highlight-link a {
+  color: var(--accent-color) !important;
+}
+
 /* COVER
 ============================================================================= */
 .quire-cover__overlay {
@@ -854,8 +858,28 @@ strong {
   font-weight: 600;
   letter-spacing: .5px;
 }
-.quire-menu__formats {
+.quire-menu__formats--related-resources,
+.quire-menu__formats--other-formats,
+.quire-menu__formats--cite-this {
   display: none;
+}
+.quire-menu__formats--masthead-links h6,
+.quire-menu__formats--masthead-links .menu-list {
+  padding-bottom: .75rem;
+}
+.quire-menu__formats--masthead-links .menu-list li {
+  margin: 0 0 .5rem;
+}
+.quire-menu__formats--masthead-links .menu-list a {
+  padding: 0;
+  margin-left: 0;
+  color: var(--accent-color-highlight);
+}
+.quire-menu__formats--masthead-links .menu-list a:hover {
+  text-decoration: none;
+}
+.quire-menu__formats--masthead-links p {
+  margin-bottom: .5rem;
 }
 .quire-menu .page-item .page-item a.active, 
 .quire-menu .section-item .page-item a.active {

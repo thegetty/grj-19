@@ -93,6 +93,9 @@ Added download links to header area
 **_includes/components/menu/item.js**
 Display subtitles and contributors in sidebar menu
 
+**_includes/components/menu/resources.js**
+Add block for journal masthead info, and classes to others for css selecting
+
 **_includes/components/navigation.js**
 Wrapped nav labels in missing span to enable hiding on mobile
 

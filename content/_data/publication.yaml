@@ -119,10 +119,6 @@ resource_link:
     link_relation: alternate
     url: https://shop.getty.edu/#
   - type: footer-link
-    name: About
-    link_relation: about
-    url: https://www.getty.edu/research/publications/grj/
-  - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
     url: https://www.getty.edu/legal/privacy.html
@@ -130,6 +126,12 @@ resource_link:
     name: Terms of Use
     link_relation: terms-of-service
     url: https://www.getty.edu/legal/copyright.html
+  - type: masthead
+    name: Past Issues & General Information
+    url: https://www.getty.edu/publications/grj/
+  - type: masthead
+    name: Submissions
+    url: https://grj.scholasticahq.com/for-authors
 
 
 
