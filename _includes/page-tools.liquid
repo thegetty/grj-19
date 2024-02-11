@@ -31,15 +31,12 @@
       {% endif %}
       {% if doi %}
       {% accordion 'Cite' %}
-      
-      **Article DOI**
-      <a href="{{ doi }}" class="doi-link">{{ doi }}</a>  
-      
+    
       **Chicago**
-      {{ chicagoContributor }}, “{% pageTitle title=title subtitle=subtitle %},” *{{ publication.title }}*, no. {{ publication.series_issue_number }} ({{ publication.pub_date | date: "%Y" }}), {{ publication.url }}{{ page.url | remove_first: "/" }}.
+      {{ chicagoContributor }}, “{% pageTitle title=title subtitle=subtitle %},” *{{ publication.title }}*, no. {{ publication.series_issue_number }} ({{ publication.pub_date | date: "%Y" }}), {{ doi }}.
       
       **MLA**
-      {{ mlaContributor }}. “{% pageTitle title=title subtitle=subtitle %}.” *{{ publication.title }}*, no. {{ publication.series_issue_number }}, {{ publication.pub_date | date: "%Y" }}, {{ publication.url }}{{ page.url | remove_first: "/" }}.
+      {{ mlaContributor }}. “{% pageTitle title=title subtitle=subtitle %}.” *{{ publication.title }}*, no. {{ publication.series_issue_number }}, {{ publication.pub_date | date: "%Y" }}, {{ doi }}.
       
       {{ copyright | markdownify }}
       {% endaccordion %}
