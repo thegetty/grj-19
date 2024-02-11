@@ -70,9 +70,7 @@ git clone --recursive https://github.com/thegetty/grj-19.git
     magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/_assets/image*.jpg
     ```
 
-4. In `_site/pdf.html` find `_assets/tables/sahragard-table-01-images/` and replace with `_assets/`
-
-5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
