@@ -80,6 +80,12 @@ TK
 
 ### Customizations
 
+**_includes/components/figure/image/element.js**
+**_includes/components/figure/image/html.js**
+**_includes/components/figure/image/image-tag.js**
+**_includes/components/figure/caption.js**
+Added `longdesc` support
+
 **_includes/components/copyright/licensing.js**
 Updated the image exclusions language and moved print/pdf statement to new location
 

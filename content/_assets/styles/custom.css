@@ -617,6 +617,26 @@ strong {
 .q-figure__label--below .q-figure__modal-link:hover svg {
   fill: var(--accent-color);
 }
+.q-figure__longdesc {
+  margin-left: 1rem;
+  margin-top: 1px;
+}
+.q-figure__longdesc summary {
+  cursor: pointer;
+  margin-left: -1rem;
+  font-feature-settings: "smcp";
+  text-transform: lowercase;
+}
+.q-figure__longdesc summary::marker {
+  content: '+ \00A0\00A0';
+}
+.q-figure__longdesc[open] summary::marker {
+  content: '— ';
+}
+/* Safari doesn't accept the custom marker */
+summary::-webkit-details-marker {
+  font-size: .75em;
+}
 
 /* CONTRIBUTOR BIOS
 ============================================================================= */
