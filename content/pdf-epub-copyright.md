@@ -1,4 +1,5 @@
 ---
+title: Copyright
 layout: base.11ty.js
 order: 5
 classes:
