@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
     const mediaSourceLink = sourceUrl
       ? `<span class="q-figure__caption-embed-link"><a href="${sourceUrl}"><em>${sourceUrl}</em></a></span>`
       : ''
-    const longDescElement = longdesc ? `<details class="q-figure__longdesc" id="${id}-longdesc" data-outputs-exclude="pdf"><summary>Image Description</summary>${longdesc}</details>` : ''
+    const longDescElement = longdesc ? `<details class="q-figure__longdesc visually-hidden" id="${id}-longdesc" data-outputs-exclude="pdf"><summary>Image Description</summary>${longdesc}</details>` : ''
     return oneLine`
       <figcaption class="q-figure__caption">
         ${mediaSourceLink}
