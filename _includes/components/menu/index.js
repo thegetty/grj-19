@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Remove page citations from sidebar
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -41,27 +45,6 @@ module.exports = function(eleventyConfig) {
         </nav>
 
         ${menuResources()}
-
-        <div class="quire-menu__formats">
-          <h6>Cite this Page</h6>
-          <div class="cite-this">
-            <span class="cite-this__heading">
-              Chicago
-            </span>
-            <span class="cite-this__text">
-            ${citation({ context: 'page', page: pageData, type: 'chicago' })}
-            </span>
-          </div>
-
-          <div class="cite-this">
-            <span class="cite-this__heading">
-              MLA
-            </span>
-            <span class="cite-this__text">
-              ${citation({ context: 'page', page: pageData, type: 'mla' })}
-            </span>
-          </div>
-        </div>
 
         <footer class="quire-menu__footer" role="contentinfo">
           ${copyright()}

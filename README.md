@@ -109,6 +109,9 @@ Display subtitles and contributors in sidebar menu
 **_includes/components/menu/resources.js**
 Add block for journal masthead info, and classes to others for css selecting
 
+**_includes/components/menu/index.js**
+Remove Chicago and MLA page citations from sidebar
+
 **_includes/components/navigation.js**
 Wrapped nav labels in missing span to enable hiding on mobile
 
