@@ -44,7 +44,7 @@ project_team:
   - Michelle Deemer, *Production*
   - Jeffrey Cohen, *Cover Design*
   - Greg Albers, *Digital Manager*
-  - Erin Cecele Dunigan, *Digital Assistant*
+  - Erin Cecele Dunigan, Kate Justement, *Digital Assistant*
 
 
 identifier:
@@ -141,11 +141,17 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: 
-    name: 
-    identifer: 
-  - type: 
-    name: 
+  - type: bisac
+    name: Criticism & Theory
+    identifer: ART009000ART
+  - type: bisac
+    name: ART / Annuals
+    identifier: ART054000
+  - type: bisac
+    name: ART / Collections, Catalogs, Exhibitions / Permanent Collections
+    identifier: ART006020
+  - type: keyword
+    name: "open-access, Quire, Kufic Quran, Early Abbasid, Grande Chartreuse, Jane Dieulafoy, Ilkhanid monuments, Emamzadeh Yahya, plundered tomb, Iraq, Polish painters, Baghdad, East Germany, samizdat, artist book"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -165,4 +171,4 @@ repository_url: https://github.com/thegetty/grj-19
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: cover-promo.jpg
