@@ -104,15 +104,15 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (5.2 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/grj-19.pdf
+    url: /_assets/downloads/grj-19.pdf
   - type: other-format
-    name: EPUB (## MB)
+    name: EPUB (41.4 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/grj-19.epub
+    url: /_assets/downloads/grj-19.epub
   - type: other-format
     name: Paperback
     media_type: print
