@@ -84,6 +84,12 @@ TK
 **_includes/components/figure/caption.js**
 Added `longdesc` support
 
+**_includes/components/head.js**
+**_includes/components/head-tags/dublin-core.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/copyright/licensing.js**
 Updated the image exclusions language and moved print/pdf statement to new location
 

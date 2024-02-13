@@ -9,9 +9,26 @@ const path = require('path')
  * @return     {String}  HTML meta and link elements
  */
 module.exports = function(eleventyConfig) {
+  const contributors = eleventyConfig.getFilter('contributors')
+  const removeHTML = eleventyConfig.getFilter('removeHTML')
   const { publication } = eleventyConfig.globalData
+  const { description, series_issue_number, title } = publication
 
-  return function (params) {
+  return function ({ page }) {
+    const socialAuthor = contributors({ context: page.pageContributors, format: 'string' })
+    const socialAuthorConnector = ', by '
+    const socialAuthorString = socialAuthorConnector.concat(removeHTML(socialAuthor))
+
+    const socialDescription = ( page.abstract ) 
+      ? page.abstract
+      : description.one_line || description.full
+  
+    const socialTitle = ( page.layout == 'cover' )
+      ? title.concat( ' ', series_issue_number )
+      : ( page.abstract )
+      ? page.title.concat( socialAuthorString, ' | ', title, ' ', series_issue_number )
+      : page.title.concat( ' | ', title, ' ', series_issue_number )
+      
     const links = [
       { rel: 'schema.dcterms', href: 'https://purl.org/dc/terms/' }
     ]
@@ -19,14 +36,14 @@ module.exports = function(eleventyConfig) {
     const meta = [
       {
         name: 'dcterms.title',
-        content: publication.title },
+        content: socialTitle },
       {
         name: 'dcterms.date',
         content: publication.pub_date
       },
       {
         name: 'dcterms.description',
-        content: publication.description.one_line || publication.description.full
+        content: socialDescription
       },
       {
         name: 'dcterms.identifier',
