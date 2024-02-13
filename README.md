@@ -96,6 +96,9 @@ Updated the image exclusions language and moved print/pdf statement to new locat
 **_includes/components/icons.js**
 Replaced default `fullscreen-icon` with a 600 weight version to match caption styles
 
+**_includes/components/license-icons.js**
+Removed SVG icons from EPUB output as they were causing validation issues
+
 **_includes/components/menu/header.js**
 Added series number and year to menu header for journal publication, uses added `series_issue_number` attribute in publication.yaml
 Added download links to header area
