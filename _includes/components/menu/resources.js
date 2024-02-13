@@ -36,7 +36,7 @@ module.exports = function(eleventyConfig) {
             <p>${markdownify(description.full)}</p>
             <p><span class="small-caps--lowercase">DOI:</span> ${identifier.doi}</p>
             <p class="small-caps--lowercase">ISSN: ${identifier.issn}<br />
-            E-ISSN</p>
+            E-ISSN: ${identifier.e_issn}</p>
           </div>
         </div>`
       : ''
