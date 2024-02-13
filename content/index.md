@@ -38,8 +38,6 @@ outputs:
 {% endif %}
 {% endfor %}
 
-[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
-
 ISSN: {{ publication.identifier.issn }} 
 E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
 

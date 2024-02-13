@@ -39,6 +39,8 @@ Number {{ publication.series_issue_number }} • {{ publication.pub_date | date:
 {% endif %}
 {% endfor %}
 
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
+
 </div>
 <div class="revision-history">
 
@@ -103,8 +105,6 @@ GRJ@getty.edu.
 - [{{ link.name }}]({{ link.url }}) {.highlight-link}
 {% endif %}
 {% endfor %}
-
-[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
 
 ISSN: {{ publication.identifier.issn }}
 E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}

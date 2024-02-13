@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const siteTitle = eleventyConfig.getFilter('siteTitle')
-  const { contributor: publicationContributors, contributor_as_it_appears, resource_link: resourceLinks, series_issue_number, pub_date } = eleventyConfig.globalData.publication
+  const { contributor: publicationContributors, contributor_as_it_appears, identifier, resource_link: resourceLinks, series_issue_number, pub_date } = eleventyConfig.globalData.publication
 
   const linkList = eleventyConfig.getFilter('linkList')
   const otherFormats = resourceLinks.filter(({ type }) => type === 'other-format')
@@ -62,6 +62,7 @@ module.exports = function(eleventyConfig) {
 
         <div class="quire-menu__header__formats" role="complementary" aria-label="downloads">
           ${otherFormatElement}
+          <a class="quire-menu__header__doi-link" href="${identifier.doi}">${identifier.doi}</a>
         </div>
         
       </header>

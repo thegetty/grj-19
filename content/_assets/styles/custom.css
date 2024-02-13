@@ -819,7 +819,8 @@ summary::-webkit-details-marker {
 .quire-menu__header__formats li {
   margin-bottom: .25rem !important;
 }
-.quire-menu__header__formats li a {
+.quire-menu__header__formats li a,
+.quire-menu__header__formats a.quire-menu__header__doi-link {
   padding: 0;
   margin-left: 0;
   color: var(--accent-color-highlight) !important;
@@ -829,7 +830,8 @@ summary::-webkit-details-marker {
 .quire__secondary .quire-menu a:hover {
   color: var(--accent-color-highlight) !important;
 }
-.quire__secondary .quire-menu__header__formats li a:hover {
+.quire__secondary .quire-menu__header__formats li a:hover,
+.quire__secondary .quire-menu a.quire-menu__header__doi-link:hover {
   color: #fff !important;
 }
 .quire__secondary .quire-menu a:hover svg,
@@ -888,12 +890,15 @@ summary::-webkit-details-marker {
 .quire-menu__formats--cite-this {
   display: none;
 }
-.quire-menu__formats--masthead-links h6,
-.quire-menu__formats--masthead-links .menu-list {
+.quire-menu__formats--masthead-links h6 {
   padding-bottom: .75rem;
 }
+.quire-menu__formats--masthead-links .menu-list {
+  padding-bottom: .25rem;
+  margin-top: .5rem;
+}
 .quire-menu__formats--masthead-links .menu-list li {
-  margin: 0 0 .5rem;
+  margin: 0 0 .25rem;
 }
 .quire-menu__formats--masthead-links .menu-list a {
   padding: 0;
