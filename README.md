@@ -70,9 +70,7 @@ git clone --recursive https://github.com/thegetty/grj-19.git
     magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/_assets/image*.jpg
     ```
 
-4. In `_site/pdf.html` find `_assets/tables/sahragard-table-01-images/` and replace with `_assets/`
-
-5. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
@@ -80,11 +78,26 @@ TK
 
 ### Customizations
 
+**_includes/components/figure/image/element.js**
+**_includes/components/figure/image/html.js**
+**_includes/components/figure/image/image-tag.js**
+**_includes/components/figure/caption.js**
+Added `longdesc` support
+
+**_includes/components/head.js**
+**_includes/components/head-tags/dublin-core.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/copyright/licensing.js**
 Updated the image exclusions language and moved print/pdf statement to new location
 
 **_includes/components/icons.js**
 Replaced default `fullscreen-icon` with a 600 weight version to match caption styles
+
+**_includes/components/license-icons.js**
+Removed SVG icons from EPUB output as they were causing validation issues
 
 **_includes/components/menu/header.js**
 Added series number and year to menu header for journal publication, uses added `series_issue_number` attribute in publication.yaml
@@ -92,6 +105,9 @@ Added download links to header area
 
 **_includes/components/menu/item.js**
 Display subtitles and contributors in sidebar menu
+
+**_includes/components/menu/resources.js**
+Add block for journal masthead info, and classes to others for css selecting
 
 **_includes/components/navigation.js**
 Wrapped nav labels in missing span to enable hiding on mobile

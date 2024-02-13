@@ -1,4 +1,5 @@
 ---
+title: Masthead
 layout: base.11ty.js
 classes:
   - masthead

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added longdesc support
+//
 /**
  * Renders an image
  *
@@ -14,7 +18,7 @@ module.exports = function (eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
 
   return async function (figure, options) {
-    const { alt, isCanvas, isImageService, isSequence, staticInlineFigureImage } = figure
+    const { alt, id, isCanvas, isImageService, isSequence, longdesc, staticInlineFigureImage } = figure
     const { interactive, preset } = options
     if (preset) {
       figure.preset = preset
@@ -23,19 +27,19 @@ module.exports = function (eleventyConfig) {
     switch (true) {
       case isSequence:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive })
         } else {
           return await imageSequence(figure, options)
         }
       case isCanvas:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive })
         } else {
           return canvasPanel(figure)
         }
       case isImageService:
         if (!interactive && staticInlineFigureImage) {
-          return imageTag({ alt, src: staticInlineFigureImage, isStatic: !interactive })
+          return imageTag({ alt, id, longdesc, src: staticInlineFigureImage, isStatic: !interactive })
         } else {
           return imageService(figure)
         }

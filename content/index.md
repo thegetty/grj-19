@@ -28,4 +28,19 @@ outputs:
 - {{ person | markdownify }}
 {% endfor %}
 
+---
+
+{{ publication.description.full | markdownify }}
+
+{% for link in publication.resource_link %}
+{% if link.type == "masthead" %}
+- [{{ link.name }}]({{ link.url }}) {.highlight-link}
+{% endif %}
+{% endfor %}
+
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
+
+ISSN: {{ publication.identifier.issn }} 
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
+
 {% endbackmatter %}

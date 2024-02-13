@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added longdesc support
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -24,7 +28,8 @@ module.exports = function(eleventyConfig) {
       credit,
       id,
       isSequence,
-      label
+      label,
+      longdesc
     } = figure
 
     const labelElement = figureLabel({ id, label, isSequence })
@@ -35,7 +40,7 @@ module.exports = function(eleventyConfig) {
     let imageElement = await figureImageElement(figure, { interactive: false })
     imageElement = figureModalLink({ content: imageElement, id })
 
-    const captionElement = figureCaption({ caption, content: labelElement, credit })
+    const captionElement = figureCaption({ caption, content: labelElement, credit, id, longdesc })
 
     return html`
       ${imageElement}

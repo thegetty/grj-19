@@ -40,13 +40,6 @@ Number {{ publication.series_issue_number }} • {{ publication.pub_date | date:
 {% endfor %}
 
 </div>
-<div class="journal-doi">
-
-## Journal DOI
-
-{{ publication.identifier.doi }}
-
-</div>
 <div class="revision-history">
 
 ## Revision History
@@ -101,13 +94,20 @@ GRJ@getty.edu.
 </div>
 <div class="identifiers">
 
-ISSN {{ publication.identifier.issn }}
-E-ISSN {{ publication.identifier.e_issn }} {.small-caps}
+## {{ publication.title }}
 
-ISBN ONLINE {{ publication.identifier.isbn_html }}
-ISBN PDF {{ publication.identifier.isbn_pdf }}
-ISBN EPUB {{ publication.identifier.isbn_epub }}
-ISBN PAPERBACK {{ publication.identifier.isbn_paperback }} {.small-caps}
+{{ publication.description.full | markdownify }}
+
+{% for link in publication.resource_link %}
+{% if link.type == "masthead" %}
+- [{{ link.name }}]({{ link.url }}) {.highlight-link}
+{% endif %}
+{% endfor %}
+
+[DOI:]{.small-caps--lowercase} {{ publication.identifier.doi }}
+
+ISSN: {{ publication.identifier.issn }}
+E-ISSN: {{ publication.identifier.e_issn }} {.small-caps--lowercase}
 
 </div>
 
