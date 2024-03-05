@@ -8,9 +8,9 @@ contributor:
   - first_name: "Keelan"
     last_name: "Overton"
     bio: "**Keelan Overton** is an independent scholar based in Santa Barbara, California."
-copyright: "© 2024 Keelan Overton"
+copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 19 (2024): 57–91 </span>© 2024 Keelan Overton"
 abstract: "This article explores the condition and reception of Varamin’s architectural heritage from the Ilkhanid period (1256–1353) during the late nineteenth century. I use two relatively untapped sources: the photographs of French traveler Jane Dieulafoy (1851–1916) and the account of Qajar statesman Eʿtemad al-Saltaneh (1843–96). Reading these sources in tandem paints a robust picture of Varamin when it was becoming known for luster tilework and its Emamzadeh Yahya tomb complex was being steadily plundered. While our travelers captured a seminal moment in Varamin’s history, this study ultimately moves beyond their frames and encourages a present-day appreciation of the city’s still-standing monuments."
-keywords: "luster tilework, Eʿtemad al-Saltaneh, Ilkhanid period, Iran, photography, monuments, plunder"
+keywords: "luster tilework, Eʿtemad al-Saltaneh, Ilkhanid period, Iran, photography, monuments, plunder, French (colonial), Persia"
 doi: https://doi.org/10.59491/BPZM5498
 pdf_download: true
 ---
@@ -343,7 +343,7 @@ I am sincerely grateful to Thomas Galifot for alerting me to Dieulafoy’s album
 
 [^85]: For a list of the six intact examples dated between 612 AH/1215 and 734 AH/1334, see Blair, “Art as Text,” 409, table 1. On the dispersed mihrab once in the tomb of Shaykh ʿAbdosamad (ʿAbd al-Samad, d. 1299–1300) at Natanz, see Anaïs Leone, “New Data on the Luster Tiles of ʿAbd al-Samad’s Shrine in Natanz, Iran,” *Muqarnas* 38 (2021): 336–48. On the dispersed mihrab once in the tomb of Imam ʿAli at Najaf, see Alireza Bahreman, *Bāzshenāsī va moʿarefī-ye meḥrāb-e farāmūsh shodeh ḥaram-e moṭaḥar-e emām ‘Alī* \[Recognition of and introduction to the forgotten mehrab of the tomb of Imam ʿAli\], *Honarhā-ye Tajasommī* 26, no. 1 (1400 SH/2021): 55–67.
 
-[^86]: This sheet has since been replaced by a permanent barrier. For additional recent images of the tomb, see the many figures in Overton and Maleki, “The Emamzadeh Yahya”; and Overton, “Framing, Performing, Forgetting.” As of August 2023, sixty-three photographs of the site have been posted to Google Maps, all taken between 2021 and 2023. Such crowdsourced images are excellent resources for seeing the shrine in a more current state. Google Maps, Imamzadeh Yahya Varamin, , https://maps.app.goo.gl/rcLwGQL7dFygqwNk7. 
+[^86]: This sheet has since been replaced by a permanent barrier. For additional recent images of the tomb, see the many figures in Overton and Maleki, “The Emamzadeh Yahya”; and Overton, “Framing, Performing, Forgetting.” As of August 2023, sixty-three photographs of the site have been posted to Google Maps, all taken between 2021 and 2023. Such crowdsourced images are excellent resources for seeing the shrine in a more current state. Google Maps, Imamzadeh Yahya Varamin, https://maps.app.goo.gl/rcLwGQL7dFygqwNk7. 
 
 [^87]: Blair, “Art as Text,” 418.
 
@@ -403,7 +403,7 @@ I am sincerely grateful to Thomas Galifot for alerting me to Dieulafoy’s album
 
 [^115]: Carey, *Persian Art,* 97–100, 102–5, and 99, fig. 91 (an Emamzadeh Yahya star tile).
 
-[^116]: Masuya, “Persian Tiles,” 54, appendix. Dieulafoy also photographed the luster mihrab in situ in the Masjed-e Maydan (“Perse 1,” 77, no. 155). On this mihrab’s afterlife, see Markus Ritter, “The Kashan Mihrab in Berlin: A Historiography of Persian Lustreware,” in *Persian Art: Image-Making in Eurasia,* ed. Yuka Kadoi (Edinburgh: Edinburgh University Press, 2018), 157–78; and this essay, [pp. 77–79](#pg77).
+[^116]: Masuya, “Persian Tiles,” 54, appendix. Dieulafoy also photographed the luster mihrab in situ in the Masjed-e Maydan (“Perse 1,” 77, no. 155). On this mihrab’s afterlife, see Markus Ritter, “The Kashan Mihrab in Berlin: A Historiography of Persian Lustreware,” in *Persian Art: Image-Making in Eurasia,* ed. Yuka Kadoi (Edinburgh: Edinburgh University Press, 2018), 157–78; and this essay, [pp. 77–80](#pg77).
 
 [^117]: See the many images in Leone, “New Data”; and the YouTube video "Tomb of Shaykh Abd-al Samad at Natanz" in Overton, “Framing, Performing, Forgetting,” https://youtu.be/-5q4jGA5x_I.
 
