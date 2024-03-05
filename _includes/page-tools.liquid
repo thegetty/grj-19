@@ -44,3 +44,8 @@
     </div>
   </div>
 </section>
+{% if copyright %}
+<section class="quire-page__content page-tools__copyright" data-outputs-exclude="html">
+{{ copyright | markdownify }}
+</section>
+{% endif %}
