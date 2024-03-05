@@ -12,6 +12,13 @@
   --quire-nav-font: var(--skolar-sans);
   --quire-nav-font-size: .865rem;
   --quire-nav-font-line-height: 1.375;
+
+  --border-width: 1px;
+}
+@media print {
+  :root {
+    --border-width: .5pt;
+  }
 }
 
 /* ORIGINAL SPECS
@@ -120,7 +127,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 
 .image-border img {
-  border: 1px solid black;
+  border: var(--border-width) solid black;
 }
 
 .q-lightbox-ui__fullscreen-button {
@@ -226,14 +233,14 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   width: 720px;
 }
 .quire-page__header .hero-body {
-  border-top: 1px solid var(--accent-color);
+  border-top: var(--border-width) solid var(--accent-color);
   margin-left: var(--large-indent);
   margin-right: 0;
   padding: 0;
   padding-bottom: var(--large-indent);
 }
 .quire-page.quire-contents .quire-page__header .hero-body {
-  border-bottom: 1px solid var(--accent-color);
+  border-bottom: var(--border-width) solid var(--accent-color);
 }
 @media print {
   .quire-page__header {
@@ -244,7 +251,6 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     margin-bottom: .5rem;
   }
   .quire-page__header .hero-body {
-    border-bottom: 1px solid var(--accent-color);
     min-height: 2.25in;
   }
   .quire-page__header__contributor {
@@ -269,8 +275,6 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   letter-spacing: 1px;
   font-weight: 600;
   margin-bottom: .5rem;
-  /* border-bottom: 1px solid var(--accent-color); */
-  /* padding-bottom: 1rem; */
   padding-top: 1rem;
   margin-top: -.75rem;
 }
@@ -311,7 +315,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   margin-bottom: 0;
   margin-left: var(--large-indent);
   margin-top: .75rem;
-  border-bottom: 1px solid var(--accent-color);
+  border-bottom: var(--border-width) solid var(--accent-color);
   font-family: var(--quire-nav-font);
   font-size: var(--quire-nav-font-size);
   font-weight: 400;
@@ -320,7 +324,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 #section-abstract:first-child ,
 #section-cite:first-child {
-  border-top: 1px solid var(--accent-color);
+  border-top: var(--border-width) solid var(--accent-color);
   padding-top: .6rem;
 }
 #section-cite {
@@ -376,7 +380,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     font-family: var(--quire-nav-font);
     font-size: var(--quire-nav-font-size);
     font-style: italic;
-    border-bottom: 1px solid var(--accent-color);
+    border-bottom: var(--border-width) solid var(--accent-color);
     margin-bottom: .5rem;
   }
 }
@@ -502,12 +506,13 @@ strong {
 .quire-page__content .container .content table th,
 .quire-page__content .container .content table td {
   border-color: #000;
-  border-left: 1px solid #000;
+  border-bottom: var(--border-width) solid #000;
 }
 .quire-page__content .container .content table th,
 .q-lightbox-slides__element--table th {
   background-color: var(--accent-color);
   border-bottom-width: 0;
+  border-left-width: var(--border-width);
   border-color: #fff;
   color: #fff;
   font-weight: 600;
@@ -631,10 +636,10 @@ strong {
 }
 .q-lightbox-slides__caption a {
   color: currentColor;
-  border-bottom: 1px dotted currentColor;
+  border-bottom: var(--border-width) dotted currentColor;
 }
 .q-lightbox-slides__caption a:hover {
-  border-bottom: 1px solid currentColor;
+  border-bottom: var(--border-width) solid currentColor;
 }
 .q-figure__label--below .q-figure__modal-link:hover svg {
   fill: var(--accent-color);
@@ -760,7 +765,7 @@ summary::-webkit-details-marker {
   margin-top: 4rem;
 }
 .quire-contents-list .menu-list .section-item > a:first-child {
-  border-top: 1px solid var(--accent-color);
+  border-top: var(--border-width) solid var(--accent-color);
   color: var(--accent-color);
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -812,8 +817,8 @@ summary::-webkit-details-marker {
 /* MENU
 ============================================================================= */
 .quire-menu__header {
-  border-bottom: 1px solid var(--accent-color-highlight);
-  border-top: 1px solid var(--accent-color-highlight);
+  border-bottom: var(--border-width) solid var(--accent-color-highlight);
+  border-top: var(--border-width) solid var(--accent-color-highlight);
   padding-top: 1rem;
   height: 400px;
   display: flex;
@@ -895,7 +900,7 @@ summary::-webkit-details-marker {
 }
 .quire-menu .section-item > a:first-child {
   text-transform: uppercase;
-  border-top: 1px solid var(--accent-color-highlight);
+  border-top: var(--border-width) solid var(--accent-color-highlight);
   padding-top: .625rem;
   margin-bottom: .625rem;
   color: var(--accent-color-highlight) !important;
@@ -964,8 +969,8 @@ summary::-webkit-details-marker {
     width: 3.75in;
   }
   .masthead_title {
-    border-top: 1px solid var(--accent-color);
-    border-bottom: 1px solid var(--accent-color);
+    border-top: var(--border-width) solid var(--accent-color);
+    border-bottom: var(--border-width) solid var(--accent-color);
     margin-top: 0 !important;
     min-height: 2.25in;
     padding-bottom: var(--large-indent);
@@ -1003,7 +1008,6 @@ summary::-webkit-details-marker {
     padding-top: var(--large-indent);
     padding-bottom: .75rem;
     border-top-width: 0;
-    border-bottom: 1px solid var(--accent-color);
   }
   .quire-page.masthead:not(.quire-cover) h1, 
   .masthead:not(.quire-cover) .quire-page__header__title {
@@ -1037,7 +1041,7 @@ summary::-webkit-details-marker {
   margin-top: var(--standard-indent);
   color: var(--accent-color);
   border-bottom-width: 0;
-  border-top: 1px solid var(--accent-color);
+  border-top: var(--border-width) solid var(--accent-color);
   margin-left: 0;
   font-weight: 600;
   font-style: normal;
@@ -1226,7 +1230,7 @@ button.global-accordion-collapse-all {
   margin-top: var(--standard-indent);
 }
 .quire-page__content .container .content table tr:first-child td {
-  border-top: 1px solid #000;
+  border-top: var(--border-width) solid #000;
 }
 .quire-page__content .container .content table td {
   border-left-width: 0;
