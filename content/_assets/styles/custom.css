@@ -1,7 +1,10 @@
 :root {
-  --accent-color: #800000;
-  --accent-color-highlight: #ff6464;
-  --accent-color-highlight: #ff8a8a;
+  --accent-color: #813436; /* same as $accent-color in variables.scss */
+  --accent-color-midtone: #ff7070;
+  --accent-color-highlight: #ffa8a8;
+
+  --sidebar-light: #f1f0ee;
+  --sidebar-midtone: #e3e1dd;
 
   --skolar: skolar-pe, serif;
   --skolar-sans: skolar-sans-pe, sans-serif;
@@ -19,6 +22,9 @@
   :root {
     --border-width: .5pt;
   }
+}
+body {
+  color: black;
 }
 
 /* ORIGINAL SPECS
@@ -251,6 +257,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
     margin-bottom: .5rem;
   }
   .quire-page__header .hero-body {
+    border-bottom: var(--border-width) solid var(--accent-color);
     min-height: 2.25in;
   }
   .quire-page__header__contributor {
@@ -284,7 +291,6 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   text-align: left;
   font-style: normal;
   font-size: 1.19rem;
-  color: #444;
   font-weight: 300;
 }
 .quire-page__content .container .content > h2:first-child {
@@ -505,8 +511,8 @@ strong {
 }
 .quire-page__content .container .content table th,
 .quire-page__content .container .content table td {
-  border-color: #000;
-  border-bottom: var(--border-width) solid #000;
+  border-color: black;
+  border-bottom: var(--border-width) solid black;
 }
 .quire-page__content .container .content table th,
 .q-lightbox-slides__element--table th {
@@ -548,9 +554,6 @@ strong {
 .quire-page__content .container .content table th {
   padding-left: 1em !important;
   padding-right: 1em;
-}
-.quire-page__content .container .content table td > em {
-  margin-left: -.75rem;
 }
 
 /* GROUP FIGURES
@@ -739,7 +742,7 @@ summary::-webkit-details-marker {
 }
 
 /* TOC
-============================================================================= */
+============================================================================ */
 .quire-contents .quire-page__header .hero-body {
   margin-left: 0;
 }
@@ -812,6 +815,9 @@ summary::-webkit-details-marker {
     padding-left: var(--large-indent);
     padding-right: 0;
   }
+  .table-of-contents-list .section-item {
+    page-break-before: always;
+  }
 }
 
 /* MENU
@@ -870,6 +876,10 @@ summary::-webkit-details-marker {
   line-height: var(--quire-nav-font-line-height);
   padding: 0;
   margin: 0;
+}
+.quire-menu__formats h6 {
+  color: var(--accent-color-midtone);
+  border-color: var(--accent-color-midtone);
 }
 .quire-menu .page-item a.active, 
 .quire-menu .section-item a.active,
@@ -1190,13 +1200,13 @@ p[lang="ar"] {
 
 /* Appendix in paper 2 */
 .quire-page__content .container .content #alai-kidd-appendix {
-  background-color: #fafaf5;
+  background-color: var(--sidebar-light);
   border-radius: .33rem;
   padding: 1rem var(--standard-indent);
   text-align: left;
 }
 .global-accordion-controls {
-  background-color: #fafaf5;
+  background-color: var(--sidebar-light);
   margin-bottom: 0;
   margin-top: 1.5rem;
   padding: .5rem 1rem;
@@ -1230,7 +1240,7 @@ button.global-accordion-collapse-all {
   margin-top: var(--standard-indent);
 }
 .quire-page__content .container .content table tr:first-child td {
-  border-top: var(--border-width) solid #000;
+  border-top: var(--border-width) solid black;
 }
 .quire-page__content .container .content table td {
   border-left-width: 0;
@@ -1241,6 +1251,7 @@ button.global-accordion-collapse-all {
 }
 @media print {
   .quire-page__content .container .content #alai-kidd-appendix {
+    background-color: var(--sidebar-midtone);
     padding: 1rem;
     margin-top: 1rem;
   }
@@ -1269,4 +1280,7 @@ table.sahragard-table-01 img {
   #table-3-1 {
     margin-bottom: 1.5rem;
   }
+}
+#table-3-1 table td > em {
+  margin-left: -0.75rem;
 }
