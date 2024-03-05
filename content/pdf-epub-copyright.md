@@ -13,7 +13,7 @@ menu: false
 
 **Getty Research Journal** {.no-bottom-margin}
 
-The *Getty Research Journal* presents peer-reviewed articles on the visual arts of all cultures, regions, and time periods. Topics relate to Getty collections, initiatives, and broad research interests. The journal welcomes a diversity of perspectives and methodological approaches, and seeks to include work that expands narratives on global culture.
+{{ publication.description.full }}
 
 **Information for Scholars** {.no-bottom-margin}
 

@@ -98,8 +98,6 @@ GRJ@getty.edu.
 
 ## {{ publication.title }}
 
-{{ publication.description.full | markdownify }}
-
 {% for link in publication.resource_link %}
 {% if link.type == "masthead" %}
 - [{{ link.name }}]({{ link.url }}) {.highlight-link}
