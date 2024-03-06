@@ -240,6 +240,7 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 }
 .quire-page__header .hero-body {
   border-top: var(--border-width) solid var(--accent-color);
+  margin-bottom: .5rem;
   margin-left: var(--large-indent);
   margin-right: 0;
   padding: 0;
@@ -301,11 +302,14 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   text-indent: var(--large-indent);
 }
 @media print {
-  .quire-page__content .container .content > h2:first-child {
+  .quire-page__content .container .content > h2:first-child,
+  .quire-page__content .container .content .page-tools__copyright + h2 {
     margin-left: var(--large-indent);
   }
   .quire-page__content .container .content > h2:first-child + p,
-  .quire-page__content .container .content > p:first-child {
+  .quire-page__content .container .content > p:first-child,
+  .quire-page__content .container .content .page-tools__copyright + h2 + p,
+  .quire-page__content .container .content .page-tools__copyright + p {
     text-indent: var(--large-indent);
   }
 }
@@ -382,12 +386,15 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   }
   .page-tools__copyright {
     margin-left: var(--large-indent);
-    padding: 0.5rem 0;
+    padding: .25rem 0 .45rem;
     font-family: var(--quire-nav-font);
     font-size: var(--quire-nav-font-size);
     font-style: italic;
-    border-bottom: var(--border-width) solid var(--accent-color);
-    margin-bottom: .5rem;
+    border-bottom: var(--border-width) solid black;
+    border-top: var(--border-width) solid black;
+    margin-top: 1rem !important;
+    margin-bottom: -2.25rem !important;
+    -prince-float: bottom;
   }
 }
 
