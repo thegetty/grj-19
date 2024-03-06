@@ -33,7 +33,6 @@ module.exports = function(eleventyConfig) {
           <h6>${title}</h6>
           <div>
             ${linkList({ links: mastheadLinks, classes: ['menu-list'] })}
-            <p>${markdownify(description.full)}</p>
             <p class="small-caps--lowercase">ISSN: ${identifier.issn}<br />
             E-ISSN: ${identifier.e_issn}</p>
           </div>

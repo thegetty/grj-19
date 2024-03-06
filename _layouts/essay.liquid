@@ -25,6 +25,11 @@ description: Essay layout. This layout describes a single-page template that has
 <section class="section quire-page__content">
   <div class="container">
     <div class="content">
+      {% if copyright %}
+      <section class="quire-page__content page-tools__copyright" data-outputs-exclude="html">
+      {{ copyright | markdownify }}
+      </section>
+      {% endif %}
       {{ content }}
       {% bibliography citations %}
     </div>
