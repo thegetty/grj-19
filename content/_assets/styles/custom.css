@@ -432,11 +432,6 @@ strong {
 .quire-page h2 em {
   font-style: normal;
 }
-@media print {
-  .quire-page__content .content h2 {
-    margin-bottom: 0;
-  }
-}
 .quire-page h3 {
   font-size: 1rem;
   line-height: 1.57;
@@ -444,6 +439,11 @@ strong {
   font-style: normal;
   font-weight: 600;
   margin-bottom: 0;
+  margin-left: var(--standard-indent);
+}
+.quire-page blockquote h3,
+.quire-page .revision-history h3 {
+  margin-left: 0;
 }
 .quire-page h4 {
   font-size: 1rem;
@@ -451,6 +451,12 @@ strong {
   font-family: var(--skolar-sans);
   font-weight: 400;
   margin-bottom: 0;
+}
+@media print {
+  .quire-page__content .content h2,
+  .quire-page__content .content h3 {
+    margin-bottom: 0;
+  }
 }
 
 /* BLOCKQUOTES
@@ -1231,6 +1237,7 @@ button.global-accordion-collapse-all {
 .quire-page #alai-kidd-appendix h3 {
   margin-bottom: 1.35rem;
   margin-top: 0;
+  margin-left: 0;
 }
 .quire-page #alai-kidd-appendix h4 {
   margin-bottom: .65rem;
