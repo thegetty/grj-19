@@ -20,7 +20,7 @@ menu: false
 All manuscripts in this issue were peer reviewed through a double-masked process in which the identities of the authors and reviewers remained anonymous.
 
 To submit a manuscript, please visit
-[grj.scholasticahq.com](https://grj.scholasticahq.com) 
+[grj.scholasticahq.com](https://grj.scholasticahq.com).
 General inquiries may be sent to 
 GRJ@getty.edu.
 
