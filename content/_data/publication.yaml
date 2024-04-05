@@ -107,17 +107,17 @@ resource_link:
     name: PDF (5.2 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /_assets/downloads/grj-19.pdf
+    url: /_assets/downloads/getty-research-journal-19.pdf
   - type: other-format
     name: EPUB (41.4 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /_assets/downloads/grj-19.epub
+    url: /_assets/downloads/getty-research-journal-19.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/#
+    url: https://shop.getty.edu/products/getty-research-journal-no-19-978-1606068953
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
@@ -127,14 +127,11 @@ resource_link:
     link_relation: terms-of-service
     url: https://www.getty.edu/legal/copyright.html
   - type: masthead
-    name: Current and Past Issues
-    url: https://www.getty.edu/publications/grj/
+    name: All Issues
+    url: https://www.getty.edu/publications/getty-research-journal/
   - type: masthead
-    name: Submission Guidelines
-    url: https://www.getty.edu/publications/grj/authors/
-  - type: masthead
-    name: About
-    url: https://www.getty.edu/publications/grj/about/
+    name: Submissions
+    url: https://grj.scholasticahq.com/for-authors
   
   
 
