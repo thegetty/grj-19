@@ -9,6 +9,7 @@ contributor:
     last_name: Chon
 copyright: "<span data-outputs-exclude='html'>Getty Research Journal, no. 19 (2024): 1–2 </span>© 2024 J. Paul Getty Trust"
 doi: https://doi.org/10.59491/EGSA3518
+pdf_download: true
 ---
 
 The publication of this inaugural open-access issue of the *Getty Research Journal* signals a vitally important shift in the publication’s fifteen-year history. Founded in 2009 by Getty Research Institute (GRI) director Thomas Gaehtgens to publish original research emerging from the collections and activities of the GRI, J. Paul Getty Museum, Getty Foundation, and Getty Conservation Institute, the *Getty Research Journal* was offered in print with a digital complement. The latter was initially available as a download from the GRI’s website. Digital editions of entire issues were later accessible via JSTOR. Since 2015, the journal has been available in both print and electronic formats by subscription through the University of Chicago Press.
