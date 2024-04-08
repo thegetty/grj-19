@@ -11,7 +11,7 @@
     <div class="content">
       {% if pdf_download %} 
       <div id='#section-download'>
-        <a href="#">PDF {% icon type="download", description="Download the PDF" %}</a>
+        <a href="/_assets/downloads/{{ config.pdf.filename }}{{ page.filePathStem | replace: "/", "-" }}.pdf">PDF {% icon type="download", description="Download the PDF" %}</a>
       </div>
       {% endif %}
       {% if abstract %}

@@ -52,6 +52,9 @@ navigation:
 pageTitle:
   labelDivider: '. '
 
+pdf:
+  filename: getty-research-journal-19
+
 ref:
   sequenceTransition: 30
 
