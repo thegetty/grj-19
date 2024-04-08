@@ -11,7 +11,7 @@ accordion:
 analytics:
   googleId: ''
 
-bylineFormat: name-title # name | name-title | false
+bylineFormat: string # name | name-title | false
 
 bibliography:
   displayOnPage: true
@@ -27,7 +27,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -51,6 +51,9 @@ navigation:
 
 pageTitle:
   labelDivider: '. '
+
+pdf:
+  filename: getty-research-journal-19
 
 ref:
   sequenceTransition: 30

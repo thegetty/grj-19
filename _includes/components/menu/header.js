@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Adds series number and year to menu header for journal publication
+// Adds download links to header area
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -12,7 +17,10 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const siteTitle = eleventyConfig.getFilter('siteTitle')
-  const { contributor: publicationContributors, contributor_as_it_appears } = eleventyConfig.globalData.publication
+  const { contributor: publicationContributors, contributor_as_it_appears, identifier, resource_link: resourceLinks, series_issue_number, pub_date } = eleventyConfig.globalData.publication
+
+  const linkList = eleventyConfig.getFilter('linkList')
+  const otherFormats = resourceLinks.filter(({ type }) => type === 'other-format')
 
   return function(params) {
     const { currentURL } = params
@@ -21,14 +29,25 @@ module.exports = function(eleventyConfig) {
     const homePageLinkOpenTag = isHomePage ? '' : `<a class="quire-menu__header__title-link" href="/">`
     const homePageLinkCloseTag = isHomePage ? '' : `</a>`
 
+    const pubYear = pub_date.getFullYear()
+    const issueContent = `Number ${series_issue_number} • ${pubYear}`
+
     const contributorContent = contributor_as_it_appears || contributors({ context: publicationContributors, format: 'string', type: 'primary' })
 
     const contributorElement = contributorContent
       ? `<span class="visually-hidden">Contributors: </span>${contributorContent}`
       : ''
+    
+    const linkList = eleventyConfig.getFilter('linkList')
+    const otherFormats = resourceLinks.filter(({ type }) => type === 'other-format')
+    
+    const otherFormatElement = otherFormats.length
+      ? html`${linkList({ links: otherFormats, classes: ['menu-list'] })}`
+      : ''
 
     return html`
       <header class="quire-menu__header">
+        <div class="quire-menu__header-wrapper">
         ${homePageLinkOpenTag}
           <h4 class="quire-menu__header__title">
             <span class="visually-hidden">Site Title: </span>
@@ -36,9 +55,16 @@ module.exports = function(eleventyConfig) {
           </h4>
         ${homePageLinkCloseTag}
 
-        <div class="quire-menu__header__contributors">
-          ${contributorElement}
+        <div class="quire-menu__header__issue-info">
+          ${issueContent}
         </div>
+        </div>
+
+        <div class="quire-menu__header__formats" role="complementary" aria-label="downloads">
+          ${otherFormatElement}
+          <a class="quire-menu__header__doi-link" href="${identifier.doi}">${identifier.doi}</a>
+        </div>
+        
       </header>
     `
   }

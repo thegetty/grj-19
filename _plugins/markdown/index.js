@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Changed allowedAttributes on elements to allow any attribute, line 40
+//
 const MarkdownIt = require('markdown-it')
 const anchorsPlugin = require('markdown-it-anchor')
 const attributesPlugin = require('markdown-it-attrs')
@@ -33,7 +37,7 @@ module.exports = function(eleventyConfig, options) {
    * @see https://github.com/arve0/markdown-it-attrs#usage
    */
   const attributesOptions = {
-    allowedAttributes: ['class', 'id', 'target'],
+    allowedAttributes: [],
     leftDelimiter: '{',
     rightDelimiter: '}'
   }
