@@ -1282,6 +1282,9 @@ table.sahragard-table-01 tbody td {
   width: 6%;
   max-width: 120px;
 }
+.q-lightbox-slides__element table.sahragard-table-01 tbody td {
+  max-width: none;
+}
 table.sahragard-table-01 tbody td:first-child {
   width: initial;
 }
