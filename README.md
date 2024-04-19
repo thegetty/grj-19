@@ -78,6 +78,10 @@ TK
 
 ### Customizations
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/figure/image/element.js**
 **_includes/components/figure/image/html.js**
 **_includes/components/figure/image/image-tag.js**
