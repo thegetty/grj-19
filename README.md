@@ -108,7 +108,7 @@ Added series number and year to menu header for journal publication, uses added 
 Added download links to header area
 
 **_includes/components/menu/item.js**
-Display subtitles and contributors in sidebar menu
+Display subtitles and contributors in sidebar menu; and don't link to section landing pages marked as `menu_link: false`
 
 **_includes/components/menu/resources.js**
 Add block for journal masthead info, and classes to others for css selecting
@@ -124,7 +124,7 @@ Wrapped nav labels in missing span to enable hiding on mobile
 Add section name (based on directory) above article title and add elements for PDF footers
 
 **_includes/components/table-of-contents/item/list.js**
-Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, and this let to straight apostrophes being processed when we didn't want them to be.
+Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, and this let to straight apostrophes being processed when we didn't want them to be. And don't link to section landing pages marked as `toc_link: false`.
 
 **_includes/page-tools.liquid**
 **_layouts/essay.liquid**
@@ -142,6 +142,9 @@ Refactored logic to handle oxford commas correctly
 
 **_plugins/shortcodes/figureGroup.js**
 Added caption and class parameters that can be fed in from shortcode; and simplified HTML markup to remove rows
+
+**content/_computed/eleventyComputed.js**
+Changed pagination so next/prev pages can be overridden on individual pages; and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
 
 ## License
 

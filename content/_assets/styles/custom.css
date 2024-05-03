@@ -780,12 +780,17 @@ summary::-webkit-details-marker {
 .quire-contents-list .menu-list .section-item {
   margin-top: 4rem;
 }
-.quire-contents-list .menu-list .section-item > a:first-child {
+.quire-contents-list .menu-list .section-item > a:first-child,
+.quire-contents-list .menu-list .section-item > span.no-landing {
   border-top: var(--border-width) solid var(--accent-color);
   color: var(--accent-color);
   text-transform: uppercase;
   letter-spacing: .5px;
   padding-top: 1.25rem;
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.57;
 }
 .quire-contents-list .menu-list .section-item ol a {
   border-bottom-width: 0;
@@ -921,7 +926,8 @@ summary::-webkit-details-marker {
   margin-left: 0;
   padding-left: 0;
 }
-.quire-menu .section-item > a:first-child {
+.quire-menu .section-item > a:first-child,
+.quire-menu .section-item > span.no-landing  {
   text-transform: uppercase;
   border-top: var(--border-width) solid var(--accent-color-highlight);
   padding-top: .625rem;
@@ -929,6 +935,7 @@ summary::-webkit-details-marker {
   color: var(--accent-color-highlight) !important;
   font-weight: 600;
   letter-spacing: .5px;
+  display: block;
 }
 .quire-menu__formats--related-resources,
 .quire-menu__formats--other-formats,

@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Changed pagination so next/prev pages can be overridden on individual pages
+// and added menu_link and toc_link properties, so items in menus and toc can appear without a link to the page
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -25,12 +30,14 @@ module.exports = {
         image: data.image,
         label: data.label,
         layout: data.layout,
+        menu_link: data.menu_link,
         object: data.object,
         order: data.order,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
-        title: data.title
+        title: data.title,
+        toc_link: data.toc_link
       }
     },
     key: (data) => data.key,
@@ -121,13 +128,28 @@ module.exports = {
     if (!page || !collections.navigation.length) return {}
     const currentPageIndex = collections.navigation
       .findIndex(({ url }) => url === page.url)
+
     if (currentPageIndex === -1) return {}
+
+    // Check if the page has an override for the its next/prev nav partners
+    let previousPage = collections.navigation[currentPageIndex - 1]
+    if ( collections.navigation[currentPageIndex].data.previousPage || collections.navigation[currentPageIndex].data.previousPage==="" ) {
+      const previousPageUrl = collections.navigation[currentPageIndex].data.previousPage
+      previousPage = collections.navigation.find(({ url }) => url === previousPageUrl) 
+    }
+
+    let nextPage = collections.navigation[currentPageIndex + 1]
+    if ( collections.navigation[currentPageIndex].data.nextPage || collections.navigation[currentPageIndex].data.nextPage==="" ) {
+      const nextPageUrl = collections.navigation[currentPageIndex].data.nextPage
+      nextPage = collections.navigation.find(({ url }) => url === nextPageUrl) 
+    }
+
     return {
       currentPage: collections.navigation[currentPageIndex],
       currentPageIndex,
       percentProgress: 100 * (currentPageIndex + 1) / collections.navigation.length,
-      nextPage: collections.navigation[currentPageIndex + 1],
-      previousPage: collections.navigation[currentPageIndex - 1]
+      nextPage,
+      previousPage
     }
   },
   /**

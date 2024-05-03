@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Removed markdownify processing from pageTitleElement as it was already being markdownified elsewhere, line 69
+// Don't link to section landing pages marked as `toc_link: false`
 //
 const { html, oneLine } = require('~lib/common-tags')
 
@@ -39,14 +40,16 @@ module.exports = function (eleventyConfig) {
       short_title,
       subtitle,
       summary,
-      title
+      title,
+      toc_link: tocLink
     } = page.data
 
     /**
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = !!layout
+    // const isPage = !!layout
+    const isPage = tocLink == false ? false : true
 
     const pageContributorsElement = pageContributors
       ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
@@ -71,7 +74,7 @@ module.exports = function (eleventyConfig) {
     if (isPage) {
       mainElement = `<a href="${page.url}">${mainElement}</a>`
     } else {
-      classes.push('no-landing')
+      mainElement = `<span class="no-landing">${mainElement}</span>`
     }
 
     return html`

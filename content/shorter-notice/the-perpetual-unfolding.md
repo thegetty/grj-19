@@ -13,6 +13,7 @@ abstract: "This article examines a panoramic photograph of the Brazilian city of
 keywords: "panoramic photography, Rodolpho Lindemann, Brazilian landscape, Brazil, authorship, nineteenth century"
 doi: https://doi.org/10.59491/VUPK7286
 pdf_download: true
+previousPage: '/overthrowing-reality/'
 ---
 
 ## Introduction

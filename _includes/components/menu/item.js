@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Display subtitles and contributors in sidebar menu
+// Don't link to section landing pages marked as `menu_link: false`
 //
 /**
  * Renders a menu item
@@ -19,7 +20,7 @@ module.exports = function(eleventyConfig) {
   return function(params) {
     const { currentURL, page } = params
     const { data, url } = page
-    const { contributor: pageContributors, label, layout, subtitle, title } = data
+    const { contributor: pageContributors, label, layout, menu_link: menuLink, subtitle, title } = data
 
     const titleText = pageTitle({ label, subtitle, title })
 
@@ -31,9 +32,10 @@ module.exports = function(eleventyConfig) {
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
-    const isPage = !!layout
+    // const isPage = !!layout
+    const isPage = menuLink == false ? false : true
     return isPage
       ? `<a href="${url}" class="${currentURL === url ? 'active' : ''}">${titleText}${contributorText}</a>`
-      : titleText
+      : `<span class="no-landing">${titleText}</span>`
   }
 }

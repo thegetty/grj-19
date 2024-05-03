@@ -16,6 +16,7 @@ abstract: "In the 1980s, the youngest generation of artists to have been raised 
 keywords: "avant-garde, experimental photography and poetry, East Germany, independent presses, intermediality, artists’ books"
 doi: https://doi.org/10.59491/ZUEW3338
 pdf_download: true
+nextPage: '/shorter-notice/the-perpetual-unfolding/'
 ---
 
 ## Introduction: Intermediality in German Democratic Republic Samizdat
