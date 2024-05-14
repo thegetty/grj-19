@@ -18,6 +18,11 @@
 
   --border-width: 1px;
 }
+@media screen and (max-width: 700px) {
+  :root {
+    --large-indent: 2rem;
+  }
+}
 @media print {
   :root {
     --border-width: .5pt;
@@ -284,6 +289,20 @@ Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
   .quire-page__content .container .content .page-tools__copyright + h2 + p,
   .quire-page__content .container .content .page-tools__copyright + p {
     text-indent: var(--large-indent);
+  }
+}
+@media screen and (max-width:700px) {
+  .quire-page__header {
+    width: auto;
+  }
+}
+@media screen and (max-width: 500px) {
+  .quire-page__header {
+    padding: 1.5rem 1.25rem;
+  }
+  .quire-page h1, .quire-page__header__title {
+    font-size: 1.9rem;
+    line-height: 1.2;
   }
 }
 
