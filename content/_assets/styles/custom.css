@@ -37,33 +37,6 @@ Captions & Notes        Skolar Sans PE     Light            8pt/11pt
 Captions & Notes Bold   Skolar Sans PE     Semibold         8pt/11pt
 */
 
-/* Temporary "UNCORRECTED PROOF" Banner */
-@media screen {
-  .quire::before,
-  .quire::after {
-    color: black;
-    font-weight: 700;
-    position: fixed;
-    width: 230px;
-    height: 230px;
-    z-index: 4000;
-    transform: rotate(-45deg);
-    text-align: center;
-    padding-top: 1rem;
-  }
-  .quire::before {
-    content: "PRESS";
-    background-color: yellow;
-    bottom: -115px;
-    right: -115px;
-  }
-  .quire::after {
-    content: "PREVIEW";
-    bottom: -130px;
-    right: -130px;
-  }
-}
-
 /* UTILITY CLASSES
 ============================================================================= */
 .small-caps {
