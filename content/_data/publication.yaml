@@ -132,6 +132,9 @@ resource_link:
   - type: masthead
     name: Submissions
     url: https://grj.scholasticahq.com/for-authors
+  - type: masthead
+    name: New Issue Alerts
+    url: https://newsletters.getty.edu/h/t/499F6E66BD8D4883
   
   
 
