@@ -1300,3 +1300,8 @@ table.sahragard-table-01 img {
 #table-3-1 table td > em {
   margin-left: -0.75rem;
 }
+
+/* Fix too wide margins in TOC */
+.quire-contents .quire-page__content .container {
+    padding: 1rem 1rem;
+}
