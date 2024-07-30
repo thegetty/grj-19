@@ -1302,6 +1302,8 @@ table.sahragard-table-01 img {
 }
 
 /* Fix too wide margins in TOC */
-.quire-contents .quire-page__content .container {
-    padding: 1rem 1rem;
+@media only screen and (max-width:767px) {
+  .quire-contents .quire-page__content .container {
+    padding: 1rem 0rem;
+  }
 }
