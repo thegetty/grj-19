@@ -1,7 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Add apple icon and configure as mobile app
-// Update and clean-up handling for social sharing
+// Update and clean-up handling for social sharing, remove noindex,nofollow tag
 //
 const path = require('path')
 /**
@@ -51,7 +51,6 @@ module.exports = function(eleventyConfig) {
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta name="robots" content="noindex, nofollow"/>
 
         <meta name="generator" content="${application.name} ${application.version}" />
 
