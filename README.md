@@ -1,14 +1,12 @@
-This is the repository for *Getty Research Journal, No. 19*. This issue of the journal was first published Month DD, YYYYY, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/grj/19/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Getty Research Journal, No. 19*. This issue of the journal was first published May 14, 2024, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/grj/19/ and may be downloaded there free of charge in PDF and EPUB formats.
 
-## About the Journal
-
-TK
+The [*Getty Research Journal*](https://www.getty.edu/publications/getty-research-journal/) presents peer-reviewed articles on the visual arts of all cultures, regions, and time periods. Topics often relate to Getty collections, initiatives, and broad research interests. The journal welcomes a diversity of perspectives and methodological approaches, and seeks to include work that expands narratives on global culture. 
 
 ## Using this Repository
 
-This is one in series of multiformat publications using [Quire](http://quire.getty.edu)™, Getty’s multiformat publishing tool. 
+This publication was created using [Quire](http://quire.getty.edu)™, a free and open-source multiformat publishing tool from Getty.
 
-We are dedicated to maintaining this publication for years to come at the permanent URL, https://www.getty.edu/publications/grj/19/, and in its various formats and incarnations. For any updates to the journal, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the journal’s many formats.
+We are dedicated to maintaining this publication for years to come at the permanent URL, https://www.getty.edu/publications/grj/19/, and in its PDF and EPUB formats. Any post-publication updates to the journal will be made as formal revisions, and thoroughly documented here in the repository as well as in an itemized list in the online edition.
 
 The primary content pieces of the journal can be found in the `content` directory. The `main` branch represents the current, published edition at all times, and the `revisions` branch, when present, will show changes currently under consideration. We invite you to submit suggestions or corrections via pull request on the revisions branch, by posting an issue, or by emailing us at [pubsinfo@getty.edu](mailto:pubsinfo@getty.edu).
 
@@ -30,7 +28,7 @@ This project was last built with the following software versions:
 
 ### Figure Images Submodule
 
-Many of figure images for *Getty Research Journal, No. 19* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/grj-19-images/, which is linked to this main publication repository as a submodule in `content/_assets/images/figures/`. When cloning this repo for further development, you’ll permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
+Many of figure images for *Getty Research Journal, No. 19* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/grj-19-images/, which is linked to this main publication repository as a submodule in `content/_assets/images/figures/`. When cloning this repo for further development, you’ll need permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
 
 ```
 git clone --recursive https://github.com/thegetty/grj-19.git
@@ -46,13 +44,13 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 4. Run `npm install` to install the project dependencies (this just needs to be done once when first cloning the project, or whenever the core template/code files are updated)
 
-5. Change the `url` in `content/_data/publication.yaml` to `http://localhost:8080/`
+5. Temporarily change the `url` in `content/_data/publication.yaml` to `http://localhost:8080/`
 
 6. See the preview with `quire preview`
 
 ### Creating a PDF Version
 
-1. Switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
 2. Run `quire build`
 
@@ -74,7 +72,13 @@ git clone --recursive https://github.com/thegetty/grj-19.git
 
 ### Creating an EPUB Version
 
-TK
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+3. Run `quire epub`
+
+Run the resulting file through epubcheck-5.0.0 and Ace by DAISY accessibility checker to ensure there aren't any validation or accessibility errors or warnings.
 
 ### Customizations
 
@@ -148,4 +152,10 @@ Changed pagination so next/prev pages can be overridden on individual pages; and
 
 ## License
 
+© 2024 J. Paul Getty Trust
+
+The text of this work is licensed under a [Creative Commons Attribution‑NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights. 
+
 This publication uses [Skolar PE](https://rosettatype.com/SkolarPE) and [Skolar Sans PE](https://rosettatype.com/SkolarSansPE), designed by David Březina and © Rosetta Type Foundry s.r.o. The Typekit service used to deliver these fonts is provided specifically for this project by Adobe and is subject to their [Terms of Use](http://www.adobe.com/products/eulas/tou_typekit). © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+
+This publication was created using [Quire](http://quire.getty.edu)™, a free and open-source multiformat publishing tool from Getty that available under a [BSD 3-Clause](https://github.com/thegetty/quire/blob/main/LICENSE) license.
